@@ -1,0 +1,63 @@
+{
+	"credit": "Made with Blockbench, by Christopher for use by Valence Group Inc.",
+	"textures": {
+		"1": "valence:weapon/hammer/wood"
+	},
+	"elements": [
+		{
+			"from": [7.5, 8, 7.5],
+			"to": [8.75, 19, 8.75],
+			"faces": {
+				"north": {"uv": [0, 0.16667, 3.66667, 4.33333], "texture": "#1"},
+				"east": {"uv": [3.66667, 4.33333, 0, 0.16667], "texture": "#1"},
+				"south": {"uv": [0, 4.33333, 3.66667, 0.16667], "texture": "#1"},
+				"west": {"uv": [13.33333, 4.5, 16, 0], "texture": "#1"},
+				"up": {"uv": [0, 6.33333, 2.33333, 0.16667], "texture": "#1"},
+				"down": {"uv": [4.33333, 4.16667, 0.66667, 0], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6.5, 15.25, 5],
+			"to": [9.75, 18.25, 11.25],
+			"faces": {
+				"north": {"uv": [0, 0, 8.08333, 2.5], "texture": "#1"},
+				"east": {"uv": [4.08333, 11.5, 0, 4.16667], "texture": "#1"},
+				"south": {"uv": [4.08333, 3.66667, 11.91667, 12.33333], "texture": "#1"},
+				"west": {"uv": [0, 5, 4.25, 13.66667], "texture": "#1"},
+				"up": {"uv": [4.66667, 0, 12.41667, 3.83333], "texture": "#1"},
+				"down": {"uv": [3.75, 0, 14, 5], "rotation": 180, "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-180, 3.87, -177.58],
+			"translation": [0, -2.25, -0.25],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [1, -180, 1],
+			"translation": [0.75, -2, 0],
+			"scale": [0.78, 0.78, 0.78]
+		},
+		"firstperson_lefthand": {
+			"rotation": [1, -180, 1],
+			"translation": [0.75, -2, 0],
+			"scale": [0.78, 0.78, 0.78]
+		},
+		"ground": {
+			"rotation": [3.38, -18.33, -86.16],
+			"scale": [0.58, 0.58, 0.58]
+		},
+		"gui": {
+			"rotation": [-32, -35, -42],
+			"translation": [-4.5, -7.25, 0],
+			"scale": [1.28, 1.28, 1.28]
+		},
+		"fixed": {
+			"rotation": [173.5, -89, -180],
+			"translation": [0, -7.75, -0.25],
+			"scale": [1.68, 1.68, 1.68]
+		}
+	}
+}

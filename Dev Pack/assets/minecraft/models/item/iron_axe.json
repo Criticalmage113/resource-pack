@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+      "layer0": "minecraft:item/iron_axe"
+    },
+  
+  
+    "overrides": [
+      {"predicate": {"custom_model_data": 1}, "model": "valence:weapon/axe/bronze"},
+      {"predicate": {"custom_model_data": 2}, "model": "valence:weapon/axe/steel"},
+
+      {"predicate": {"custom_model_data": 501}, "model": "valence:weapon/hammer/steel"}
+    ]
+  }
