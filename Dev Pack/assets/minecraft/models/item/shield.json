@@ -48,8 +48,8 @@
             },
             "model": "item/shield_blocking"
         },
-      {"predicate": {"custom_model_data": 14038}, "model": "valence:customcontent/sheen_shield"},
-      {"predicate": {"custom_model_data": 14039}, "model": "valence:customcontent/lunar_shield"},
-      {"predicate": {"custom_model_data": 14040}, "model": "valence:customcontent/aegis_shield"}
+      {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/sheen_shield"},
+      {"predicate": {"custom_model_data": 14002}, "model": "valence:customcontent/lunar_shield"},
+      {"predicate": {"custom_model_data": 14003}, "model": "valence:customcontent/aegis_shield"}
     ]
   }

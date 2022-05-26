@@ -4,12 +4,12 @@
       "layer0": "minecraft:item/stick"
     },
     "overrides": [
-      {"predicate": {"custom_model_data": 14009}, "model": "valence:customcontent/vampire_staff"},
-      {"predicate": {"custom_model_data": 14012}, "model": "valence:customcontent/crystaline_eye"},
-      {"predicate": {"custom_model_data": 14021}, "model": "valence:customcontent/dregzal_staff"},
-      {"predicate": {"custom_model_data": 14023}, "model": "valence:customcontent/wanderer_staff"},
-      {"predicate": {"custom_model_data": 14029}, "model": "valence:customcontent/mushroom_staff"},
-      {"predicate": {"custom_model_data": 14041}, "model": "valence:customcontent/sanaquas_rune"},
-      {"predicate": {"custom_model_data": 14042}, "model": "valence:customcontent/uchida_cane"}
+      {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/vampire_staff"},
+      {"predicate": {"custom_model_data": 14002}, "model": "valence:customcontent/crystaline_eye"},
+      {"predicate": {"custom_model_data": 14003}, "model": "valence:customcontent/dregzal_staff"},
+      {"predicate": {"custom_model_data": 14004}, "model": "valence:customcontent/wanderer_staff"},
+      {"predicate": {"custom_model_data": 14005}, "model": "valence:customcontent/mushroom_staff"},
+      {"predicate": {"custom_model_data": 14006}, "model": "valence:customcontent/sanaquas_rune"},
+      {"predicate": {"custom_model_data": 14007}, "model": "valence:customcontent/uchida_cane"}
     ]
   }

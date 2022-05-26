@@ -4,13 +4,13 @@
       "layer0": "minecraft:item/feather"
     },
     "overrides": [
-      {"predicate": {"custom_model_data": 14030}, "model": "valence:customcontent/chroma_horns"},
-      {"predicate": {"custom_model_data": 14031}, "model": "valence:customcontent/primal_skull"},
-      {"predicate": {"custom_model_data": 14032}, "model": "valence:customcontent/naomi_tiara"},
-      {"predicate": {"custom_model_data": 14033}, "model": "valence:customcontent/gyro_helmet"},
-      {"predicate": {"custom_model_data": 14034}, "model": "valence:customcontent/deep_seeker_helm"},
-      {"predicate": {"custom_model_data": 14035}, "model": "valence:customcontent/sheen_helm"},
-      {"predicate": {"custom_model_data": 14036}, "model": "valence:customcontent/dovah"},
-      {"predicate": {"custom_model_data": 14037}, "model": "valence:customcontent/entrepreneur"}
+      {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/chroma_horns"},
+      {"predicate": {"custom_model_data": 14002}, "model": "valence:customcontent/primal_skull"},
+      {"predicate": {"custom_model_data": 14003}, "model": "valence:customcontent/naomi_tiara"},
+      {"predicate": {"custom_model_data": 14004}, "model": "valence:customcontent/gyro_helmet"},
+      {"predicate": {"custom_model_data": 14005}, "model": "valence:customcontent/deep_seeker_helm"},
+      {"predicate": {"custom_model_data": 14006}, "model": "valence:customcontent/sheen_helm"},
+      {"predicate": {"custom_model_data": 14007}, "model": "valence:customcontent/dovah"},
+      {"predicate": {"custom_model_data": 14008}, "model": "valence:customcontent/entrepreneur"}
     ]
   }

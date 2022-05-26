@@ -14,20 +14,20 @@
     {"predicate": {"custom_model_data": 8}, "model": "valence:weapon/great_sword/silver"},
 
 
-    {"predicate": {"custom_model_data": 14003}, "model": "valence:customcontent/cthonic_reaper"},
-    {"predicate": {"custom_model_data": 14005}, "model": "valence:customcontent/sheen_sword"},
-    {"predicate": {"custom_model_data": 14006}, "model": "valence:customcontent/vilthang_scythe"},
-    {"predicate": {"custom_model_data": 14007}, "model": "valence:customcontent/gyro_sword"},
-    {"predicate": {"custom_model_data": 14008}, "model": "valence:customcontent/baytrident"},
-    {"predicate": {"custom_model_data": 14013}, "model": "valence:customcontent/lithe_blade"},
-    {"predicate": {"custom_model_data": 14014}, "model": "valence:customcontent/uldren_revolver"},
-    {"predicate": {"custom_model_data": 14015}, "model": "valence:customcontent/solar_spear"},
-    {"predicate": {"custom_model_data": 14016}, "model": "valence:customcontent/chosen_hand_trident"},
-    {"predicate": {"custom_model_data": 14018}, "model": "valence:customcontent/naomi_gun"},
-    {"predicate": {"custom_model_data": 14022}, "model": "valence:customcontent/peony_blade"},
-    {"predicate": {"custom_model_data": 14024}, "model": "valence:customcontent/crystal_rose"},
-    {"predicate": {"custom_model_data": 14025}, "model": "valence:customcontent/violin"},
-    {"predicate": {"custom_model_data": 14026}, "model": "valence:customcontent/crescent_boneblade"},
-    {"predicate": {"custom_model_data": 14027}, "model": "valence:customcontent/vilthang_sword"}
+    {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/cthonic_reaper"},
+    {"predicate": {"custom_model_data": 14002}, "model": "valence:customcontent/sheen_sword"},
+    {"predicate": {"custom_model_data": 14003}, "model": "valence:customcontent/vilthang_scythe"},
+    {"predicate": {"custom_model_data": 14004}, "model": "valence:customcontent/gyro_sword"},
+    {"predicate": {"custom_model_data": 14005}, "model": "valence:customcontent/baytrident"},
+    {"predicate": {"custom_model_data": 14006}, "model": "valence:customcontent/lithe_blade"},
+    {"predicate": {"custom_model_data": 14007}, "model": "valence:customcontent/uldren_revolver"},
+    {"predicate": {"custom_model_data": 14008}, "model": "valence:customcontent/solar_spear"},
+    {"predicate": {"custom_model_data": 14009}, "model": "valence:customcontent/chosen_hand_trident"},
+    {"predicate": {"custom_model_data": 14010}, "model": "valence:customcontent/naomi_gun"},
+    {"predicate": {"custom_model_data": 14011}, "model": "valence:customcontent/peony_blade"},
+    {"predicate": {"custom_model_data": 14012}, "model": "valence:customcontent/crystal_rose"},
+    {"predicate": {"custom_model_data": 14013}, "model": "valence:customcontent/violin"},
+    {"predicate": {"custom_model_data": 14014}, "model": "valence:customcontent/crescent_boneblade"},
+    {"predicate": {"custom_model_data": 14015}, "model": "valence:customcontent/vilthang_sword"}
   ]
 }
