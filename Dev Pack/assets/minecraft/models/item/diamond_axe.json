@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_axe"
+  },
+    "overrides": [
+        {"predicate": {"custom_model_data": 14004}, "model": "valence:customcontent/doc_hammer"},
+        {"predicate": {"custom_model_data": 14010}, "model": "valence:customcontent/downfall_axe"},
+        {"predicate": {"custom_model_data": 14017}, "model": "valence:customcontent/naomi_mace"},
+        {"predicate": {"custom_model_data": 14019}, "model": "valence:customcontent/naomi_axe"},
+        {"predicate": {"custom_model_data": 14028}, "model": "valence:customcontent/blood_axe"}
+    ]
+}

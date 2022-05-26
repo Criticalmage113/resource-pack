@@ -3,30 +3,31 @@
   "textures": {
     "layer0": "minecraft:item/diamond_sword"
   },
-
-
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "valence:customcontent/violin"},
-    {"predicate": {"custom_model_data": 2}, "model": "valence:customcontent/vilthang_sword"},
-    {"predicate": {"custom_model_data": 3}, "model": "valence:weapon/spear/iron"},
+    {"predicate": {"custom_model_data": 1}, "model": "valence:weapon/spear/iron"},
+    {"predicate": {"custom_model_data": 2}, "model": "valence:weapon/short_sword/silver"},
+    {"predicate": {"custom_model_data": 3}, "model": "valence:weapon/hammer/iron"},
+    {"predicate": {"custom_model_data": 4}, "model": "valence:weapon/hammer/wood"},
+    {"predicate": {"custom_model_data": 5}, "model": "valence:weapon/mace/steel"},
+    {"predicate": {"custom_model_data": 6}, "model": "valence:weapon/long_sword/steel"},
+    {"predicate": {"custom_model_data": 7}, "model": "valence:weapon/sai/crimson"},
+    {"predicate": {"custom_model_data": 8}, "model": "valence:weapon/great_sword/silver"},
 
 
-    {"predicate": {"custom_model_data": 4}, "model": "valence:weapon/short_sword/silver"},
-
-
-    {"predicate": {"custom_model_data": 5}, "model": "valence:weapon/hammer/iron"},
-    {"predicate": {"custom_model_data": 6}, "model": "valence:weapon/hammer/wood"},
-
-
-
-    {"predicate": {"custom_model_data": 7}, "model": "valence:weapon/mace/steel"},
-
-
-    {"predicate": {"custom_model_data": 8}, "model": "valence:weapon/long_sword/steel"},
-
-
-    {"predicate": {"custom_model_data": 9}, "model": "valence:weapon/sai/crimson"},
-    {"predicate": {"custom_model_data": 10}, "model": "valence:weapon/great_sword/silver"},
-    {"predicate": {"custom_model_data": 11}, "model": "valence:customcontent/crescent_boneblade"}
+    {"predicate": {"custom_model_data": 14003}, "model": "valence:customcontent/cthonic_reaper"},
+    {"predicate": {"custom_model_data": 14005}, "model": "valence:customcontent/sheen_sword"},
+    {"predicate": {"custom_model_data": 14006}, "model": "valence:customcontent/vilthang_scythe"},
+    {"predicate": {"custom_model_data": 14007}, "model": "valence:customcontent/gyro_sword"},
+    {"predicate": {"custom_model_data": 14008}, "model": "valence:customcontent/baytrident"},
+    {"predicate": {"custom_model_data": 14013}, "model": "valence:customcontent/lithe_blade"},
+    {"predicate": {"custom_model_data": 14014}, "model": "valence:customcontent/uldren_revolver"},
+    {"predicate": {"custom_model_data": 14015}, "model": "valence:customcontent/solar_spear"},
+    {"predicate": {"custom_model_data": 14016}, "model": "valence:customcontent/chosen_hand_trident"},
+    {"predicate": {"custom_model_data": 14018}, "model": "valence:customcontent/naomi_gun"},
+    {"predicate": {"custom_model_data": 14022}, "model": "valence:customcontent/peony_blade"},
+    {"predicate": {"custom_model_data": 14024}, "model": "valence:customcontent/crystal_rose"},
+    {"predicate": {"custom_model_data": 14025}, "model": "valence:customcontent/violin"},
+    {"predicate": {"custom_model_data": 14026}, "model": "valence:customcontent/crescent_boneblade"},
+    {"predicate": {"custom_model_data": 14027}, "model": "valence:customcontent/vilthang_sword"}
   ]
 }

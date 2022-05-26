@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench, by Christopher for use by Valence Group Inc.",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "valence:customcontent/crescent_boneblade_texture",
-		"particle": "valence:customcontent/crescent_boneblade_texture"
+		"0": "valence:customcontent/crescent_boneblade",
+		"particle": "valence:customcontent/crescent_boneblade"
 	},
 	"elements": [
 		{
