@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/amethyst_shard"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 11801}, "model": "valence:gems/blackgem"},
+    {"predicate": {"custom_model_data": 11802}, "model": "valence:gems/bluegem"},
+    {"predicate": {"custom_model_data": 11803}, "model": "valence:gems/browngem"},
+    {"predicate": {"custom_model_data": 11804}, "model": "valence:gems/cyangem"},
+    {"predicate": {"custom_model_data": 11805}, "model": "valence:gems/greengem"},
+    {"predicate": {"custom_model_data": 11806}, "model": "valence:gems/orangegem"},
+    {"predicate": {"custom_model_data": 11807}, "model": "valence:gems/purplegem"},
+    {"predicate": {"custom_model_data": 11808}, "model": "valence:gems/redgem"},
+    {"predicate": {"custom_model_data": 11809}, "model": "valence:gems/whitegem"},
+    {"predicate": {"custom_model_data": 11810}, "model": "valence:gems/yellowgem"}
+
+  ]
+}
