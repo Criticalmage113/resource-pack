@@ -4,14 +4,30 @@
     "layer0": "minecraft:item/diamond_sword"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "valence:weapon/spear/iron"},
-    {"predicate": {"custom_model_data": 2}, "model": "valence:weapon/short_sword/silver"},
-    {"predicate": {"custom_model_data": 3}, "model": "valence:weapon/hammer/iron"},
-    {"predicate": {"custom_model_data": 4}, "model": "valence:weapon/hammer/wood"},
-    {"predicate": {"custom_model_data": 5}, "model": "valence:weapon/mace/steel"},
-    {"predicate": {"custom_model_data": 6}, "model": "valence:weapon/long_sword/steel"},
-    {"predicate": {"custom_model_data": 7}, "model": "valence:weapon/sai/crimson"},
-    {"predicate": {"custom_model_data": 8}, "model": "valence:weapon/great_sword/silver"},
+
+    {"predicate": {"custom_model_data": 1}, "model": "valence:weapon/sai/crimson"},
+    {"predicate": {"custom_model_data": 2}, "model": "valence:misc/kamaria_sword"},
+    {"predicate": {"custom_model_data": 3}, "model": "valence:misc/nieneedle"},
+    {"predicate": {"custom_model_data": 4}, "model": "valence:misc/prismarinesword"},
+
+
+    {"predicate": {"custom_model_data": 1001}, "model": "valence:weapon/long_sword/silver"},
+    {"predicate": {"custom_model_data": 1002}, "model": "valence:weapon/long_sword/iron"},
+    {"predicate": {"custom_model_data": 1003}, "model": "valence:weapon/long_sword/steel"},
+
+    {"predicate": {"custom_model_data": 1501}, "model": "valence:weapon/great_sword/iron"},
+    {"predicate": {"custom_model_data": 1502}, "model": "valence:weapon/great_sword/steel"},
+    {"predicate": {"custom_model_data": 1503}, "model": "valence:weapon/great_sword/silver"},
+    {"predicate": {"custom_model_data": 1504}, "model": "valence:weapon/great_sword/dragon_bone"},
+
+    {"predicate": {"custom_model_data": 2001}, "model": "valence:weapon/short_sword/stone"},
+    {"predicate": {"custom_model_data": 2002}, "model": "valence:weapon/short_sword/silver"},
+
+    {"predicate": {"custom_model_data": 2501}, "model": "valence:weapon/spear/iron"},
+    {"predicate": {"custom_model_data": 2502}, "model": "valence:weapon/spear/acolyte"},
+    {"predicate": {"custom_model_data": 2503}, "model": "valence:weapon/spear/exarch"},
+    {"predicate": {"custom_model_data": 2504}, "model": "valence:weapon/spear/icetrident"},
+    {"predicate": {"custom_model_data": 2505}, "model": "valence:weapon/spear/reachtri"},
 
 
     {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/cthonic_reaper"},
@@ -28,6 +44,8 @@
     {"predicate": {"custom_model_data": 14012}, "model": "valence:customcontent/crystal_rose"},
     {"predicate": {"custom_model_data": 14013}, "model": "valence:customcontent/violin"},
     {"predicate": {"custom_model_data": 14014}, "model": "valence:customcontent/crescent_boneblade"},
-    {"predicate": {"custom_model_data": 14015}, "model": "valence:customcontent/vilthang_sword"}
+    {"predicate": {"custom_model_data": 14015}, "model": "valence:customcontent/vilthang_sword"},
+    {"predicate": {"custom_model_data": 14016}, "model": "valence:customcontent/rifle_spear"},
+    {"predicate": {"custom_model_data": 14017}, "model": "valence:customcontent/crystaline_sword"}
   ]
 }

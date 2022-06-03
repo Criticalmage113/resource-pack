@@ -4,6 +4,9 @@
       "layer0": "minecraft:item/feather"
     },
     "overrides": [
+      {"predicate": {"custom_model_data": 12001}, "model": "valence:armor/hat/flatbrim"},
+
+      
       {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/chroma_horns"},
       {"predicate": {"custom_model_data": 14002}, "model": "valence:customcontent/primal_skull"},
       {"predicate": {"custom_model_data": 14003}, "model": "valence:customcontent/naomi_tiara"},
