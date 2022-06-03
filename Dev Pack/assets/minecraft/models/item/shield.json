@@ -49,7 +49,7 @@
       {"predicate": {"custom_model_data": 3}, "model": "valence:armor/shield/nieseat"},
       {"predicate": {"custom_model_data": 4}, "model": "valence:armor/shield/prismarine"},
 
-      {"predicate": {"custom_model_data": 10501}, "model": "valence:custom_content/sheen_shield"},
+      {"predicate": {"custom_model_data": 10501}, "model": "valence:customcontent/sheen_shield"},
       {"predicate": {"custom_model_data": 10502}, "model": "valence:customcontent/lunar_shield"},
       {"predicate": {"custom_model_data": 10503}, "model": "valence:customcontent/aegis_shield"}
     ]

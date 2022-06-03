@@ -12,7 +12,7 @@
 
 
     {"predicate": {"custom_model_data": 1001}, "model": "valence:weapon/long_sword/silver"},
-    {"predicate": {"custom_model_data": 1002}, "model": "valence:weapon/long_sword/iron"},
+    {"predicate": {"custom_model_data": 1002}, "model": "valence:weapon/long_sword/iron"}, 
     {"predicate": {"custom_model_data": 1003}, "model": "valence:weapon/long_sword/steel"},
 
     {"predicate": {"custom_model_data": 1501}, "model": "valence:weapon/great_sword/iron"},

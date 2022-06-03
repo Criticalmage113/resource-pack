@@ -1,10 +1,10 @@
 {
-	"credit": "Made with Blockbench, by William",
+	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "valence:customcontent/crystal_sword_texture_new",
-		"1": "valence:customcontent/New_Piskel_2",
-		"particle": "valence:customcontent/crystal_sword_texture_new"
+		"0": "valence:customcontent/crystaline_sword/crystal_sword",
+		"1": "valence:customcontent/crystaline_sword/crystal_sword_animation",
+		"particle": "valence:customcontent/crystaline_sword/crystal_sword_animation"
 	},
 	"elements": [
 		{
