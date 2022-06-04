@@ -28,7 +28,9 @@
     {"predicate": {"custom_model_data": 2503}, "model": "valence:weapon/spear/exarch"},
     {"predicate": {"custom_model_data": 2504}, "model": "valence:weapon/spear/icetrident"},
     {"predicate": {"custom_model_data": 2505}, "model": "valence:weapon/spear/reachtri"},
+    {"predicate": {"custom_model_data": 2506}, "model": "valence:weapon/spear/steel"},    
 
+    {"predicate": {"custom_model_data": 3001}, "model": "valence:weapon/mace/steel"},
 
     {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/cthonic_reaper"},
     {"predicate": {"custom_model_data": 14002}, "model": "valence:customcontent/sheen_sword"},
