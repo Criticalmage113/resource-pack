@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench, by Christopher for use by Valence Group Inc.",
 	"textures": {
-		"0": "valence:customweapons/silver/silver_greatsword",
-		"particle": "valence:customweapons/silver/silver_greatsword"
+		"0": "valence:customweapons/great_sword/silver",
+		"particle": "valence:customweapons/great_sword/silver"
 	},
 	"elements": [
 		{
