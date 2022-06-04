@@ -8,6 +8,7 @@
         {"predicate": {"custom_model_data": 1}, "model": "valence:weapon/axe/bronze"},
         {"predicate": {"custom_model_data": 2}, "model": "valence:weapon/axe/steel"},
         {"predicate": {"custom_model_data": 3}, "model": "valence:tool/axe/bronze"},
+        {"predicate": {"custom_model_data": 4}, "model": "valence:weapon/axe/dragonbone"},
         
         {"predicate": {"custom_model_data": 501}, "model": "valence:weapon/hammer/steel"},
         {"predicate": {"custom_model_data": 502}, "model": "valence:weapon/hammer/iron"},

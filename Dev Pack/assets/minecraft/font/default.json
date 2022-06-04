@@ -704,6 +704,42 @@
         ""
       ],
       "height": 32
-    }
+    },
+    {
+      "file": "valence/staff/4.png",
+      "ascent": 8,
+      "type": "bitmap",
+      "chars": [
+        ""
+      ],
+      "height": 8
+    },
+        {
+      "file": "valence/staff/5.png",
+      "ascent": 8,
+      "type": "bitmap",
+      "chars": [
+        ""
+      ],
+      "height": 8
+    },
+    {
+      "file": "valence/staff/diamond_star.png",
+      "ascent": 8,
+      "type": "bitmap",
+      "chars": [
+        ""
+      ],
+      "height": 8
+    },
+        {
+      "file": "valence/staff/emerald_star.png",
+      "ascent": 8,
+      "type": "bitmap",
+      "chars": [
+        ""
+      ],
+      "height": 8
+    }    
   ]
 }

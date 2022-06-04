@@ -5,6 +5,11 @@
     },
     "overrides": [
       {"predicate": {"custom_model_data": 12001}, "model": "valence:armor/hat/flatbrim"},
+      {"predicate": {"custom_model_data": 12002}, "model": "valence:armor/helm/constable/basic"},
+      {"predicate": {"custom_model_data": 12003}, "model": "valence:armor/helm/constable/officer"},
+      {"predicate": {"custom_model_data": 12004}, "model": "valence:armor/helm/kamaria/legion"},
+      {"predicate": {"custom_model_data": 12005}, "model": "valence:armor/helm/kamaria/legionofficer"},
+      {"predicate": {"custom_model_data": 12006}, "model": "valence:armor/helm/kamaria/legiongeneral"},
 
       
       {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/chroma_horns"},
