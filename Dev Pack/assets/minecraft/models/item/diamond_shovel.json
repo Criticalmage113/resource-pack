@@ -5,6 +5,7 @@
     },
       "overrides": [
   
-          {"predicate": {"custom_model_data": 4001}, "model": "valence:tool/shovel/moon"}
+          {"predicate": {"custom_model_data": 4001}, "model": "valence:tool/shovel/moon"},
+          {"predicate": {"custom_model_data": 4002}, "model": "valence:tool/adventure/shovel"}
       ]
   }

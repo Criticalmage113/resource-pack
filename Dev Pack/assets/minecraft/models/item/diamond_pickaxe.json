@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/diamond_pickaxe"
   },
     "overrides": [
-        {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/blackjack_pickaxe"}
+        {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/blackjack_pickaxe"},
+        {"predicate": {"custom_model_data": 3501}, "model": "valence:tool/adventure/pickaxe"}
     ]
 }
