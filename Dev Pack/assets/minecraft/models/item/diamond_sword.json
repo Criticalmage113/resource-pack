@@ -44,7 +44,7 @@
 
     {"predicate": {"custom_model_data": 10001}, "model": "valence:weapon/gun/flintlock"},
     {"predicate": {"custom_model_data": 10002}, "model": "valence:weapon/gun/flintlock_pistol"},
-      {"predicate": {"custom_model_data": 10003}, "model": "valence:weapon/gun/musket"},
+    {"predicate": {"custom_model_data": 10003}, "model": "valence:weapon/gun/musket"},
 
     {"predicate": {"custom_model_data": 13001}, "model": "valence:misc/kamaria_sword"},
     {"predicate": {"custom_model_data": 13002}, "model": "valence:misc/nieneedle"},

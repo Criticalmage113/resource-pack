@@ -11,6 +11,7 @@
         {"predicate": {"custom_model_data": 4}, "model": "valence:weapon/axe/dragonbone"},
         {"predicate": {"custom_model_data": 5}, "model": "valence:tool/adventure/axe"},
         {"predicate": {"custom_model_data": 6}, "model": "valence:weapon/axe/water"},
+        {"predicate": {"custom_model_data": 7}, "model": "valence:weapon/axe/meteorite"},
         
         {"predicate": {"custom_model_data": 501}, "model": "valence:weapon/hammer/steel"},
         {"predicate": {"custom_model_data": 502}, "model": "valence:weapon/hammer/iron"},

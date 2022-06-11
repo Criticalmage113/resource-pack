@@ -4,7 +4,7 @@
       "layer0": "minecraft:item/diamond_hoe"
     },
     "overrides": [
-      {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/modified_scythe"},
-      {"predicate": {"custom_model_data": 4501}, "model": "valence:tool/adventure/hoe"}
+      {"predicate": {"custom_model_data": 4501}, "model": "valence:tool/adventure/hoe"},
+      {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/modified_scythe"}
     ]
   }

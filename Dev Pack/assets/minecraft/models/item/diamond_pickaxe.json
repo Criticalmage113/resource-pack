@@ -4,7 +4,9 @@
     "layer0": "minecraft:item/diamond_pickaxe"
   },
     "overrides": [
-        {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/blackjack_pickaxe"},
-        {"predicate": {"custom_model_data": 3501}, "model": "valence:tool/adventure/pickaxe"}
+      {"predicate": {"custom_model_data": 3501}, "model": "valence:tool/adventure/pickaxe"},
+      {"predicate": {"custom_model_data": 3502}, "model": "valence:tool/pickaxe/dragonbone"},
+      {"predicate": {"custom_model_data": 3503}, "model": "valence:tool/pickaxe/crimson"},
+      {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/blackjack_pickaxe"}
     ]
 }
