@@ -12,7 +12,7 @@
     {"predicate": {"custom_model_data": 1004}, "model": "valence:misc/justice_sabre"},
     {"predicate": {"custom_model_data": 1005}, "model": "valence:weapon/long_sword/mummy"},
     {"predicate": {"custom_model_data": 1006}, "model": "valence:weapon/long_sword/nether"},
-
+    {"predicate": {"custom_model_data": 1007}, "model": "valence:weapon/long_sword/crimson"},
     {"predicate": {"custom_model_data": 1501}, "model": "valence:weapon/great_sword/iron"},
     {"predicate": {"custom_model_data": 1502}, "model": "valence:weapon/great_sword/steel"},
     {"predicate": {"custom_model_data": 1503}, "model": "valence:weapon/great_sword/silver"},
