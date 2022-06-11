@@ -44,13 +44,14 @@
     "overrides": [
       {"predicate": {"blocking": 1}, "model": "item/shield_blocking"},
 
-      {"predicate": {"custom_model_data": 1}, "model": "valence:armor/shield/bayshield"},
-      {"predicate": {"custom_model_data": 2}, "model": "valence:armor/shield/kamaria"},
-      {"predicate": {"custom_model_data": 3}, "model": "valence:armor/shield/nieseat"},
-      {"predicate": {"custom_model_data": 4}, "model": "valence:armor/shield/prismarine"},
+      {"predicate": {"custom_model_data": 10501}, "model": "valence:armor/shield/bayshield"},
+      {"predicate": {"custom_model_data": 10502}, "model": "valence:armor/shield/kamaria"},
+      {"predicate": {"custom_model_data": 10503}, "model": "valence:armor/shield/nieseat"},
+      {"predicate": {"custom_model_data": 10504}, "model": "valence:armor/shield/prismarine"},
+      {"predicate": {"custom_model_data": 10505}, "model": "valence:weapon/adventure/shield"},
 
-      {"predicate": {"custom_model_data": 10501}, "model": "valence:customcontent/sheen_shield"},
-      {"predicate": {"custom_model_data": 10502}, "model": "valence:customcontent/lunar_shield"},
-      {"predicate": {"custom_model_data": 10503}, "model": "valence:customcontent/aegis_shield"}
+      {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/sheen_shield"},
+      {"predicate": {"custom_model_data": 14002}, "model": "valence:customcontent/lunar_shield"},
+      {"predicate": {"custom_model_data": 14003}, "model": "valence:customcontent/aegis_shield"}
     ]
   }
