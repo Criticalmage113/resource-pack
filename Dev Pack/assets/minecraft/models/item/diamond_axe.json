@@ -13,7 +13,8 @@
         {"predicate": {"custom_model_data": 6}, "model": "valence:weapon/axe/water"},
         {"predicate": {"custom_model_data": 7}, "model": "valence:weapon/axe/meteorite"},
         {"predicate": {"custom_model_data": 8}, "model": "valence:weapon/axe/silver"},
-
+        {"predicate": {"custom_model_data": 9}, "model": "valence:tool/axe/dwarf"},
+        
         {"predicate": {"custom_model_data": 501}, "model": "valence:weapon/hammer/steel"},
         {"predicate": {"custom_model_data": 502}, "model": "valence:weapon/hammer/iron"},
         {"predicate": {"custom_model_data": 503}, "model": "valence:weapon/hammer/wood"},
