@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:item/handheld",
+    "parent": "minecraft:item/generated",
     "textures": {
       "layer0": "minecraft:item/stick"
     },
@@ -59,6 +59,7 @@
       {"predicate": {"custom_model_data": 14005}, "model": "valence:customcontent/mushroom_staff"},
       {"predicate": {"custom_model_data": 14006}, "model": "valence:customcontent/sanaquas_rune"},
       {"predicate": {"custom_model_data": 14007}, "model": "valence:customcontent/uchida_cane"},
-      {"predicate": {"custom_model_data": 14008}, "model": "valence:customcontent/saiph_bindle"}      
+      {"predicate": {"custom_model_data": 14008}, "model": "valence:customcontent/saiph_bindle"},
+      {"predicate": {"custom_model_data": 14009}, "model": "valence:customcontent/neptune_staff"}       
     ]
   }

@@ -5,6 +5,7 @@
     },
     "overrides": [
       {"predicate": {"custom_model_data": 4501}, "model": "valence:tool/adventure/hoe"},
+      {"predicate": {"custom_model_data": 4502}, "model": "valence:tool/hoe/dragonbone"},
       {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/modified_scythe"}
     ]
   }

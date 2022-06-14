@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench, by William",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "valence:tool/axe/bronze_axe",
-		"particle": "valence:tool/axe/bronze_axe"
+		"0": "valence:tool/axe/bronze",
+		"particle": "valence:tool/axe/bronze"
 	},
 	"elements": [
 		{

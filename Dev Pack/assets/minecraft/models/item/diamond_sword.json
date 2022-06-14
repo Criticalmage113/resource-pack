@@ -29,6 +29,7 @@
     {"predicate": {"custom_model_data": 2005}, "model": "valence:weapon/short_sword/demon_dagger"},
     {"predicate": {"custom_model_data": 2006}, "model": "valence:weapon/adventure/sword"},
     {"predicate": {"custom_model_data": 2007}, "model": "valence:weapon/short_sword/prismarine"},
+    {"predicate": {"custom_model_data": 2008}, "model": "valence:weapon/short_sword/steel"},
 
     {"predicate": {"custom_model_data": 2501}, "model": "valence:weapon/spear/iron"},
     {"predicate": {"custom_model_data": 2502}, "model": "valence:weapon/spear/acolyte"},
@@ -66,6 +67,7 @@
     {"predicate": {"custom_model_data": 14014}, "model": "valence:customcontent/crescent_boneblade"},
     {"predicate": {"custom_model_data": 14015}, "model": "valence:customcontent/vilthang_sword"},
     {"predicate": {"custom_model_data": 14016}, "model": "valence:customcontent/rifle_spear"},
-    {"predicate": {"custom_model_data": 14017}, "model": "valence:customcontent/crystaline_sword"}
+    {"predicate": {"custom_model_data": 14017}, "model": "valence:customcontent/crystaline_sword"},
+    {"predicate": {"custom_model_data": 14018}, "model": "valence:customcontent/batz_sword"}
   ]
 }
