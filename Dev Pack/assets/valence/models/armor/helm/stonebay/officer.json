@@ -1,10 +1,10 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench, by William",
 	"textures": {
 		"0": "valence:misc/constable",
 		"1": "valence:misc/peakbill",
 		"2": "valence:misc/peaktrident",
-		"3": "valence:misc/crest",
+		"3": "valence:misc/sbbackdrop",
 		"4": "valence:misc/sb",
 		"5": "valence:misc/redpeak",
 		"particle": "valence:misc/constable"
