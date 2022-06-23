@@ -5,11 +5,20 @@
     },
     "overrides": [
       {"predicate": {"custom_model_data": 12001}, "model": "valence:armor/hat/flatbrim"},
-      {"predicate": {"custom_model_data": 12002}, "model": "valence:armor/helm/constable/basic"},
-      {"predicate": {"custom_model_data": 12003}, "model": "valence:armor/helm/constable/officer"},
+      {"predicate": {"custom_model_data": 12002}, "model": "valence:armor/helm/stonebay/basic"},
+      {"predicate": {"custom_model_data": 12003}, "model": "valence:armor/helm/stonebay/officer"},
       {"predicate": {"custom_model_data": 12004}, "model": "valence:armor/helm/kamaria/legion"},
       {"predicate": {"custom_model_data": 12005}, "model": "valence:armor/helm/kamaria/legionofficer"},
       {"predicate": {"custom_model_data": 12006}, "model": "valence:armor/helm/kamaria/legiongeneral"},
+      {"predicate": {"custom_model_data": 12007}, "model": "valence:armor/helm/stonebay/cavalry"},
+      {"predicate": {"custom_model_data": 12008}, "model": "valence:armor/helm/stonebay/cavalryknight"},
+      {"predicate": {"custom_model_data": 12009}, "model": "valence:armor/helm/stonebay/cavalrynoble"},
+      {"predicate": {"custom_model_data": 12010}, "model": "valence:armor/helm/stonebay/inquisitor"},
+      {"predicate": {"custom_model_data": 12011}, "model": "valence:armor/helm/stonebay/guardpeak"},
+      {"predicate": {"custom_model_data": 12012}, "model": "valence:armor/helm/stonebay/generalpeak"},
+      {"predicate": {"custom_model_data": 12013}, "model": "valence:armor/helm/nieseat/general"},
+      {"predicate": {"custom_model_data": 12014}, "model": "valence:armor/helm/nieseat/officer"},
+      {"predicate": {"custom_model_data": 12015}, "model": "valence:armor/helm/nieseat/helm"},
 
       
       {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/chroma_horns"},
