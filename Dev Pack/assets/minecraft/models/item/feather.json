@@ -19,6 +19,7 @@
       {"predicate": {"custom_model_data": 12013}, "model": "valence:armor/helm/nieseat/general"},
       {"predicate": {"custom_model_data": 12014}, "model": "valence:armor/helm/nieseat/officer"},
       {"predicate": {"custom_model_data": 12015}, "model": "valence:armor/helm/nieseat/helm"},
+      {"predicate": {"custom_model_data": 12016}, "model": "valence:armor/helm/stonebay/aaph"},      
 
       
       {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/chroma_horns"},
@@ -29,6 +30,7 @@
       {"predicate": {"custom_model_data": 14006}, "model": "valence:customcontent/sheen_helm"},
       {"predicate": {"custom_model_data": 14007}, "model": "valence:customcontent/dovah"},
       {"predicate": {"custom_model_data": 14008}, "model": "valence:customcontent/entrepreneur"},
-      {"predicate": {"custom_model_data": 14009}, "model": "valence:customcontent/bro_mask"}
+      {"predicate": {"custom_model_data": 14009}, "model": "valence:customcontent/bro_mask"},
+      {"predicate": {"custom_model_data": 14010}, "model": "valence:customcontent/vy_crown"}
     ]
   }

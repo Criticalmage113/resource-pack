@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/phantom_membrane"
+    },
+  
+    "overrides": [
+      {"predicate": { "custom_model_data": 1}, "model": "valence:misc/founder_card"},
+      {"predicate": { "custom_model_data": 2}, "model": "valence:misc/64coin"},
+      {"predicate": { "custom_model_data": 3}, "model": "valence:misc/32coin"}         
+    ]
+  }
