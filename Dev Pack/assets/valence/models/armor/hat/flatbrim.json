@@ -3,8 +3,7 @@
 	"textures": {
 		"1": "valence:misc/flatbrimcord",
 		"2": "valence:misc/flatbrimsash",
-		"3": "valence:misc/flatbrimdecals",
-		"particle": "valence:misc/flatbrimsash"
+		"3": "valence:misc/flatbrimdecals"
 	},
 	"elements": [
 		{
@@ -362,20 +361,41 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-6, -11, -78],
+			"translation": [9.25, -1.5, -2.75],
+			"scale": [1.24, 1.24, 1.24]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 166, 92],
+			"translation": [8.75, -4.25, -2.75],
+			"scale": [1.24, 1.24, 1.24]
+		},
+		"firstperson_righthand": {
+			"rotation": [-93, -31, -94],
+			"translation": [15, -1, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [8, -10, -71],
+			"translation": [9.25, -2.25, 0]
+		},
+		"ground": {
+			"translation": [0, 5, 0]
+		},
 		"gui": {
-			"rotation": [0, -106, -2],
-			"translation": [-0.25, 6.5, 0],
-			"scale": [1.3, 1.3, 1.3]
+			"rotation": [0, 90, 0],
+			"translation": [0.25, 5, 0],
+			"scale": [0.98, 0.98, 0.98]
 		},
 		"head": {
 			"rotation": [0, -90, 0],
-			"translation": [0, 17.25, 1.75],
-			"scale": [2.23, 2.01, 2.17]
+			"translation": [0, 18.25, 2.25],
+			"scale": [2.34, 2.18, 2.34]
 		},
 		"fixed": {
-			"rotation": [0, -90, 0],
-			"translation": [0, 6.25, 1.75],
-			"scale": [1.3, 1.3, 1.3]
+			"rotation": [0, -90, 90],
+			"translation": [-0.25, 1.5, -15.5],
+			"scale": [2.42, 2.42, 2.42]
 		}
 	},
 	"groups": [
