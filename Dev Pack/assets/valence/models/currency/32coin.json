@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "valence:misc/32coin"
+		"0": "valence:currency/32coin",
+		"particle": "valence:currency/32coin"
 	},
 	"elements": [
 		{
@@ -599,10 +600,10 @@
 			"to": [14.37636, 7.10242, 14.37636],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
-				"north": {"uv": [16, 16, 16, 16], "texture": "#0"},
-				"east": {"uv": [16, 16, 16, 16], "texture": "#0"},
-				"south": {"uv": [16, 16, 16, 16], "texture": "#0"},
-				"west": {"uv": [16, 16, 16, 16], "texture": "#0"},
+				"north": {"uv": [0.5, 12, 1, 2.75], "texture": "#0"},
+				"east": {"uv": [1, 13.75, 1.5, 4.5], "texture": "#0"},
+				"south": {"uv": [0.25, 13.25, 0.75, 4], "texture": "#0"},
+				"west": {"uv": [1.25, 12.5, 1.75, 3.25], "texture": "#0"},
 				"up": {"uv": [1.25, 16, 16, 1.25], "texture": "#0"},
 				"down": {"uv": [1.25, 1.25, 16, 16], "texture": "#0"}
 			}
@@ -610,14 +611,14 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [-17, 0, -1],
-			"translation": [0, 0.25, -0.75],
-			"scale": [0.18, 0.18, 0.18]
+			"rotation": [-62, 0, 94],
+			"translation": [0, 0, -0.75],
+			"scale": [0.17, 0.17, 0.17]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [-16.5, 0, -1],
-			"translation": [0, 0.25, -0.75],
-			"scale": [0.1, 0.1, 0.1]
+			"rotation": [-62, 0, 94],
+			"translation": [0, 0, -0.75],
+			"scale": [0.17, 0.17, 0.17]
 		},
 		"firstperson_righthand": {
 			"rotation": [74, 160, -61],
@@ -632,22 +633,22 @@
 		"ground": {
 			"rotation": [-90, -27, 0],
 			"translation": [0, 1, 0],
-			"scale": [0.34, 0.34, 0.34]
+			"scale": [0.64, 0.64, 0.64]
 		},
 		"gui": {
 			"rotation": [-90, 0, 0],
 			"translation": [0, 0, -1.5],
-			"scale": [1.26, 1.26, 1.26]
+			"scale": [1.18, 1.18, 1.18]
 		},
 		"head": {
 			"rotation": [-90, 0, 0],
-			"translation": [0, 1.5, -7],
+			"translation": [0, 9.75, -1.5],
 			"scale": [0.29, 0.29, 0.29]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
 			"translation": [0, 0, -1.5],
-			"scale": [1.43, 1.43, 1.43]
+			"scale": [0.75, 0.75, 0.75]
 		}
 	},
 	"groups": [

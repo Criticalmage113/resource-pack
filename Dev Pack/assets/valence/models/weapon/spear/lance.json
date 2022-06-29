@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench, by William",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "valence:misc/trident",
 		"2": "valence:misc/warhandle",
@@ -215,8 +215,8 @@
 			}
 		},
 		{
-			"from": [7.45, 17.4, 8.45],
-			"to": [8.55, 17.5, 9.55],
+			"from": [7.425, 17.375, 8.425],
+			"to": [8.575, 17.525, 9.575],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 2.2, 0]},
 			"faces": {
 				"north": {"uv": [2.5, 0, 6.5, 3], "texture": "#0"},

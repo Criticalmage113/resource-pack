@@ -64,6 +64,13 @@
         { "predicate": { "custom_model_data": 9501, "pulling": 1, "pull": 0.58 }, "model": "valence:weapon/bow/adventurer_crossbow_pulling_1" },
         { "predicate": { "custom_model_data": 9501, "pulling": 1, "pull": 1.0 }, "model": "valence:weapon/bow/adventurer_crossbow_pulling_2" },
         { "predicate": { "custom_model_data": 9501, "charged": 1 }, "model": "valence:weapon/bow/adventurer_crossbow_arrow" },
-        { "predicate": { "custom_model_data": 9501, "charged": 1, "firework": 1 }, "model": "valence:weapon/bow/adventurer_crossbow_firework" }
+        { "predicate": { "custom_model_data": 9501, "charged": 1, "firework": 1 }, "model": "valence:weapon/bow/adventurer_crossbow_firework" },
+
+        { "predicate": { "custom_model_data": 9502 }, "model": "valence:weapon/crossbow/stendahl" },
+        { "predicate": { "custom_model_data": 9502, "pulling": 1 }, "model": "valence:weapon/crossbow/stendahl_one" },
+        { "predicate": { "custom_model_data": 9502, "pulling": 1, "pull": 0.58 }, "model": "valence:weapon/crossbow/stendahl_two" },
+        { "predicate": { "custom_model_data": 9502, "pulling": 1, "pull": 1.0 }, "model": "valence:weapon/crossbow/stendahl_three" },
+        { "predicate": { "custom_model_data": 9502, "charged": 1 }, "model": "valence:weapon/crossbow/stendahl_three" },
+        { "predicate": { "custom_model_data": 9502, "charged": 1, "firework": 1 }, "model": "valence:weapon/crossbow/stendahl_three" }        
     ]
 }
