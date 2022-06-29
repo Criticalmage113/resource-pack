@@ -16,7 +16,7 @@
         {"predicate": {"custom_model_data": 9}, "model": "valence:tool/axe/dwarf"},
         {"predicate": {"custom_model_data": 10}, "model": "valence:weapon/axe/poleaxe"},
         {"predicate": {"custom_model_data": 11}, "model": "valence:weapon/axe/nieaxe"},
-        
+        {"predicate": {"custom_model_data": 12}, "model": "valence:weapon/axe/stendahl"},        
         {"predicate": {"custom_model_data": 501}, "model": "valence:weapon/hammer/steel"},
         {"predicate": {"custom_model_data": 502}, "model": "valence:weapon/hammer/iron"},
         {"predicate": {"custom_model_data": 503}, "model": "valence:weapon/hammer/wood"},

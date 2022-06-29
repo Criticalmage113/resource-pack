@@ -20,6 +20,8 @@
       {"predicate": {"custom_model_data": 12014}, "model": "valence:armor/helm/nieseat/officer"},
       {"predicate": {"custom_model_data": 12015}, "model": "valence:armor/helm/nieseat/helm"},
       {"predicate": {"custom_model_data": 12016}, "model": "valence:armor/helm/stonebay/aaph"},      
+      {"predicate": {"custom_model_data": 12017}, "model": "valence:armor/hat/conductor"},         
+      {"predicate": {"custom_model_data": 12018}, "model": "valence:armor/helm/stendahl/huscarl"},          
 
       
       {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/chroma_horns"},
