@@ -21,7 +21,16 @@
       {"predicate": {"custom_model_data": 12015}, "model": "valence:armor/helm/nieseat/helm"},
       {"predicate": {"custom_model_data": 12016}, "model": "valence:armor/helm/stonebay/aaph"},      
       {"predicate": {"custom_model_data": 12017}, "model": "valence:armor/hat/conductor"},         
-      {"predicate": {"custom_model_data": 12018}, "model": "valence:armor/helm/stendahl/huscarl"},          
+      {"predicate": {"custom_model_data": 12018}, "model": "valence:armor/helm/stendahl/huscarl"},
+      {"predicate": {"custom_model_data": 12019}, "model": "valence:armor/hat/haberdashery/bounty_hunter"},
+      {"predicate": {"custom_model_data": 12020}, "model": "valence:armor/hat/haberdashery/caravaneer"},
+      {"predicate": {"custom_model_data": 12021}, "model": "valence:armor/hat/haberdashery/cattleman"},
+      {"predicate": {"custom_model_data": 12022}, "model": "valence:armor/hat/haberdashery/commuter"},
+      {"predicate": {"custom_model_data": 12023}, "model": "valence:armor/hat/haberdashery/emissary"},
+      {"predicate": {"custom_model_data": 12024}, "model": "valence:armor/hat/haberdashery/gambler"},
+      {"predicate": {"custom_model_data": 12025}, "model": "valence:armor/hat/haberdashery/minister"},
+      {"predicate": {"custom_model_data": 12026}, "model": "valence:armor/hat/haberdashery/mountbatten"},
+      {"predicate": {"custom_model_data": 12027}, "model": "valence:armor/hat/haberdashery/parliamentarian"},          
 
       
       {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/chroma_horns"},
