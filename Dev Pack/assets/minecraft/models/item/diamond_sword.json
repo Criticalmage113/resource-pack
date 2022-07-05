@@ -24,7 +24,8 @@
     {"predicate": {"custom_model_data": 1507}, "model": "valence:misc/old_prismarinesword"},
     {"predicate": {"custom_model_data": 1508}, "model": "valence:misc/storm_sword"},
     {"predicate": {"custom_model_data": 1509}, "model": "valence:weapon/great_sword/stendahl"},    
-
+    {"predicate": {"custom_model_data": 1510}, "model": "valence:weapon/misc/angel_sword"}, 
+     
     {"predicate": {"custom_model_data": 2001}, "model": "valence:weapon/short_sword/stone"},
     {"predicate": {"custom_model_data": 2002}, "model": "valence:weapon/short_sword/silver"},
     {"predicate": {"custom_model_data": 2003}, "model": "valence:weapon/sai/crimson"},

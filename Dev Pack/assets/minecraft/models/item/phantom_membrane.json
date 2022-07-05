@@ -11,7 +11,8 @@
       {"predicate": { "custom_model_data": 3}, "model": "valence:currency/16coin"},
       {"predicate": { "custom_model_data": 4}, "model": "valence:currency/32coin"},     
       {"predicate": { "custom_model_data": 5}, "model": "valence:currency/64coin"},
-      {"predicate": { "custom_model_data": 5}, "model": "valence:currency/silvercoin"}      
+      {"predicate": { "custom_model_data": 5}, "model": "valence:currency/silvercoin"},
+      {"predicate": { "custom_model_data": 6}, "model": "valence:misc/mirror_shard"}         
 
     ]
   }
