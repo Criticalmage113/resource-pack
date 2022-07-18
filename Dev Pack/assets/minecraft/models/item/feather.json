@@ -32,7 +32,11 @@
       {"predicate": {"custom_model_data": 12026}, "model": "valence:armor/hat/haberdashery/mountbatten"},
       {"predicate": {"custom_model_data": 12027}, "model": "valence:armor/hat/haberdashery/parliamentarian"},          
       {"predicate": {"custom_model_data": 12028}, "model": "valence:armor/helm/stendahl/crown"},    
-      {"predicate": {"custom_model_data": 12028}, "model": "valence:armor/helm/misc/winged_helm"},        
+      {"predicate": {"custom_model_data": 12029}, "model": "valence:armor/helm/misc/winged_helm"},   
+      {"predicate": {"custom_model_data": 12030}, "model": "valence:armor/hat/haberdashery/surrender"},          
+      {"predicate": {"custom_model_data": 12031}, "model": "valence:armor/hat/haberdashery/sundaygolfer"},    
+      {"predicate": {"custom_model_data": 12032}, "model": "valence:armor/hat/haberdashery/pedestrian"},         
+      
       {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/chroma_horns"},
       {"predicate": {"custom_model_data": 14002}, "model": "valence:customcontent/primal_skull"},
       {"predicate": {"custom_model_data": 14003}, "model": "valence:customcontent/naomi_tiara"},
