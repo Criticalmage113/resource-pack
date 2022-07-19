@@ -36,7 +36,7 @@
       {"predicate": {"custom_model_data": 12030}, "model": "valence:armor/hat/haberdashery/surrender"},          
       {"predicate": {"custom_model_data": 12031}, "model": "valence:armor/hat/haberdashery/sundaygolfer"},    
       {"predicate": {"custom_model_data": 12032}, "model": "valence:armor/hat/haberdashery/pedestrian"},         
-      
+      {"predicate": {"custom_model_data": 12033}, "model": "valence:armor/helm/kamaria/crown"},          
       {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/chroma_horns"},
       {"predicate": {"custom_model_data": 14002}, "model": "valence:customcontent/primal_skull"},
       {"predicate": {"custom_model_data": 14003}, "model": "valence:customcontent/naomi_tiara"},
@@ -46,6 +46,7 @@
       {"predicate": {"custom_model_data": 14007}, "model": "valence:customcontent/dovah"},
       {"predicate": {"custom_model_data": 14008}, "model": "valence:customcontent/entrepreneur"},
       {"predicate": {"custom_model_data": 14009}, "model": "valence:customcontent/bro_mask"},
-      {"predicate": {"custom_model_data": 14010}, "model": "valence:customcontent/vy_crown"}
+      {"predicate": {"custom_model_data": 14010}, "model": "valence:customcontent/vy_crown"},
+      {"predicate": {"custom_model_data": 14011}, "model": "valence:customcontent/tricorn"}      
     ]
   }
