@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
+	"credit": "Made with Blockbench, By Wisteria for use by Valence Group Inc",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "valence:textures/armor/helmet/vampire/garlic_helmet",
-		"particle": "valence:textures/armor/helmet/vampire/garlic_helmet"
+		"0": "valence:armor/helmet/vampire/garlic_helmet",
+		"particle": "valence:armor/helmet/vampire/garlic_helmet"
 	},
 	"elements": [
 		{

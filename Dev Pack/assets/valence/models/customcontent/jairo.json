@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
 	"textures": {
-		"0": "valence:textures/customcontent/jairo_book/jairo",
-		"1": "textures/customcontent/jairo_book/paper",
-		"2": "textures/customcontent/jairo_book/block/aries",
-		"particle": "textures/customcontent/jairo_book/jairo"
+		"0": "valence:customcontent/jairo_book/jairo",
+		"1": "valence:customcontent/jairo_book/paper",
+		"2": "valence:customcontent/jairo_book/aries",
+		"particle": "valence:customcontent/jairo_book/jairo"
 	},
 	"elements": [
 		{

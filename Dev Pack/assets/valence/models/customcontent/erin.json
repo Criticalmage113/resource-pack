@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "valence:textures/customcontent/paper_erin",
-		"2": "valence:textures/customcontent/erin",
-		"particle": "valence:textures/customcontent/paper_erin"
+		"1": "valence:customcontent/paper_erin",
+		"2": "valence:customcontent/erin",
+		"particle": "valence:customcontent/paper_erin"
 	},
 	"elements": [
 		{

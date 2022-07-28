@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
+	"credit": "Made with Blockbench, By Wisteria for use by Valence Group Inc",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "valence:textures/weapons/long_sword/vampire",
-		"particle": "valence:textures/weapons/long_sword/vampire"
+		"0": "valence:weapon/long_sword/vampire",
+		"particle": "valence:weapon/long_sword/vampire"
 	},
 	"elements": [
 		{

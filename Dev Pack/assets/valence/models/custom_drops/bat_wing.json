@@ -1,8 +1,8 @@
 {
-	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
+	"credit": "Made with Blockbench, By Bone for use by Valence Group Inc",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "valence:models/custom_drops/bat_wing"
+		"1": "valence:custom_drops/bat_wing"
 	},
 	"elements": [
 		{

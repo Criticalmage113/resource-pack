@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
+	"credit": "Made with Blockbench, By Bone for use by Valence Group Inc",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "valence/textures/weapons/sycthe/blood",
-		"particle": "valence/textures/weapons/sycthe/blood"
+		"0": "valence:weapon/scythe/blood",
+		"particle": "valence:weapon/scythe/blood"
 	},
 	"elements": [
 		{

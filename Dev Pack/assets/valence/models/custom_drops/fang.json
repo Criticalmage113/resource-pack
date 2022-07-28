@@ -1,7 +1,7 @@
 {
-	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
+	"credit": "Made with Blockbench, By Bone for use by Valence Group Inc",
 	"textures": {
-		"1": "valence:textures/custom_drops/fang"
+		"1": "valence:custom_drops/fang"
 	},
 	"elements": [
 		{

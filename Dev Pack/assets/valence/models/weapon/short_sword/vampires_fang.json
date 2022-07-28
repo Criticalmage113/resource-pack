@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
+	"credit": "Made with Blockbench, By Bone for use by Valence Group Inc",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "valence:textures/weapons/short_sword/vampire_dagger",
-		"particle": "valence:textures/weapons/short_sword/vampire_dagger"
+		"0": "valence:weapon/short_sword/vampire_dagger",
+		"particle": "valence:weapon/short_sword/vampire_dagger"
 	},
 	"elements": [
 		{

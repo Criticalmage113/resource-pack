@@ -14,6 +14,7 @@
     {"predicate": {"custom_model_data": 1006}, "model": "valence:weapon/long_sword/nether"},
     {"predicate": {"custom_model_data": 1007}, "model": "valence:weapon/long_sword/crimson"},
     {"predicate": {"custom_model_data": 1008}, "model": "valence:weapon/long_sword/bayzwei"},
+    {"predicate": {"custom_model_data": 1009}, "model": "valence:weapon/long_sword/vampire"},
     
     {"predicate": {"custom_model_data": 1501}, "model": "valence:weapon/great_sword/iron"},
     {"predicate": {"custom_model_data": 1502}, "model": "valence:weapon/great_sword/steel"},
@@ -24,8 +25,9 @@
     {"predicate": {"custom_model_data": 1507}, "model": "valence:misc/old_prismarinesword"},
     {"predicate": {"custom_model_data": 1508}, "model": "valence:misc/storm_sword"},
     {"predicate": {"custom_model_data": 1509}, "model": "valence:weapon/great_sword/stendahl"},    
-    {"predicate": {"custom_model_data": 1510}, "model": "valence:weapon/misc/angel_sword"}, 
-     
+    {"predicate": {"custom_model_data": 1510}, "model": "valence:weapon/misc/angel_sword"},
+    {"predicate": {"custom_model_data": 1511}, "model": "valence:weapon/scythe/blood_scythe"},
+
     {"predicate": {"custom_model_data": 2001}, "model": "valence:weapon/short_sword/stone"},
     {"predicate": {"custom_model_data": 2002}, "model": "valence:weapon/short_sword/silver"},
     {"predicate": {"custom_model_data": 2003}, "model": "valence:weapon/sai/crimson"},
@@ -34,6 +36,7 @@
     {"predicate": {"custom_model_data": 2006}, "model": "valence:weapon/adventure/sword"},
     {"predicate": {"custom_model_data": 2007}, "model": "valence:weapon/short_sword/prismarine"},
     {"predicate": {"custom_model_data": 2008}, "model": "valence:weapon/short_sword/steel"},
+    {"predicate": {"custom_model_data": 2009}, "model": "valence:weapon/short_sword/vampires_fang"},
 
     {"predicate": {"custom_model_data": 2501}, "model": "valence:weapon/spear/iron"},
     {"predicate": {"custom_model_data": 2502}, "model": "valence:weapon/spear/acolyte"},
@@ -76,6 +79,8 @@
     {"predicate": {"custom_model_data": 14015}, "model": "valence:customcontent/vilthang_sword"},
     {"predicate": {"custom_model_data": 14016}, "model": "valence:customcontent/rifle_spear"},
     {"predicate": {"custom_model_data": 14017}, "model": "valence:customcontent/crystaline_sword"},
-    {"predicate": {"custom_model_data": 14018}, "model": "valence:customcontent/batz_sword"}
+    {"predicate": {"custom_model_data": 14018}, "model": "valence:customcontent/batz_sword"},
+    {"predicate": {"custom_model_data": 14019}, "model": "valence:customcontent/erin"},
+    {"predicate": {"custom_model_data": 14020}, "model": "valence:customcontent/jairo"}
   ]
 }
