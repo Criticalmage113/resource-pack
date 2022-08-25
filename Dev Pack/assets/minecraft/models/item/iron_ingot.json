@@ -8,5 +8,6 @@
         {"predicate": {"custom_model_data": 2}, "model": "valence:resources/ingot/bronze"},
         {"predicate": {"custom_model_data": 3}, "model": "valence:resources/ingot/crimson"},
         {"predicate": {"custom_model_data": 4}, "model": "valence:resources/ingot/tin"}
+        
     ]
 }
