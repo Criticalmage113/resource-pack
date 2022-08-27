@@ -64,6 +64,7 @@
       {"predicate": {"custom_model_data": 14008}, "model": "valence:customcontent/saiph_bindle"},
       {"predicate": {"custom_model_data": 14009}, "model": "valence:customcontent/neptune_staff"},
       {"predicate": {"custom_model_data": 14010}, "model": "valence:customcontent/bee_sunstick"},
-      {"predicate": {"custom_model_data": 14011}, "model": "valence:customcontent/jj_netherstaff"}             
+      {"predicate": {"custom_model_data": 14011}, "model": "valence:customcontent/jj_netherstaff"},
+      {"predicate": {"custom_model_data": 14012}, "model": "valence:customcontent/dylans_staff"}
     ]
   }
