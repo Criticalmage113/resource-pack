@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench, by William",
 	"textures": {
-		"0": "valence:resources/ingot/silver"
+		"0": "valence:resources/ingot/steel",
+		"particle": "valence:resources/ingot/steel"
 	},
 	"elements": [
 		{
@@ -102,7 +103,7 @@
 			"faces": {
 				"north": {"uv": [13.5, 7, 16, 8], "texture": "#0"},
 				"east": {"uv": [5.5, 4, 9.5, 4.5], "texture": "#0"},
-				"south": {"uv": [14, 8, 16, 8.5], "texture": "#0"},
+				"south": {"uv": [17, 8, 19, 8.5], "texture": "#0"},
 				"west": {"uv": [5, 15, 9, 15.5], "texture": "#0"},
 				"up": {"uv": [10, 14, 8, 10], "texture": "#0"},
 				"down": {"uv": [12, 10, 10, 14], "texture": "#0"}
@@ -143,10 +144,12 @@
 			"translation": [0, 0.25, 0]
 		},
 		"firstperson_righthand": {
-			"translation": [-2.75, 3.25, 3]
+			"rotation": [35, 0, 0],
+			"translation": [-1.25, 3.25, 3]
 		},
 		"firstperson_lefthand": {
-			"translation": [-2.75, 3.25, 3]
+			"rotation": [35, 0, 0],
+			"translation": [-1.25, 3.25, 3]
 		},
 		"ground": {
 			"translation": [0, -3.25, 0]
@@ -159,15 +162,15 @@
 			"translation": [0, 7, 0]
 		},
 		"fixed": {
-			"rotation": [-90, -47.5, 0],
+			"rotation": [-90, -47.5, 0.48],
 			"translation": [0, 0, -0.75],
 			"scale": [1.5, 1.5, 1.5]
 		}
 	},
 	"groups": [
 		{
-			"name": "silver_ingot",
-			"origin": [7.5, 7.5, 7.5],
+			"name": "steel_ingot",
+			"origin": [8, 8, 8],
 			"color": 0,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 		}
