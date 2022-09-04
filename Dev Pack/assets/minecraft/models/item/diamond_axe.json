@@ -16,7 +16,10 @@
         {"predicate": {"custom_model_data": 9}, "model": "valence:tool/axe/dwarf"},
         {"predicate": {"custom_model_data": 10}, "model": "valence:weapon/axe/poleaxe"},
         {"predicate": {"custom_model_data": 11}, "model": "valence:weapon/axe/nieaxe"},
-        {"predicate": {"custom_model_data": 12}, "model": "valence:weapon/axe/stendahl"},        
+        {"predicate": {"custom_model_data": 12}, "model": "valence:weapon/axe/stendahl"},
+        {"predicate": {"custom_model_data": 13}, "model": "valence:weapon/axe/silver_battle_axe"},
+        
+        
         {"predicate": {"custom_model_data": 501}, "model": "valence:weapon/hammer/steel"},
         {"predicate": {"custom_model_data": 502}, "model": "valence:weapon/hammer/iron"},
         {"predicate": {"custom_model_data": 503}, "model": "valence:weapon/hammer/wood"},
@@ -24,7 +27,9 @@
         {"predicate": {"custom_model_data": 505}, "model": "valence:weapon/hammer/heir_mallet"},
         {"predicate": {"custom_model_data": 506}, "model": "valence:weapon/hammer/bonk"},
         {"predicate": {"custom_model_data": 507}, "model": "valence:weapon/hammer/legendary_hammer"},
-        {"predicate": {"custom_model_data": 508}, "model": "valence:weapon/hammer/mountbatten_masher"},       
+        {"predicate": {"custom_model_data": 508}, "model": "valence:weapon/hammer/mountbatten_masher"},
+        {"predicate": {"custom_model_data": 509}, "model": "valence:weapon/hammer/silver_hammer"},
+        {"predicate": {"custom_model_data": 510}, "model": "valence:weapon/hammer/ivars_hammer"},         
         
         {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/doc_hammer"},
         {"predicate": {"custom_model_data": 14002}, "model": "valence:customcontent/downfall_axe"},

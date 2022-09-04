@@ -49,6 +49,7 @@
       {"predicate": {"custom_model_data": 10503}, "model": "valence:armor/shield/nieseat"},
       {"predicate": {"custom_model_data": 10504}, "model": "valence:armor/shield/prismarine"},
       {"predicate": {"custom_model_data": 10505}, "model": "valence:weapon/adventure/shield"},
+      {"predicate": {"custom_model_data": 10506}, "model": "valence:armor/shield/stendhal_shield"},
 
       {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/sheen_shield"},
       {"predicate": {"custom_model_data": 14002}, "model": "valence:customcontent/lunar_shield"},

@@ -6,6 +6,7 @@
     "overrides": [
         {"predicate": {"custom_model_data": 1}, "model": "valence:resources/raw/silver"},
         {"predicate": {"custom_model_data": 2}, "model": "valence:resources/raw/crimson"},
-        {"predicate": {"custom_model_data": 3}, "model": "valence:resources/raw/tin"}
+        {"predicate": {"custom_model_data": 3}, "model": "valence:resources/raw/tin"},
+        {"predicate": {"custom_model_data": 4}, "model": "valence:resources/raw/silver_chunk"}
     ]
 }
