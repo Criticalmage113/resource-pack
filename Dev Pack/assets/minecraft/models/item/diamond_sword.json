@@ -82,6 +82,7 @@
     {"predicate": {"custom_model_data": 10011}, "model": "valence:weapon/gun/stonebay_blunderbuss"},
     {"predicate": {"custom_model_data": 10012}, "model": "valence:weapon/gun/jezail"},
     {"predicate": {"custom_model_data": 10013}, "model": "valence:weapon/gun/hellslinger"},
+    {"predicate": {"custom_model_data": 10014}, "model": "valence:weapon/gun/jezail"},
 
 
     {"predicate": {"custom_model_data": 13001}, "model": "valence:misc/kamaria_sword"},
