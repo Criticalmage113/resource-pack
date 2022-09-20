@@ -10,6 +10,8 @@
       {"predicate": {"custom_model_data": 11004}, "model": "valence:weapon/magic/wolf_staff"},
       {"predicate": {"custom_model_data": 11005}, "model": "valence:weapon/magic/maldore_wand"},
       {"predicate": {"custom_model_data": 11006}, "model": "valence:weapon/magic/lunar_wand"},
+      {"predicate": {"custom_model_data": 11007}, "model": "valence:weapon/spear/shamanic_staff"},
+      {"predicate": {"custom_model_data": 11008}, "model": "valence:weapon/spear/walking_cane"},
 
       {"predicate": {"custom_model_data":11007}, "model": "valence:weapon/magic/magic_staff/ms_wooden_wood"},
       {"predicate": {"custom_model_data":11008}, "model": "valence:weapon/magic/magic_staff/ms_wooden_iron"},
@@ -64,6 +66,8 @@
       {"predicate": {"custom_model_data": 14008}, "model": "valence:customcontent/saiph_bindle"},
       {"predicate": {"custom_model_data": 14009}, "model": "valence:customcontent/neptune_staff"},
       {"predicate": {"custom_model_data": 14010}, "model": "valence:customcontent/bee_sunstick"},
-      {"predicate": {"custom_model_data": 14011}, "model": "valence:customcontent/jj_netherstaff"}             
+      {"predicate": {"custom_model_data": 14011}, "model": "valence:customcontent/jj_netherstaff"},
+      
+      {"predicate": {"custom_model_data": 15001}, "model": "valence:resources/raw/bundle_scrapwood2"}
     ]
   }

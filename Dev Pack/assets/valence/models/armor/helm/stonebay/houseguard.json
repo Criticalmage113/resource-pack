@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
 	"textures": {
-		"2": "valence:armor/hat/helmet/stonebay/peaktrident",
-		"3": "valence:armor/hat/helmet/stonebay/sbbackdrop",
-		"4": "valence:armor/hat/helmet/stonebay/sb",
-		"5": "valence:armor/hat/helmet/stonebay/redpeak",
-		"6": "valence:armor/hat/helmet/stonebay/blackmetal",
-		"8": "valence:armor/hat/helmet/stonebay/brass"
+		"2": "valence:armor/helmet/stonebay/peaktrident",
+		"3": "valence:armor/helmet/stonebaysbbackdrop",
+		"4": "valence:armor/helmet/stonebaysb",
+		"5": "valence:armor/helmet/stonebayredpeak",
+		"6": "valence:armor/helmet/stonebayblackmetal",
+		"8": "valence:armor/helmet/stonebaybrass"
 	},
 	"elements": [
 		{

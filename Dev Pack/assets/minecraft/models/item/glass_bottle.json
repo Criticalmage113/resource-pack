@@ -5,6 +5,9 @@
   },
   "overrides": [
     {"predicate": { "custom_model_data": 13501}, "model": "valence:custom_drops/vamp_dust"},
-    {"predicate": { "custom_model_data": 13502}, "model": "valence:custom_drops/bottle_of_blood"}
+    {"predicate": { "custom_model_data": 13502}, "model": "valence:custom_drops/bottle_of_blood"},
+    {"predicate": { "custom_model_data": 13503}, "model": "valence:custom_drops/black_gunpowder"},
+    {"predicate": { "custom_model_data": 13504}, "model": "valence:custom_drops/dirt_jar"}
+    
   ]
 }

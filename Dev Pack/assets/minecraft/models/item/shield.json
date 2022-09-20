@@ -50,6 +50,11 @@
       {"predicate": {"custom_model_data": 10504}, "model": "valence:armor/shield/prismarine"},
       {"predicate": {"custom_model_data": 10505}, "model": "valence:weapon/adventure/shield"},
       {"predicate": {"custom_model_data": 10506}, "model": "valence:armor/shield/stendhal_shield"},
+      {"predicate": {"custom_model_data": 10507}, "model": "valence:armor/shield/stendhal_towershield"},
+      {"predicate": {"custom_model_data": 10508}, "model": "valence:armor/shield/scutum"},
+      {"predicate": {"custom_model_data": 10509}, "model": "valence:armor/shield/darce_shield"},
+      {"predicate": {"custom_model_data": 10510}, "model": "valence:armor/shield/angelshield"},
+      {"predicate": {"custom_model_data": 10511}, "model": "valence:armor/shield/rotten_tower_shield"},
 
       {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/sheen_shield"},
       {"predicate": {"custom_model_data": 14002}, "model": "valence:customcontent/lunar_shield"},

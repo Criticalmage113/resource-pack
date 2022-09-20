@@ -12,7 +12,11 @@
       {"predicate": { "custom_model_data": 4}, "model": "valence:currency/32coin"},     
       {"predicate": { "custom_model_data": 5}, "model": "valence:currency/64coin"},
       {"predicate": { "custom_model_data": 6}, "model": "valence:currency/silvercoin"},
-      {"predicate": { "custom_model_data": 7}, "model": "valence:misc/mirror_shard"}         
+      {"predicate": { "custom_model_data": 7}, "model": "valence:misc/mirror_shard"},
+      {"predicate": { "custom_model_data": 8}, "model": "valence:misc/inkwell_and_feather"},
+      {"predicate": { "custom_model_data": 9}, "model": "valence:misc/fox_plushie"},        
+      {"predicate": { "custom_model_data": 10}, "model": "valence:misc/grand_piano"}, 
+      {"predicate": { "custom_model_data": 11}, "model": "valence:misc/chess_board"}
 
     ]
   }
