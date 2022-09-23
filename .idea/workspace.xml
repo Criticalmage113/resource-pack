@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c05fe0d1-9839-4f82-8978-83ca6daafbd7" name="Changes" comment="removed varks armour and steel mace" />
+    <list default="true" id="c05fe0d1-9839-4f82-8978-83ca6daafbd7" name="Changes" comment="I will post a full list of items in Texturepack updates" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661482714916</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="I will post a full list of items in Texturepack updates">
+      <created>1663691971834</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663691971834</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +150,7 @@
     <MESSAGE value="final hat fix, That should be everything." />
     <MESSAGE value="armour: (optifine)&#10;-stendhal armour chestplate,leggings,boots&#10;-stonebay armour chestplate,leggings,boots&#10;-vark cc armour &#10;cc items:&#10;-dyalns staff&#10;- Ivar hammer&#10;hats:&#10;- stenton revision&#10;- house guard&#10;guns:&#10;- basic musket,flintlock,blunderbuss&#10;- stonebay musket,flintlock,blunderbuss&#10;- stendhal blunderbuss&#10;- blackreach musket,flintlock&#10;- hellslinger&#10;- harpoon&#10;- jezail&#10;materials:&#10;- silver chunck&#10;Mining tools:&#10;- moon cast maddock&#10;silver tools:&#10;- spear&#10;- hammer&#10;- mace&#10;- battle axe&#10;- dagger" />
     <MESSAGE value="removed varks armour and steel mace" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed varks armour and steel mace" />
+    <MESSAGE value="I will post a full list of items in Texturepack updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="I will post a full list of items in Texturepack updates" />
   </component>
 </project>

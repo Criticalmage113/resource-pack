@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
 	"textures": {
-		"2": "texture:armor/helm/dimadometexture"
+		"2": "valence:armor/hat/dimadometexture"
 	},
 	"elements": [
 		{

@@ -19,7 +19,7 @@
     {"predicate": {"custom_model_data": 1011}, "model": "valence:weapon/long_sword/highwayman_longsword"},
     {"predicate": {"custom_model_data": 1012}, "model": "valence:weapon/long_sword/cool_sword"},
     {"predicate": {"custom_model_data": 1013}, "model": "valence:weapon/long_sword/naturezwei"},
-    {"predicate": {"custom_model_data": 1014}, "model": "valence:weapon/long_sword/trusty_club"},
+    
     {"predicate": {"custom_model_data": 1015}, "model": "valence:weapon/long_sword/cutlass"},
     
     {"predicate": {"custom_model_data": 1501}, "model": "valence:weapon/great_sword/iron"},
@@ -46,7 +46,7 @@
     {"predicate": {"custom_model_data": 2010}, "model": "valence:weapon/short_sword/silver_dagger"},
     {"predicate": {"custom_model_data": 2011}, "model": "valence:weapon/short_sword/rugged_dagger"},
     {"predicate": {"custom_model_data": 2012}, "model": "valence:weapon/short_sword/rusty_butchers_blade"},
-    {"predicate": {"custom_model_data": 2013}, "model": "valence:weapon/short_sword/crimson_short_sword"},
+    
 
 
     {"predicate": {"custom_model_data": 2501}, "model": "valence:weapon/spear/iron"},
