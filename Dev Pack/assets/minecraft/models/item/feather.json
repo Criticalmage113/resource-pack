@@ -44,8 +44,16 @@
       
       {"predicate": {"custom_model_data": 12033}, "model": "valence:armor/helm/kamaria/crown"},
       {"predicate": {"custom_model_data": 12034}, "model": "valence:armor/helm/vampire/garlic_helmet"},
+
       {"predicate": {"custom_model_data": 12035}, "model": "valence:armor/helm/dimadome"},
       {"predicate": {"custom_model_data": 12036}, "model": "valence:armor/helm/dimaminor"},
+
+      {"predicate": {"custom_model_data": 12037}, "model": "valence:armor/hat/stetson_2"},
+
+
+
+
+
       {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/chroma_horns"},
       {"predicate": {"custom_model_data": 14002}, "model": "valence:customcontent/primal_skull"},
       {"predicate": {"custom_model_data": 14003}, "model": "valence:customcontent/naomi_tiara"},
