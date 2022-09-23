@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c05fe0d1-9839-4f82-8978-83ca6daafbd7" name="Changes" comment="I will post a full list of items in Texturepack updates" />
+    <list default="true" id="c05fe0d1-9839-4f82-8978-83ca6daafbd7" name="Changes" comment="V2 fixes jsut need final edits of bugs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +12,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="guns,armor,dylans_cc,vark_cc,mine_tools" />
+        <entry key="$PROJECT_DIR$" value="dimadone_hats,_faction_gear," />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -151,6 +153,7 @@
     <MESSAGE value="armour: (optifine)&#10;-stendhal armour chestplate,leggings,boots&#10;-stonebay armour chestplate,leggings,boots&#10;-vark cc armour &#10;cc items:&#10;-dyalns staff&#10;- Ivar hammer&#10;hats:&#10;- stenton revision&#10;- house guard&#10;guns:&#10;- basic musket,flintlock,blunderbuss&#10;- stonebay musket,flintlock,blunderbuss&#10;- stendhal blunderbuss&#10;- blackreach musket,flintlock&#10;- hellslinger&#10;- harpoon&#10;- jezail&#10;materials:&#10;- silver chunck&#10;Mining tools:&#10;- moon cast maddock&#10;silver tools:&#10;- spear&#10;- hammer&#10;- mace&#10;- battle axe&#10;- dagger" />
     <MESSAGE value="removed varks armour and steel mace" />
     <MESSAGE value="I will post a full list of items in Texturepack updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="I will post a full list of items in Texturepack updates" />
+    <MESSAGE value="V2 fixes jsut need final edits of bugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="V2 fixes jsut need final edits of bugs" />
   </component>
 </project>
