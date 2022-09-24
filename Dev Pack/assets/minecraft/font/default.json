@@ -741,7 +741,7 @@
       ],
       "height": 8
     },
-        {
+    {
       "file": "valence/staff/emerald_star.png",
       "ascent": 8,
       "type": "bitmap",
@@ -749,6 +749,24 @@
         ""
       ],
       "height": 8
-    }    
+    },
+    {
+      "file": "valence/tiers/food.png",
+      "ascent": 8,
+      "type": "bitmap",
+      "chars": [
+        ""
+      ],
+      "height": 8
+    },
+    {
+      "file": "valence/tiers/develop.png",
+      "ascent": 8,
+      "type": "bitmap",
+      "chars": [
+        ""
+      ],
+      "height": 8
+    }
   ]
 }

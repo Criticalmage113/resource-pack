@@ -1,0 +1,5 @@
+pack_directory = '.'
+allow_mods = ['OptiFine']
+
+['**/*?.png']
+maximum_width_and_height = 10000
