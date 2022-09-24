@@ -1,7 +1,8 @@
 {
-	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
+	"credit": "Made with Blockbench, by Kooky for use by Valence Group Inc.",
 	"textures": {
-		"2": "valence:val_cal/stiched_texture"
+		"2": "valence:val_cal/cracked_egg",
+		"particle": "valence:val_cal/cracked_egg"
 	},
 	"elements": [
 		{

@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
 	"textures": {
-		"0": "valence:val_cal/mug",
+		"0": "valence:val_kitchen/mug",
 		"1": "valence:val_cal/drinks",
-		"particle": "valence:val_cal/mug"
+		"particle": "valence:val_kitchen/mug"
 	},
 	"elements": [
 		{
@@ -115,12 +115,12 @@
 			"to": [5.5, 6, 11.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2.5, 6]},
 			"faces": {
-				"north": {"uv": [16, 0, 12.5, 16], "texture": "#0"},
-				"east": {"uv": [0, 0, 5, 4], "texture": "#0"},
-				"south": {"uv": [6.5, 0, 3, 16], "texture": "#0"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"up": {"uv": [0, 0, 5, 1], "rotation": 90, "texture": "#0"},
-				"down": {"uv": [0, 0, 5, 1], "rotation": 270, "texture": "#0"}
+				"north": {"uv": [16, 0, 12.5, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 5, 4], "texture": "#1"},
+				"south": {"uv": [6.5, 0, 3, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 5, 1], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [0, 0, 5, 1], "rotation": 270, "texture": "#1"}
 			}
 		}
 	],

@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
+	"credit": "Made with Blockbench, by Kooky for use by Valence Group Inc.",
 	"textures": {
 		"0": "valence:val_cal/butter",
 		"particle": "valence:val_cal/butter"
@@ -51,7 +51,7 @@
 			"translation": [0.5, 14.5, 0]
 		},
 		"fixed": {
-			"translation": [0, 7.75, 0],
+			"translation": [0, 7.75, -1.25],
 			"scale": [1.2, 1.2, 1.2]
 		}
 	}

@@ -49,7 +49,7 @@
       {"predicate": {"custom_model_data": 10503}, "model": "valence:armor/shield/nieseat"},
       {"predicate": {"custom_model_data": 10504}, "model": "valence:armor/shield/prismarine"},
       {"predicate": {"custom_model_data": 10505}, "model": "valence:weapon/adventure/shield"},
-      {"predicate": {"custom_model_data": 10506}, "model": "valence:armor/shield/stendhal_tall_shield"},
+      {"predicate": {"custom_model_data": 10506}, "model": "valence:armor/shield/stendhal_shield"},
       {"predicate": {"custom_model_data": 10507}, "model": "valence:armor/shield/stendhal_towershield"},
       {"predicate": {"custom_model_data": 10508}, "model": "valence:armor/shield/scutum"},
       {"predicate": {"custom_model_data": 10509}, "model": "valence:armor/shield/darce_shield"},

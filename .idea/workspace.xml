@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c05fe0d1-9839-4f82-8978-83ca6daafbd7" name="Changes" comment="V2 fixes jsut need final edits of bugs" />
+    <list default="true" id="c05fe0d1-9839-4f82-8978-83ca6daafbd7" name="Changes" comment="V2 fixes jsut need final edits of bugs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +126,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663929809664</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="V2 fixes jsut need final edits of bugs">
+      <created>1663933703483</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663933703483</updated>
+    </task>
+    <task id="LOCAL-00012" summary="V2 fixes jsut need final edits of bugs">
+      <created>1663933797651</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1663933797651</updated>
+    </task>
+    <task id="LOCAL-00013" summary="V2 fixes jsut need final edits of bugs">
+      <created>1663981536484</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1663981536484</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
+	"credit": "Made with Blockbench, by Kooky for use by Valence Group Inc.",
 	"textures": {
 		"0": "valence:val_cal/olive_oil",
 		"particle": "valence:val_cal/olive_oil"
@@ -138,11 +138,11 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0, -0.5, -1.5],
+			"translation": [0, -0.5, -0.5],
 			"scale": [0.82, 0.82, 0.82]
 		},
 		"thirdperson_lefthand": {
-			"translation": [0, -0.5, -1.5],
+			"translation": [0, -0.5, -0.5],
 			"scale": [0.82, 0.82, 0.82]
 		},
 		"firstperson_righthand": {
@@ -154,19 +154,19 @@
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"ground": {
-			"translation": [0, 1.75, 0]
+			"translation": [0, 5, 0]
 		},
 		"gui": {
 			"rotation": [0, 24, 0],
-			"translation": [0, 0.5, 0],
-			"scale": [1.3, 1.3, 1.3]
+			"translation": [0, -0.25, 0],
+			"scale": [0.8, 0.8, 0.8]
 		},
 		"head": {
-			"translation": [0, 11.25, -1.5]
+			"translation": [0, 14.5, -1.5]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [-0.5, -0.25, -9],
+			"translation": [-0.5, -0.25, -14.5],
 			"scale": [1.82, 1.82, 1.82]
 		}
 	},

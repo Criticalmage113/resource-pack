@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
 	"textures": {
-		"2": "valence:val_cal/chocolate_box"
+		"2": "valence:val_cal/chocolate_box",
+		"particle": "valence:val_cal/chocolate_box"
 	},
 	"elements": [
 		{

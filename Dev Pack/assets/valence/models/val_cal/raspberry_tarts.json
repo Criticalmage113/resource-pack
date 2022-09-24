@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
 	"textures": {
-		"0": "valence:val_cal/plate",
+		"0": "valence:val_kitchen/plate",
 		"1": "valence:val_cal/raspberry_danish",
-		"particle": "valence:val_cal/plate"
+		"particle": "valence:val_cal/raspberry_danish"
 	},
 	"elements": [
 		{

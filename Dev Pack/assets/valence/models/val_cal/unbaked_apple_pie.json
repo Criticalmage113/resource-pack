@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
 	"textures": {
-		"1": "valence:val_cal/valence:val_cal/unbaked_apple_pie",
-		"2": "valence:val_cal/valence:val_cal/pie_tin",
-		"particle": "valence:val_cal/valence:val_cal/pie_tin"
+		"1": "valence:val_cal/unbaked_apple_pie",
+		"2": "valence:val_kitchen/pie_tin",
+		"particle": "valence:val_cal/unbaked_apple_pie"
 	},
 	"elements": [
 		{

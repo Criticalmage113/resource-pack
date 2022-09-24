@@ -1,23 +1,11 @@
 {
-	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
+	"credit": "Made with Blockbench, by Kooky for use by Valence Group Inc.",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "valence:val_cal/lemon"
+		"2": "valence:val_cal/lemon",
+		"particle": "valence:val_cal/lemon"
 	},
 	"elements": [
-		{
-			"from": [0, -0.04848, 0],
-			"to": [16, -0.04848, 16],
-			"color": 2,
-			"faces": {
-				"north": {"uv": [0, 0, 8, 0], "texture": "#missing"},
-				"east": {"uv": [0, 0, 8, 0], "texture": "#missing"},
-				"south": {"uv": [0, 0, 8, 0], "texture": "#missing"},
-				"west": {"uv": [0, 0, 8, 0], "texture": "#missing"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#missing"},
-				"down": {"uv": [0, 0, 8, 8], "texture": "#missing"}
-			}
-		},
 		{
 			"from": [8, 0, 2],
 			"to": [9, 1, 13],

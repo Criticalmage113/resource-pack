@@ -1,7 +1,8 @@
 {
-	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
+	"credit": "Made with Blockbench, by Kooky for use by Valence Group Inc.",
 	"textures": {
-		"1": "valence:val_cal/rice_bag"
+		"1": "valence:val_cal/rice_bag",
+		"particle": "valence:val_cal/rice_bag"
 	},
 	"elements": [
 		{

@@ -11,7 +11,13 @@
 
         {"predicate": {"custom_model_data": 5}, "model": "valence:resources/ingot/bundle_scrape_metal1"},
 
-        {"predicate": {"custom_model_data": 5}, "model": "valence:resources/ingot/steel"}
+        {"predicate": {"custom_model_data": 6}, "model": "valence:resources/ingot/steel"},
+        {"predicate": {"custom_model_data": 7}, "model": "valence:val_kitchen/pie_tin"},
+        {"predicate": {"custom_model_data": 8}, "model": "valence:val_kitchen/teapot"},
+        {"predicate": {"custom_model_data": 9}, "model": "valence:val_kitchen/mug"},
+        {"predicate": {"custom_model_data": 10}, "model": "valence:val_kitchen/plate"},
+        {"predicate": {"custom_model_data": 11}, "model": "valence:val_kitchen/saucepan"},
+        {"predicate": {"custom_model_data": 12}, "model": "valence:val_kitchen/kitch_knife"}
 
         
     ]
