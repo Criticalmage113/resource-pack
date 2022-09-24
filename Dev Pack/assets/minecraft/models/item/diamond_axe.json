@@ -18,7 +18,7 @@
         {"predicate": {"custom_model_data": 11}, "model": "valence:weapon/axe/nieaxe"},
         {"predicate": {"custom_model_data": 12}, "model": "valence:weapon/axe/stendahl"},
         {"predicate": {"custom_model_data": 13}, "model": "valence:weapon/axe/silver_battle_axe"},
-        
+        {"predicate": {"custom_model_data": 14}, "model": "valence:weapon/axe/crimson_axe"},
         
         {"predicate": {"custom_model_data": 501}, "model": "valence:weapon/hammer/steel"},
         {"predicate": {"custom_model_data": 502}, "model": "valence:weapon/hammer/iron"},
@@ -30,7 +30,12 @@
         {"predicate": {"custom_model_data": 508}, "model": "valence:weapon/hammer/mountbatten_masher"},
         {"predicate": {"custom_model_data": 509}, "model": "valence:weapon/hammer/silver_hammer"},
         {"predicate": {"custom_model_data": 510}, "model": "valence:weapon/hammer/ivars_hammer"},         
-        
+        {"predicate": {"custom_model_data": 511}, "model": "valence:weapon/hammer/skullbreaker"},
+        {"predicate": {"custom_model_data": 512}, "model": "valence:weapon/hammer/crimson_hammer"},
+        {"predicate": {"custom_model_data": 513}, "model": "valence:weapon/hammer/forgehammer"},
+        {"predicate": {"custom_model_data": 514}, "model": "valence:weapon/hammer/bronze_hammer"},
+        {"predicate": {"custom_model_data": 515}, "model": "valence:weapon/hammer/fallen_miner"},
+
         {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/doc_hammer"},
         {"predicate": {"custom_model_data": 14002}, "model": "valence:customcontent/downfall_axe"},
         {"predicate": {"custom_model_data": 14003}, "model": "valence:customcontent/naomi_mace"},

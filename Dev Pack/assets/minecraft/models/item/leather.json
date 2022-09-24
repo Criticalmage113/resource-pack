@@ -4,6 +4,13 @@
     "layer0": "minecraft:item/leather"
   },
   "overrides": [
-    {"predicate": { "custom_model_data": 13501}, "model": "valence:custom_drops/bat_wing"}
+    {"predicate": { "custom_model_data": 13501}, "model": "valence:custom_drops/bat_wing"},
+    {"predicate": { "custom_model_data": 13502}, "model": "valence:custom_drops/scrap_goat_leather"},
+    {"predicate": { "custom_model_data": 13503}, "model": "valence:custom_drops/cow_leather"},
+    {"predicate": { "custom_model_data": 13504}, "model": "valence:custom_drops/goblin_ear_component"},
+    {"predicate": { "custom_model_data": 13505}, "model": "valence:misc/death_letter"},
+    {"predicate": { "custom_model_data": 13506}, "model": "valence:misc/ring_box"},
+    {"predicate": { "custom_model_data": 13507}, "model": "valence:misc/scroll"},
+    {"predicate": { "custom_model_data": 13508}, "model": "valence:misc/simple_ring"}
   ]
 }

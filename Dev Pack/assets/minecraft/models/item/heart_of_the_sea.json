@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/heart_of_the_sea"
   },
   "overrides": [
-    {"predicate": { "custom_model_data": 11001}, "model": "valence:weapon/charm/bat_charm"}
+    {"predicate": { "custom_model_data": 11001}, "model": "valence:weapon/charm/bat_charm"},
+    {"predicate": { "custom_model_data": 11002}, "model": "valence:weapon/charm/lunar_charm"}
   ]
 }

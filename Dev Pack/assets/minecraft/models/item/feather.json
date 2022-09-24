@@ -35,10 +35,22 @@
       {"predicate": {"custom_model_data": 12029}, "model": "valence:armor/helm/misc/winged_helm"},   
       {"predicate": {"custom_model_data": 12030}, "model": "valence:armor/hat/haberdashery/surrender"},          
       {"predicate": {"custom_model_data": 12031}, "model": "valence:armor/hat/haberdashery/sundaygolfer"},    
-      {"predicate": {"custom_model_data": 12032}, "model": "valence:armor/hat/haberdashery/pedestrian"},         
+      {"predicate": {"custom_model_data": 12032}, "model": "valence:armor/hat/haberdashery/pedestrian"},
       {"predicate": {"custom_model_data": 12033}, "model": "valence:armor/helm/kamaria/crown"},
       {"predicate": {"custom_model_data": 12034}, "model": "valence:armor/helm/vampire/garlic_helmet"},
-      {"predicate": {"custom_model_data": 12035}, "model": "valence:armor/hat/stetson_2"},
+      {"predicate": {"custom_model_data": 12035}, "model": "valence:armor/helm/dimadome"},
+      {"predicate": {"custom_model_data": 12036}, "model": "valence:armor/helm/dimaminor"},
+      {"predicate": {"custom_model_data": 12037}, "model": "valence:armor/hat/stetson_2"},
+      {"predicate": {"custom_model_data": 12101}, "model": "valence:armor/hat/haberdashery/floral_hats"},
+      {"predicate": {"custom_model_data": 12102}, "model": "valence:armor/hat/haberdashery/pirates_trusty_tricorn"},
+      {"predicate": {"custom_model_data": 12103}, "model": "valence:armor/helm/stonebay/houseguard"},
+
+      
+      
+      
+
+     
+
 
 
 
