@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "valence:customcontent/dylans_staff",
 		"particle": "valence:customcontent/dylans_staff"
@@ -1394,9 +1394,9 @@
 			"scale": [1.51, 1.51, 1.51]
 		},
 		"fixed": {
-			"rotation": [-0.07, 2, 46.5],
-			"translation": [0.75, -1.25, -1],
-			"scale": [0.97, 0.89, 0.89]
+			"rotation": [0, 144, 0],
+			"translation": [0.75, -1.25, -0.5],
+			"scale": [2.1, 2.1, 2.1]
 		}
 	},
 	"groups": [

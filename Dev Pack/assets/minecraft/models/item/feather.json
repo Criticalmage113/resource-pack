@@ -44,6 +44,16 @@
       {"predicate": {"custom_model_data": 12101}, "model": "valence:armor/hat/haberdashery/floral_hats"},
       {"predicate": {"custom_model_data": 12102}, "model": "valence:armor/hat/haberdashery/pirates_trusty_tricorn"},
       {"predicate": {"custom_model_data": 12103}, "model": "valence:armor/helm/stonebay/houseguard"},
+      {"predicate": {"custom_model_data": 12104}, "model": "valence:armor/helm/deep/tidalhelm"},
+      {"predicate": {"custom_model_data": 12105}, "model": "valence:armor/helm/deep/tidehelm"},
+      {"predicate": {"custom_model_data": 12106}, "model": "valence:armor/helm/deep/wavehelm"},
+      {"predicate": {"custom_model_data": 12107}, "model": "valence:armor/helm/blackreach/brnoble"},
+      {"predicate": {"custom_model_data": 12108}, "model": "valence:armor/helm/blackreach/brknight"},
+      {"predicate": {"custom_model_data": 12109}, "model": "valence:armor/helm/blackreach/brhelm"},
+      {"predicate": {"custom_model_data": 12110}, "model": "valence:armor/hat/seasonal/witch"},
+      {"predicate": {"custom_model_data": 12111}, "model": "valence:armor/hat/seasonal/demon"},
+      {"predicate": {"custom_model_data": 12112}, "model": "valence:armor/hat/seasonal/franken"},
+      {"predicate": {"custom_model_data": 12113}, "model": "valence:armor/helm/misc/wendigo"},
 
       
       

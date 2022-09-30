@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
+	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "valence:weapon/spear/silver_spear",
@@ -504,10 +504,14 @@
 			"translation": [-1.5, 1.5, 0],
 			"scale": [0.55, 0.55, 0.55]
 		},
+		"head": {
+			"rotation": [0, 0, 112],
+			"translation": [10.5, 0, 0]
+		},
 		"fixed": {
-			"rotation": [-90, 45, 90],
-			"translation": [-2, 2, 0],
-			"scale": [0.6, 0.6, 0.6]
+			"rotation": [-90, 90, 90],
+			"translation": [0, 10.5, 0],
+			"scale": [2.2, 2.2, 2.2]
 		}
 	},
 	"groups": [

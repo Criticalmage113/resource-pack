@@ -230,7 +230,9 @@
 			"translation": [0, 2.75, 12.75]
 		},
 		"fixed": {
-			"translation": [0, 0, -4.75]
+			"rotation": [0, 90, 0],
+			"translation": [0, 1.25, -1.5],
+			"scale": [1.5, 1.5, 1.5]
 		}
 	},
 	"groups": [

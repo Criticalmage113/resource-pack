@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench, by Christopher for use by Valence Group Inc.",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "valence:weapon/axe/steel",
 		"particle": "valence:weapon/axe/steel"
@@ -420,8 +420,8 @@
 			"scale": [1, 1.08, 1]
 		},
 		"fixed": {
-			"rotation": [-92.21, 55.22, 91.8],
-			"translation": [2.5, -2, 0],
+			"rotation": [0, 90, 0],
+			"translation": [0, -2, -1],
 			"scale": [1, 1.07617, 1]
 		}
 	},

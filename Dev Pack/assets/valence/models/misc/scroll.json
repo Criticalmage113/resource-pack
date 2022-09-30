@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "valence:misc/scroll",
 		"particle": "valence:misc/scroll"
@@ -81,19 +81,6 @@
 				"west": {"uv": [8, 6.5, 9, 5.5], "texture": "#0"},
 				"up": {"uv": [8, 6.5, 9, 5.5], "texture": "#0"},
 				"down": {"uv": [8, 6.5, 9, 5.5], "texture": "#0"}
-			}
-		},
-		{
-			"from": [7, 9.44833, 7],
-			"to": [9, 9.69833, 9],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 4.875, 0]},
-			"faces": {
-				"north": {"uv": [4.5, 0, 6.5, 0.5], "texture": "#0"},
-				"east": {"uv": [4.5, 0, 6.5, 0.5], "texture": "#0"},
-				"south": {"uv": [4.5, 0, 6.5, 0.5], "texture": "#0"},
-				"west": {"uv": [4.5, 0, 6.5, 0.5], "texture": "#0"},
-				"up": {"uv": [4.5, 0, 8, 3.5], "texture": "#0"},
-				"down": {"uv": [4.5, 0, 8, 3.5], "texture": "#0"}
 			}
 		}
 	],

@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench, by Wisteria and Kooky",
+	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "valence:customcontent/deep_seeker_helm",
@@ -798,6 +798,11 @@
 		"head": {
 			"translation": [-0.25, -4.75, -5.5],
 			"scale": [1.87727, 1.85773, 1.68]
+		},
+		"fixed": {
+			"rotation": [-83, 0, 0],
+			"translation": [0, -9.25, -4.25],
+			"scale": [2.73, 2.73, 2.73]
 		}
 	},
 	"groups": [

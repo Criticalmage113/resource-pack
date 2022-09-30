@@ -8,7 +8,10 @@
       {"predicate": {"custom_model_data": 3502}, "model": "valence:tool/pickaxe/dragonbone"},
       {"predicate": {"custom_model_data": 3503}, "model": "valence:tool/pickaxe/crimson"},
       {"predicate": {"custom_model_data": 3504}, "model": "valence:tool/pickaxe/flower_pick"},
-      {"predicate": {"custom_model_data": 3505}, "model": "valence:tool/pickaxe/mooncast_mattock"},          
+      {"predicate": {"custom_model_data": 3505}, "model": "valence:tool/pickaxe/mooncast_mattock"},      
+      {"predicate": {"custom_model_data": 3506}, "model": "valence:tool/pickaxe/fallen_miner"},
+
+    
       {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/blackjack_pickaxe"}
     ]
 }

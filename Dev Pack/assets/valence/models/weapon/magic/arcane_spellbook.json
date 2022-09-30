@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench by Night (NightScythe1), used in the Magic plugin with permission",
+	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "valence:weapon/magic/enchantedbook",
@@ -48,12 +48,12 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [75, -180, 0],
-			"translation": [-0.5, 3, 2.5],
+			"translation": [-0.35, 3, 2],
 			"scale": [0.6, 0.6, 0.6]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [75, -180, 0],
-			"translation": [-0.5, 3, 2.5],
+			"translation": [0.3, 3, 1.75],
 			"scale": [0.6, 0.6, 0.6]
 		},
 		"firstperson_righthand": {
@@ -72,6 +72,9 @@
 			"translation": [0, 1, 0],
 			"scale": [0.9, 0.9, 0.9]
 		},
+		"head": {
+			"translation": [0, 11, 0]
+		},
 		"fixed": {
 			"rotation": [90, -180, 0],
 			"translation": [0, 0, 1]
@@ -81,10 +84,12 @@
 		{
 			"name": "all",
 			"origin": [4, 0.5, 6],
+			"color": 0,
 			"children": [
 				{
 					"name": "book",
 					"origin": [4.13521, 6.45997, 8],
+					"color": 0,
 					"children": [0, 1, 2]
 				}
 			]

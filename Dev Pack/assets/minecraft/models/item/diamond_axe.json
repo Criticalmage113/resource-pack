@@ -34,7 +34,6 @@
         {"predicate": {"custom_model_data": 512}, "model": "valence:weapon/hammer/crimson_hammer"},
         {"predicate": {"custom_model_data": 513}, "model": "valence:weapon/hammer/forgehammer"},
         {"predicate": {"custom_model_data": 514}, "model": "valence:weapon/hammer/bronze_hammer"},
-        {"predicate": {"custom_model_data": 515}, "model": "valence:weapon/hammer/fallen_miner"},
 
         {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/doc_hammer"},
         {"predicate": {"custom_model_data": 14002}, "model": "valence:customcontent/downfall_axe"},

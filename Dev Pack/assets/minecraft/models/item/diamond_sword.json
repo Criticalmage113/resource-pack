@@ -47,6 +47,7 @@
     {"predicate": {"custom_model_data": 2011}, "model": "valence:weapon/short_sword/rugged_dagger"},
     {"predicate": {"custom_model_data": 2012}, "model": "valence:weapon/short_sword/rusty_butchers_blade"},
     {"predicate": {"custom_model_data": 2013}, "model": "valence:weapon/short_sword/crimson_short_sword"},
+    {"predicate": {"custom_model_data": 2014}, "model": "valence:weapon/short_sword/crimson_dagger"},
 
 
     {"predicate": {"custom_model_data": 2501}, "model": "valence:weapon/spear/iron"},

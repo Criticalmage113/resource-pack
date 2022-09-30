@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench, by Christopher for use by Valence Group Inc.",
+	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "valence:weapon/spear/iron",
@@ -422,8 +422,8 @@
 		},
 		"fixed": {
 			"rotation": [180, -90, 180],
-			"translation": [-0.75, -5.75, 1.25],
-			"scale": [0.68, 0.68, 0.68]
+			"translation": [-0.75, -19.75, 1.25],
+			"scale": [2.96, 2.96, 2.96]
 		}
 	},
 	"groups": [

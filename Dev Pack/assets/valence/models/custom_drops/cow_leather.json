@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "valence:custom_drops/cow_leather",
 		"particle": "valence:custom_drops/cow_leather"
@@ -272,9 +272,9 @@
 			"scale": [2.08, 2.08, 2.08]
 		},
 		"fixed": {
-			"rotation": [84, 0, 180],
-			"translation": [0, -2, 0],
-			"scale": [1.49, 1.49, 1.49]
+			"rotation": [90, 0, 180],
+			"translation": [0, -2, -4],
+			"scale": [4, 4, 4]
 		}
 	},
 	"groups": [
