@@ -97,7 +97,8 @@
 			"scale": [0.51, 0.51, 0.51]
 		},
 		"fixed": {
-			"translation": [0, -6.75, 0]
+			"rotation": [-90, 0, 0],
+			"translation": [0, 1.25, -7.5]
 		}
 	}
 }

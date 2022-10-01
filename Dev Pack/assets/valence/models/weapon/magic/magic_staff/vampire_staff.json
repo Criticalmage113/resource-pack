@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench, by Bone",
+	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "valence:weapon/magic/magic_staff/vampire_staff",
@@ -811,7 +811,7 @@
 		"ground": {
 			"rotation": [174, 55.58, -63.13],
 			"translation": [1.5, -3.25, 0.5],
-			"scale": [3.26, 3.26, 3.26]
+			"scale": [2.4, 2.4, 2.4]
 		},
 		"gui": {
 			"rotation": [20, 0, -20],
@@ -824,9 +824,9 @@
 			"scale": [4, 4, 4]
 		},
 		"fixed": {
-			"rotation": [-180, 0, 158.75],
-			"translation": [-0.5, -0.5, -0.25],
-			"scale": [2.11, 2.11, 2.11]
+			"rotation": [23, 90, 0],
+			"translation": [-0.5, -0.5, -3],
+			"scale": [3.46, 3.46, 3.46]
 		}
 	},
 	"groups": [

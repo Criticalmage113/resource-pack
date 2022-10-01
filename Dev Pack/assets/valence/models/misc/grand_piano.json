@@ -1,11 +1,11 @@
 {
-	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
+	"credit": "Made with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
-		"1": "valence:misc/piano string",
-		"2": "valence:misc/piano_keys",
-		"3": "valence:misc/piano_body",
-		"particle": "valence:misc/piano_keys"
+		"1": "valence:misc/piano/piano_string",
+		"2": "valence:misc/piano/piano_keys",
+		"3": "valence:misc/piano/piano_body",
+		"particle": "valence:misc/piano/piano_keys"
 	},
 	"elements": [
 		{
@@ -2281,12 +2281,14 @@
 			"scale": [0.15, 0.15, 0.15]
 		},
 		"firstperson_righthand": {
-			"translation": [0, 1.75, 0],
-			"scale": [0.15, 0.15, 0.15]
+			"rotation": [0, 102, 0],
+			"translation": [1.25, 1.75, 2.25],
+			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_lefthand": {
-			"translation": [0, 1.75, 0],
-			"scale": [0.15, 0.15, 0.15]
+			"rotation": [0, 102, 0],
+			"translation": [1.25, 1.75, 2.25],
+			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {
 			"translation": [0, 14.75, 9.75]
@@ -2297,12 +2299,12 @@
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"head": {
-			"translation": [0, 10.25, 0]
+			"translation": [0, 4, 0]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [0, 35, -64.5],
-			"scale": [4, 4, 4]
+			"translation": [0, 17.5, -23],
+			"scale": [2.5, 2.5, 2.5]
 		}
 	},
 	"groups": [

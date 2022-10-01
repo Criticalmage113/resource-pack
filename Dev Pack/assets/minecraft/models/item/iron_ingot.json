@@ -17,7 +17,13 @@
         {"predicate": {"custom_model_data": 9}, "model": "valence:val_kitchen/mug"},
         {"predicate": {"custom_model_data": 10}, "model": "valence:val_kitchen/plate"},
         {"predicate": {"custom_model_data": 11}, "model": "valence:val_kitchen/saucepan"},
-        {"predicate": {"custom_model_data": 12}, "model": "valence:val_kitchen/kitch_knife"}
+        {"predicate": {"custom_model_data": 12}, "model": "valence:val_kitchen/kitch_knife"},
+
+
+        {"predicate": {"custom_model_data": 1001}, "model": "valence:resources/raw/silver"},
+        {"predicate": {"custom_model_data": 1002}, "model": "valence:resources/raw/crimson"},
+        {"predicate": {"custom_model_data": 1003}, "model": "valence:resources/raw/tin"},
+        {"predicate": {"custom_model_data": 1004}, "model": "valence:resources/raw/silver_chunk"}
 
         
     ]

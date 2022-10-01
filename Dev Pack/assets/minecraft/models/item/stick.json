@@ -11,7 +11,6 @@
       {"predicate": {"custom_model_data": 11005}, "model": "valence:weapon/magic/maldore_wand"},
       {"predicate": {"custom_model_data": 11006}, "model": "valence:weapon/magic/lunar_wand"},
       {"predicate": {"custom_model_data": 11007}, "model": "valence:weapon/spear/shamanic_staff"},
-      {"predicate": {"custom_model_data": 11008}, "model": "valence:weapon/spear/walking_cane"},
 
       {"predicate": {"custom_model_data":11007}, "model": "valence:weapon/magic/magic_staff/ms_wooden_wood"},
       {"predicate": {"custom_model_data":11008}, "model": "valence:weapon/magic/magic_staff/ms_wooden_iron"},
@@ -53,8 +52,14 @@
       {"predicate": {"custom_model_data":11044}, "model": "valence:weapon/magic/magic_staff/ms_optic_green"},
       {"predicate": {"custom_model_data":11045}, "model": "valence:weapon/magic/magic_staff/ms_optic_red"},
       {"predicate": {"custom_model_data":11046}, "model": "valence:weapon/magic/magic_staff/ms_optic_purple"},
-
       {"predicate": {"custom_model_data": 11047}, "model": "valence:weapon/magic/magic_staff/vampire_staff"},
+
+
+      {"predicate": {"custom_model_data": 11048}, "model": "valence:weapon/spear/walking_cane"},
+
+
+      {"predicate": {"custom_model_data": 11049}, "model": "valence:resources/raw/bundle_scrapwood2"},
+
 
       {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/vampire_staff"},
       {"predicate": {"custom_model_data": 14002}, "model": "valence:customcontent/crystaline_eye"},
@@ -67,10 +72,6 @@
       {"predicate": {"custom_model_data": 14009}, "model": "valence:customcontent/neptune_staff"},
       {"predicate": {"custom_model_data": 14010}, "model": "valence:customcontent/bee_sunstick"},
       {"predicate": {"custom_model_data": 14011}, "model": "valence:customcontent/jj_netherstaff"},
-
-      
-      {"predicate": {"custom_model_data": 15001}, "model": "valence:resources/raw/bundle_scrapwood2"},
-
       {"predicate": {"custom_model_data": 14012}, "model": "valence:customcontent/dylans_staff"}
 
     ]

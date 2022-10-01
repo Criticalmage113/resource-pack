@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench, by BonesSkullHeads for use by Valence Group Inc.",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "valence:weapon/axe/meteorite",
 		"particle": "valence:weapon/axe/meteorite"
@@ -270,12 +270,8 @@
 			"to": [8.37678, 17.72125, 8.70273],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
-				"north": {"uv": [16, 16, 16, 16], "texture": "#0"},
 				"east": {"uv": [16, 6.75, 9, 16], "texture": "#0"},
-				"south": {"uv": [16, 15.75, 16, 16], "texture": "#0"},
-				"west": {"uv": [9, 6.75, 16, 16], "texture": "#0"},
-				"up": {"uv": [16, 16, 16, 16], "texture": "#0"},
-				"down": {"uv": [16, 16, 16, 16], "texture": "#0"}
+				"west": {"uv": [9, 6.75, 16, 16], "texture": "#0"}
 			}
 		},
 		{
@@ -429,9 +425,7 @@
 				"north": {"uv": [8, 0, 9, 5.75], "texture": "#0"},
 				"east": {"uv": [8, 0, 3.5, 5.75], "texture": "#0"},
 				"south": {"uv": [16, 16, 16, 16], "texture": "#0"},
-				"west": {"uv": [9, 0, 13.5, 5.75], "texture": "#0"},
-				"up": {"uv": [16, 16, 16, 16], "texture": "#0"},
-				"down": {"uv": [16, 16, 16, 16], "texture": "#0"}
+				"west": {"uv": [9, 0, 13.5, 5.75], "texture": "#0"}
 			}
 		}
 	],
@@ -473,7 +467,7 @@
 		},
 		"fixed": {
 			"rotation": [-90, 52.25, 90],
-			"translation": [0.75, -0.75, -0.75],
+			"translation": [0.75, -0.75, -0.25],
 			"scale": [1.2, 1.2, 1.2]
 		}
 	},

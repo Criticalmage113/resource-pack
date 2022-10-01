@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench, by Ace",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "valence:misc/wrap",
 		"1": "valence:misc/warhandle",
@@ -537,7 +537,7 @@
 		},
 		"ground": {
 			"rotation": [0, 0, -73],
-			"scale": [1.83, 2.06, 1.83]
+			"scale": [1.23, 1.23, 1.23]
 		},
 		"gui": {
 			"rotation": [0, 0, -48],

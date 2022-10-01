@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench, by William",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "valence:weapon/long_sword/mummy",
 		"particle": "valence:weapon/long_sword/mummy"
@@ -134,7 +134,7 @@
 			"scale": [0.71, 0.71, 0.71]
 		},
 		"fixed": {
-			"translation": [0, 0, -0.75],
+			"translation": [0, 0, -4.75],
 			"scale": [2, 2, 2]
 		}
 	},
