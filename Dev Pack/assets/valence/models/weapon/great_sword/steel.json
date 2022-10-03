@@ -1,5 +1,5 @@
 {
-	"credit": "Honey",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "valence:weapon/great_sword/steel",
 		"particle": "valence:weapon/great_sword/steel"
@@ -159,8 +159,9 @@
 			"scale": [0.82, 0.82, 0.82]
 		},
 		"fixed": {
-			"translation": [-0.25, -3.75, -7.25],
-			"scale": [0.77, 0.77, 0.77]
+			"rotation": [0, 0, 90],
+			"translation": [10.5, 1.25, -15.75],
+			"scale": [2.02, 2.02, 2.02]
 		}
 	},
 	"groups": [

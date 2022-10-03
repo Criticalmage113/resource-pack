@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "valence:weapon/long_sword/trusty_club_texture",
 		"particle": "valence:weapon/long_sword/trusty_club_texture"
@@ -558,9 +558,9 @@
 			"scale": [1.03, 1.03, 1.03]
 		},
 		"fixed": {
-			"rotation": [-75.56, 45.86, 79.49],
-			"translation": [4, -3.5, 0],
-			"scale": [0.86, 0.86, 0.86]
+			"rotation": [90, 0, 0],
+			"translation": [0.25, 0, -46],
+			"scale": [2.44, 2.44, 2.44]
 		}
 	},
 	"groups": [

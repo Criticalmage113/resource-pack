@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "valence:customcontent/sheen_helm/feather",
-		"1": "valence:customcontent/sheen_helm/redstone_block",
+		"1": "valence:customcontent/sheen_helm/lapis_block",
 		"2": "valence:customcontent/sheen_helm/quartz_block_top",
 		"4": "valence:customcontent/sheen_helm/netherite_block",
 		"particle": "valence:customcontent/sheen_helm/feather"
@@ -1185,8 +1185,9 @@
 			"scale": [4, 4, 4]
 		},
 		"fixed": {
-			"translation": [-1, 16, 1.75],
-			"scale": [3.31, 3.31, 3.31]
+			"rotation": [-90, 0, 0],
+			"translation": [-1, 8.25, -26.25],
+			"scale": [4, 4, 4]
 		}
 	},
 	"groups": [

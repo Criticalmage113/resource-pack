@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench, By Bone for use by Valence Group Inc",
+	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "valence:weapon/scythe/blood",
@@ -846,9 +846,9 @@
 			"scale": [1.83, 1.83, 1.83]
 		},
 		"fixed": {
-			"rotation": [-90, 59, 90],
-			"translation": [2.75, -0.75, -0.25],
-			"scale": [1.32, 0.77, 0.77]
+			"rotation": [0, 90, 0],
+			"translation": [2.75, -0.75, -1],
+			"scale": [1, 2.19, 2.19]
 		}
 	},
 	"groups": [

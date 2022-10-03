@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "valence:misc/blade",
-		"1": "valence:misc/detailing",
-		"2": "valence:misc/handle",
-		"particle": "valence:misc/blade"
+		"0": "valence:misc/prismarinesword/blade",
+		"1": "valence:misc/prismarinesword/detailing",
+		"2": "valence:misc/prismarinesword/handle",
+		"particle": "valence:misc/prismarinesword/blade"
 	},
 	"elements": [
 		{
@@ -1077,8 +1077,8 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [0, -90, 0],
-			"translation": [4, -5.5, 3],
-			"scale": [0.68, 0.81, 1]
+			"translation": [4, -6.75, 3],
+			"scale": [0.81, 0.92, 1]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [0, -90, 0],
@@ -1099,11 +1099,6 @@
 			"rotation": [49, 2, -11],
 			"translation": [0, 2.75, -3],
 			"scale": [0.68, 0.81, 1]
-		},
-		"gui": {
-			"rotation": [2, -180, 36],
-			"translation": [-1, -1.25, 0],
-			"scale": [0.42, 0.42, 0.42]
 		},
 		"fixed": {
 			"translation": [0, -9, -3.25],

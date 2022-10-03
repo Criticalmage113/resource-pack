@@ -201,9 +201,9 @@
 			"translation": [0.25, 3.25, -7.75]
 		},
 		"fixed": {
-			"rotation": [0, 90, 0],
-			"translation": [0, 0, -2.5],
-			"scale": [1.27, 1.27, 1.27]
+			"rotation": [-11, 180, 0],
+			"translation": [0, -5.75, -4.75],
+			"scale": [1.67, 1.67, 1.67]
 		}
 	},
 	"groups": [
