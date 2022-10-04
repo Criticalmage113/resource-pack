@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench, by William",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "valence:misc/flatbrimcord",
 		"2": "valence:misc/flatbrimsash",
@@ -373,9 +373,9 @@
 			"scale": [2.23, 2.01, 2.17]
 		},
 		"fixed": {
-			"rotation": [0, -90, 0],
-			"translation": [0, 6.25, 1.75],
-			"scale": [1.3, 1.3, 1.3]
+			"rotation": [0, -90, 90],
+			"translation": [0, 1.5, -13],
+			"scale": [1.9, 1.9, 1.9]
 		}
 	},
 	"groups": [
