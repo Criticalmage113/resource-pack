@@ -193,7 +193,7 @@
       "height": 8
     },
     {
-      "file": "valence/staff/people.png",
+      "file": "valence/staff/personnel.png",
       "ascent": 8,
       "type": "bitmap",
       "chars": [
@@ -256,20 +256,11 @@
       "height": 8
     },
     {
-      "file": "valence/staff/controller.png",
+      "file": "valence/staff/admin.png",
       "ascent": 8,
       "type": "bitmap",
       "chars": [
         ""
-      ],
-      "height": 8
-    },
-    {
-      "file": "valence/staff/bookkeeper.png",
-      "ascent": 8,
-      "type": "bitmap",
-      "chars": [
-        ""
       ],
       "height": 8
     },
@@ -408,16 +399,7 @@
       ],
       "height": 8
     },
-        {
-      "file": "valence/other/booster.png",
-      "ascent": 8,
-      "type": "bitmap",
-      "chars": [
-        ""
-      ],
-      "height": 8
-    },
-        {
+    {
       "file": "valence/other/premium.png",
       "ascent": 8,
       "type": "bitmap",
@@ -426,7 +408,7 @@
       ],
       "height": 8
     },
-        {
+    {
       "file": "valence/other/hero.png",
       "ascent": 8,
       "type": "bitmap",
@@ -435,7 +417,7 @@
       ],
       "height": 8
     },
-        {
+    {
       "file": "valence/other/champion.png",
       "ascent": 8,
       "type": "bitmap",
@@ -444,7 +426,7 @@
       ],
       "height": 8
     },
-        {
+    {
       "file": "valence/other/legend.png",
       "ascent": 8,
       "type": "bitmap",
@@ -760,11 +742,20 @@
       "height": 8
     },
     {
-      "file": "valence/tiers/develop.png",
+      "file": "valence/staff/develop.png",
       "ascent": 8,
       "type": "bitmap",
       "chars": [
         ""
+      ],
+      "height": 8
+    },
+    {
+      "file": "valence/staff/project.png",
+      "ascent": 8,
+      "type": "bitmap",
+      "chars": [
+        ""
       ],
       "height": 8
     }
