@@ -4,7 +4,7 @@
 		"0": "valence:customcontent/sheen_shield/netherite_block",
 		"1": "valence:customcontent/sheen_shield/chiseled_quartz_block_top",
 		"2": "valence:customcontent/sheen_shield/quartz_block_side",
-		"3": "valence:customcontent/sheen_shield/redstone_block",
+		"3": "valence:customcontent/sheen_shield/lapis_block",
 		"particle": "valence:customcontent/sheen_shield/netherite_block"
 	},
 	"elements": [
@@ -240,7 +240,8 @@
 		},
 		"fixed": {
 			"rotation": [0, -88, 0],
-			"translation": [2.25, 0.75, -1]
+			"translation": [2.5, 3.5, -2.25],
+			"scale": [2.94, 2.94, 2.94]
 		}
 	}
 }

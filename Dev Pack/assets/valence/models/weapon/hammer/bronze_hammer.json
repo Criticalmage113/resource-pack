@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
+	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
 		"2": "valence:weapon/hammer/bronze_hammer",
@@ -310,9 +310,9 @@
 			"translation": [9.75, 8.25, 4.75]
 		},
 		"fixed": {
-			"rotation": [89.61, -45.49, 89.77],
-			"translation": [1.75, -1.5, -1.25],
-			"scale": [0.7, 0.7, 0.7]
+			"rotation": [89.61, 0, 96],
+			"translation": [3.5, -0.5, -3],
+			"scale": [1.77, 1.77, 1.77]
 		}
 	},
 	"groups": [

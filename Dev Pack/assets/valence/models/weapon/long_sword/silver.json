@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
+	"credit": "Made with Blockbench",
 	"texture_size": [25, 25],
 	"textures": {
 		"0": "valence:weapon/long_sword/silver",
@@ -158,8 +158,8 @@
 			"scale": [0.92, 0.87, 1]
 		},
 		"fixed": {
-			"rotation": [0, 0, 45],
-			"translation": [3, -2.75, 0.5]
+			"translation": [0.5, -7, 0.5],
+			"scale": [1.79, 1.79, 1.79]
 		}
 	},
 	"groups": [

@@ -28,7 +28,7 @@
     {"predicate": {"custom_model_data": 1504}, "model": "valence:weapon/great_sword/dragon_bone"},
     {"predicate": {"custom_model_data": 1505}, "model": "valence:misc/soul_sword"},
     {"predicate": {"custom_model_data": 1506}, "model": "valence:misc/red_soul_sword"},
-    {"predicate": {"custom_model_data": 1507}, "model": "valence:misc/old_prismarinesword"},
+    {"predicate": {"custom_model_data": 1507}, "model": "valence:misc/new_prismarinesword"},
     {"predicate": {"custom_model_data": 1508}, "model": "valence:misc/storm_sword"},
     {"predicate": {"custom_model_data": 1509}, "model": "valence:weapon/great_sword/stendahl"},    
     {"predicate": {"custom_model_data": 1510}, "model": "valence:weapon/misc/angel_sword"},
@@ -88,7 +88,6 @@
 
     {"predicate": {"custom_model_data": 13001}, "model": "valence:misc/kamaria_sword"},
     {"predicate": {"custom_model_data": 13002}, "model": "valence:misc/nieneedle"},
-    {"predicate": {"custom_model_data": 13003}, "model": "valence:misc/prismarinesword"},
     {"predicate": {"custom_model_data": 13004}, "model": "valence:weapon/misc/stendahl_boomerang"},        
 
     {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/cthonic_reaper"},
