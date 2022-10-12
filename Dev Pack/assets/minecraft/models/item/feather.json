@@ -54,8 +54,8 @@
       {"predicate": {"custom_model_data": 12111}, "model": "valence:armor/hat/seasonal/demon"},
       {"predicate": {"custom_model_data": 12112}, "model": "valence:armor/hat/seasonal/franken"},
       {"predicate": {"custom_model_data": 12113}, "model": "valence:armor/helm/misc/wendigo"},
-
-      
+      {"predicate": {"custom_model_data": 12114}, "model": "valence:armor/helm/stendahl/warden"},
+      {"predicate": {"custom_model_data": 12115}, "model": "valence:armor/helm/stendahl/low_tier_stendahl"},
       
       
 
