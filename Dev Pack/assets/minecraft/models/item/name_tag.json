@@ -1,0 +1,20 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/name_tag"
+	},
+	"display": {},
+    "overrides": [{
+        "predicate": {
+            "custom_model_data": 100
+        },
+        "model": "minecraft:item/name_tag_small"
+    },{
+        "predicate": {
+            "custom_model_data": 101
+        },
+        "model": "minecraft:item/name_tag_gray"
+    }
+]
+}
