@@ -4,6 +4,8 @@
       "layer0": "minecraft:item/feather"
     },
     "overrides": [
+      {"predicate": {"custom_model_data":1}, "model": "valence:pack_items/littleroom/deadbeard/corsair"},
+		  {"predicate": {"custom_model_data":2}, "model": "valence:pack_items/littleroom/deadbeard/bandana"},
       {"predicate": {"custom_model_data": 12001}, "model": "valence:armor/hat/flatbrim"},
       {"predicate": {"custom_model_data": 12002}, "model": "valence:armor/helm/stonebay/basic"},
       {"predicate": {"custom_model_data": 12003}, "model": "valence:armor/helm/stonebay/officer"},
