@@ -4,6 +4,7 @@
       "layer0": "minecraft:item/stick"
     },
     "overrides": [
+      {"predicate": {"custom_model_data":1}, "model": "valence:pack_items/littleroom/deadbeard/flintlock"},
       {"predicate": {"custom_model_data": 11001}, "model": "valence:weapon/magic/student_wand"},
       {"predicate": {"custom_model_data": 11002}, "model": "valence:weapon/magic/artificer_wand"},
       {"predicate": {"custom_model_data": 11003}, "model": "valence:weapon/magic/archmage_staff"},
