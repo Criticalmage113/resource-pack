@@ -14,6 +14,8 @@
     {"predicate": { "custom_model_data": 13508}, "model": "valence:misc/simple_ring"},
     {"predicate": { "custom_model_data": 13509}, "model": "valence:misc/scrollsb"},
     {"predicate": { "custom_model_data": 13510}, "model": "valence:misc/red_ribbon"},
-    {"predicate": { "custom_model_data": 13511}, "model": "valence:misc/rune_lataria"}
+    {"predicate": { "custom_model_data": 13511}, "model": "valence:misc/rune_lataria"},
+    {"predicate": { "custom_model_data": 13512}, "model": "valence:misc/stonebay_letter"},
+    {"predicate": { "custom_model_data": 13513}, "model": "valence:misc/letter"}
   ]
 }

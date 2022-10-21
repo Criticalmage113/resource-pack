@@ -98,7 +98,11 @@
     {"predicate": { "custom_model_data": 92}, "model": "valence:val_cal/pink_salt"},
     {"predicate": { "custom_model_data": 93}, "model": "valence:val_cal/steak_potato"},
     {"predicate": { "custom_model_data": 94}, "model": "valence:val_cal/champagne"},
-    {"predicate": { "custom_model_data": 95}, "model": "valence:val_cal/glazed_ham"}
+    {"predicate": { "custom_model_data": 95}, "model": "valence:val_cal/glazed_ham"},
+    {"predicate": { "custom_model_data": 96}, "model": "valence:val_cal/brain_on_a_plate"},
+    {"predicate": { "custom_model_data": 97}, "model": "valence:val_cal/toffee"},
+    {"predicate": { "custom_model_data": 98}, "model": "valence:val_cal/candycorn"},
+    {"predicate": { "custom_model_data": 99}, "model": "valence:val_cal/lolipop"}
 
 
     
