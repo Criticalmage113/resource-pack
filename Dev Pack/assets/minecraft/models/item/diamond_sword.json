@@ -5,7 +5,6 @@
   },
   "overrides": [
 
-    {"predicate": {"custom_model_data":1}, "model": "valence:pack_items/littleroom/deadbeard/hook"},
     {"predicate": {"custom_model_data": 1001}, "model": "valence:weapon/long_sword/silver"},
     {"predicate": {"custom_model_data": 1002}, "model": "valence:weapon/long_sword/iron"}, 
     {"predicate": {"custom_model_data": 1003}, "model": "valence:weapon/long_sword/steel"},
@@ -21,6 +20,7 @@
     {"predicate": {"custom_model_data": 1013}, "model": "valence:weapon/long_sword/naturezwei"},
     {"predicate": {"custom_model_data": 1014}, "model": "valence:weapon/long_sword/trusty_club"},
     {"predicate": {"custom_model_data": 1015}, "model": "valence:weapon/long_sword/cutlass"},
+    {"predicate": {"custom_model_data": 1016}, "model": "valence:weapon/long_sword/zweihander"},
     
     {"predicate": {"custom_model_data": 1501}, "model": "valence:weapon/great_sword/iron"},
     {"predicate": {"custom_model_data": 1502}, "model": "valence:weapon/great_sword/steel"},
@@ -109,6 +109,7 @@
     {"predicate": {"custom_model_data": 14017}, "model": "valence:customcontent/crystaline_sword"},
     {"predicate": {"custom_model_data": 14018}, "model": "valence:customcontent/batz_sword"},
     {"predicate": {"custom_model_data": 14019}, "model": "valence:customcontent/erin"},
-    {"predicate": {"custom_model_data": 14020}, "model": "valence:customcontent/jairo"}
+    {"predicate": {"custom_model_data": 14020}, "model": "valence:customcontent/jairo"},
+    {"predicate": {"custom_model_data": 14021}, "model": "valence:customcontent/chroma_gun"}
   ]
 }

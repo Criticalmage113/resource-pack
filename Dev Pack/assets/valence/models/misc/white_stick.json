@@ -1,0 +1,60 @@
+{
+	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
+	"textures": {
+		"0": "valence:misc/white_stick",
+		"particle": "valence:misc/white_stick"
+	},
+	"elements": [
+		{
+			"from": [8, -16, 7],
+			"to": [9, 32, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [67.75, 0, 0],
+			"translation": [0, 0, 3.75],
+			"scale": [0.5, 0.68, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [67.75, 0, 0],
+			"translation": [0, 0, 3.75],
+			"scale": [0.5, 0.68, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [175, 0, 0],
+			"translation": [0, 0, 3.75],
+			"scale": [0.5, 0.68, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [175, 0, 0],
+			"translation": [0, 0, 3.75],
+			"scale": [0.5, 0.68, 0.5]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0, 0.5],
+			"scale": [0.5, 0.68, 0.5]
+		},
+		"gui": {
+			"rotation": [0, 0, -45],
+			"translation": [0, 0, 0.5],
+			"scale": [0.5, 0.38703, 0.5]
+		},
+		"head": {
+			"translation": [0, -17.75, 0],
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"rotation": [0, 0, -43]
+		}
+	}
+}

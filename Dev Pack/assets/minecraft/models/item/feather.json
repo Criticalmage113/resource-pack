@@ -58,6 +58,9 @@
       {"predicate": {"custom_model_data": 12113}, "model": "valence:armor/helm/misc/wendigo"},
       {"predicate": {"custom_model_data": 12114}, "model": "valence:armor/helm/stendahl/warden"},
       {"predicate": {"custom_model_data": 12115}, "model": "valence:armor/helm/stendahl/low_tier_stendhal"},
+      {"predicate": {"custom_model_data": 12116}, "model": "valence:armor/hat/demonhorns"},
+      {"predicate": {"custom_model_data": 12117}, "model": "valence:armor/hat/paper_skull_mask"},
+      {"predicate": {"custom_model_data": 12118}, "model": "valence:armor/hat/witch"},
       
       
 

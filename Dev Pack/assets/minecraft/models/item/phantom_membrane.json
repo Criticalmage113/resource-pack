@@ -16,7 +16,12 @@
       {"predicate": { "custom_model_data": 8}, "model": "valence:misc/inkwell_and_feather"},
       {"predicate": { "custom_model_data": 9}, "model": "valence:misc/fox_plushie"},        
       {"predicate": { "custom_model_data": 10}, "model": "valence:misc/grand_piano"}, 
-      {"predicate": { "custom_model_data": 11}, "model": "valence:misc/chess_board"}
-
+      {"predicate": { "custom_model_data": 11}, "model": "valence:misc/chess_board"},
+      
+      {"predicate": { "custom_model_data": 13}, "model": "valence:misc/pumpkin_plushie"},
+      {"predicate": { "custom_model_data": 14}, "model": "valence:misc/pumpkin_top"},
+      
+      {"predicate": { "custom_model_data": 16}, "model": "valence:misc/gravestone2"},
+      {"predicate": { "custom_model_data": 17}, "model": "valence:misc/gravestone"}
     ]
   }
