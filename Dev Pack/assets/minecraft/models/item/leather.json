@@ -16,6 +16,9 @@
     {"predicate": { "custom_model_data": 13510}, "model": "valence:misc/red_ribbon"},
     {"predicate": { "custom_model_data": 13511}, "model": "valence:misc/rune_lataria"},
     {"predicate": { "custom_model_data": 13512}, "model": "valence:misc/stonebay_letter"},
-    {"predicate": { "custom_model_data": 13513}, "model": "valence:misc/letter"}
+    {"predicate": { "custom_model_data": 13513}, "model": "valence:misc/letter"},
+    {"predicate": { "custom_model_data": 13514}, "model": "valence:misc/glass_beaker"},
+    {"predicate": { "custom_model_data": 13515}, "model": "valence:misc/witches_caldron"},
+    {"predicate": { "custom_model_data": 13516}, "model": "valence:misc/tiny_skulls"}
   ]
 }
