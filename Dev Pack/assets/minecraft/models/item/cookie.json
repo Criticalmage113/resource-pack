@@ -102,8 +102,7 @@
     {"predicate": { "custom_model_data": 96}, "model": "valence:val_cal/brain_on_a_plate"},
     {"predicate": { "custom_model_data": 97}, "model": "valence:val_cal/toffee"},
     {"predicate": { "custom_model_data": 98}, "model": "valence:val_cal/candycorn"},
-    {"predicate": { "custom_model_data": 99}, "model": "valence:val_cal/lolipop"},
-    {"predicate": { "custom_model_data": 100}, "model": "valence:misc/bowl_of_eyes"}
+    {"predicate": { "custom_model_data": 99}, "model": "valence:val_cal/lolipop"}
 
 
     
