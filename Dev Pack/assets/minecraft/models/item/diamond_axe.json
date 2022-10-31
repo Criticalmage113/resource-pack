@@ -19,7 +19,6 @@
         {"predicate": {"custom_model_data": 12}, "model": "valence:weapon/axe/stendahl"},
         {"predicate": {"custom_model_data": 13}, "model": "valence:weapon/axe/silver_battle_axe"},
         {"predicate": {"custom_model_data": 14}, "model": "valence:weapon/axe/crimson_axe"},
-        {"predicate": {"custom_model_data": 15}, "model": "valence:weapon/axe/dragonbone_battle_axe"},
         
         {"predicate": {"custom_model_data": 501}, "model": "valence:weapon/hammer/steel"},
         {"predicate": {"custom_model_data": 502}, "model": "valence:weapon/hammer/iron"},

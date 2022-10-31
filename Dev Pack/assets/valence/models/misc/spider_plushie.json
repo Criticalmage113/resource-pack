@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench, By Jespar for use by Valence Group Inc",
 	"textures": {
-		"0": "valence:misc/spider_plushie",
-		"particle": "valence:misc/spider_plushie"
+		"0": "valence:miscspider_plushie",
+		"particle": "spider_plushie"
 	},
 	"elements": [
 		{
