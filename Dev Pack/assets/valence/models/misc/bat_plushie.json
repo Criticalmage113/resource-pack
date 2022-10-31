@@ -7,20 +7,6 @@
 	},
 	"elements": [
 		{
-			"name": "sketch_layer_do_not_touch",
-			"from": [0, 0, 12.97],
-			"to": [15.93, 17.59, 13.97],
-			"color": 7,
-			"faces": {
-				"north": {"uv": [0, 0, 0, 0], "texture": "#missing"},
-				"east": {"uv": [0, 0, 0, 0], "texture": "#missing"},
-				"south": {"uv": [0, 0, 0, 0], "texture": "#missing"},
-				"west": {"uv": [0, 0, 0, 0], "texture": "#missing"},
-				"up": {"uv": [0, 0, 0, 0], "texture": "#missing"},
-				"down": {"uv": [0, 0, 0, 0], "texture": "#missing"}
-			}
-		},
-		{
 			"name": "eye_two",
 			"from": [5.61331, 10.8151, 1.77],
 			"to": [6.95331, 12.0851, 2.25],

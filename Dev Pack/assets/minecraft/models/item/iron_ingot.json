@@ -26,7 +26,7 @@
         {"predicate": {"custom_model_data": 1004}, "model": "valence:resources/raw/silver_chunk"},
 
         {"predicate": {"custom_model_data": 2001}, "model": "valence:misc/stonebay_repair_kit"},
-        {"predicate": {"custom_model_data": 2002}, "model": "valence:misc/stendhal_repair_kit"},
+        {"predicate": {"custom_model_data": 2002}, "model": "valence:misc/stendahl_repair_kit"},
         {"predicate": {"custom_model_data": 2003}, "model": "valence:misc/silver_repair_kit"},
         {"predicate": {"custom_model_data": 2004}, "model": "valence:misc/steel_repair_kit"},
         {"predicate": {"custom_model_data": 2005}, "model": "valence:misc/bronze_repair_kit"},
