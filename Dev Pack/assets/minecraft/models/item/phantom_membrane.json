@@ -20,7 +20,7 @@
       
       {"predicate": { "custom_model_data": 13}, "model": "valence:misc/pumpkin_plushie"},
       {"predicate": { "custom_model_data": 14}, "model": "valence:misc/pumpkin_top"},
-      
+      {"predicate": { "custom_model_data": 15}, "model": "valence:misc/gravestone3"},
       {"predicate": { "custom_model_data": 16}, "model": "valence:misc/gravestone2"},
       {"predicate": { "custom_model_data": 17}, "model": "valence:misc/gravestone"}
     ]
