@@ -30,7 +30,8 @@
         {"predicate": {"custom_model_data": 2003}, "model": "valence:misc/silver_repair_kit"},
         {"predicate": {"custom_model_data": 2004}, "model": "valence:misc/steel_repair_kit"},
         {"predicate": {"custom_model_data": 2005}, "model": "valence:misc/bronze_repair_kit"},
-        {"predicate": {"custom_model_data": 2006}, "model": "valence:misc/crimson_repair_kit"}
+        {"predicate": {"custom_model_data": 2006}, "model": "valence:misc/crimson_repair_kit"},
+        {"predicate": {"custom_model_data": 2007}, "model": "valence:misc/church_repair_kit"}
 
         
     ]
