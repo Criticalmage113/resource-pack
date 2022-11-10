@@ -23,7 +23,8 @@
     {"predicate": { "custom_model_data": 13517}, "model": "valence:misc/bat_plushie"},
     {"predicate": { "custom_model_data": 13518}, "model": "valence:misc/pumpkin_trick_or_treat_basket"},
     {"predicate": { "custom_model_data": 13519}, "model": "valence:misc/spider_plushie"},
-    {"predicate": { "custom_model_data": 13520}, "model": "valence:misc/black_cat_plushie"}
+    {"predicate": { "custom_model_data": 13520}, "model": "valence:misc/black_cat_plushie"},
+    {"predicate": { "custom_model_data": 13521}, "model": "valence:misc/ice_trophy"}
    
   ]
 }
