@@ -451,6 +451,84 @@
         "type": "bitmap",
         "chars": [""],
         "height": 8
+    },{
+        "file": "valence/other/keys/mouse.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["🩰"],
+        "height": 12
+    },{
+        "file": "valence/other/keys/mouse_l.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["🩱"],
+        "height": 12
+    },{
+        "file": "valence/other/keys/mouse_r.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["🩲"],
+        "height": 12
+    },{
+        "file": "valence/other/keys/scrll_dwn.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["🩳"],
+        "height": 12
+    },{
+        "file": "valence/other/keys/scrll_up.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["🩴"],
+        "height": 12
+    },{
+        "file": "valence/other/keys/shift.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["🩸"],
+        "height": 12
+    },{
+        "file": "valence/other/keys/shift_dwn.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["🩹"],
+        "height": 12
+    },{
+        "file": "valence/other/keys/space.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["🩺"],
+        "height": 12
+    },{
+        "file": "valence/other/keys/space_dwn.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["🪀"],
+        "height": 12
+    },{
+        "file": "valence/other/keys/w.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["🪁"],
+        "height": 12
+    },{
+        "file": "valence/other/keys/w_dwn.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["🪂"],
+        "height": 12
+    },{
+        "file": "valence/other/keys/s.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["🪃"],
+        "height": 12
+    },{
+        "file": "valence/other/keys/s_dwn.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["🪄"],
+        "height": 12
     },
     {
         "file":"mccosmetics:ui/mccosmetics-main.png",
