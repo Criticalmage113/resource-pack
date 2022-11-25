@@ -21,6 +21,7 @@
     {"predicate": {"custom_model_data": 1014}, "model": "valence:weapon/long_sword/trusty_club"},
     {"predicate": {"custom_model_data": 1015}, "model": "valence:weapon/long_sword/cutlass"},
     {"predicate": {"custom_model_data": 1016}, "model": "valence:weapon/long_sword/zweihander"},
+    {"predicate": {"custom_model_data": 1017}, "model": "valence:weapon/long_sword/worldeater"},
     
     {"predicate": {"custom_model_data": 1501}, "model": "valence:weapon/great_sword/iron"},
     {"predicate": {"custom_model_data": 1502}, "model": "valence:weapon/great_sword/steel"},
@@ -48,6 +49,7 @@
     {"predicate": {"custom_model_data": 2012}, "model": "valence:weapon/short_sword/rusty_butchers_blade"},
     {"predicate": {"custom_model_data": 2013}, "model": "valence:weapon/short_sword/crimson_short_sword"},
     {"predicate": {"custom_model_data": 2014}, "model": "valence:weapon/short_sword/crimson_dagger"},
+    {"predicate": {"custom_model_data": 2015}, "model": "valence:weapon/short_sword/chisel_of_life"},
 
 
     {"predicate": {"custom_model_data": 2501}, "model": "valence:weapon/spear/iron"},
@@ -110,6 +112,16 @@
     {"predicate": {"custom_model_data": 14018}, "model": "valence:customcontent/batz_sword"},
     {"predicate": {"custom_model_data": 14019}, "model": "valence:customcontent/erin"},
     {"predicate": {"custom_model_data": 14020}, "model": "valence:customcontent/jairo"},
-    {"predicate": {"custom_model_data": 14021}, "model": "valence:customcontent/chroma_gun"}
+    {"predicate": {"custom_model_data": 14021}, "model": "valence:customcontent/chroma_gun"},
+
+    {"predicate": {"custom_model_data": 15001}, "model": "valence:weapon/adventure/butcher_sword"},
+    {"predicate": {"custom_model_data": 15002}, "model": "valence:weapon/adventure/crystal_sword"},
+    {"predicate": {"custom_model_data": 15003}, "model": "valence:weapon/adventure/dragon_sword"},
+    {"predicate": {"custom_model_data": 15004}, "model": "valence:weapon/adventure/king_sword"},
+    {"predicate": {"custom_model_data": 15005}, "model": "valence:weapon/adventure/moonstone_sword"},
+    {"predicate": {"custom_model_data": 15006}, "model": "valence:weapon/adventure/reaver_sword"},
+    {"predicate": {"custom_model_data": 15007}, "model": "valence:weapon/adventure/spike_sword"},
+    {"predicate": {"custom_model_data": 15008}, "model": "valence:weapon/adventure/fire_sword"}
+
   ]
 }
