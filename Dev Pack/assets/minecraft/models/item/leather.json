@@ -25,7 +25,9 @@
     {"predicate": { "custom_model_data": 13519}, "model": "valence:misc/spider_plushie"},
     {"predicate": { "custom_model_data": 13520}, "model": "valence:misc/black_cat_plushie"},
     {"predicate": { "custom_model_data": 13521}, "model": "valence:misc/ice_trophy"},
-    {"predicate": { "custom_model_data": 13522}, "model": "valence:misc/ocean_scroll"}
-   
+    {"predicate": { "custom_model_data": 13522}, "model": "valence:misc/ocean_scroll"},
+    {"predicate": { "custom_model_data": 13523}, "model": "valence:misc/kraken_tooth"},
+    {"predicate": { "custom_model_data": 13524}, "model": "valence:misc/kraken_claw"}
+
   ]
 }

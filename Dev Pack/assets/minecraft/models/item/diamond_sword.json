@@ -65,6 +65,7 @@
     {"predicate": {"custom_model_data": 2511}, "model": "valence:weapon/spear/silver_spear"},
     {"predicate": {"custom_model_data": 2512}, "model": "valence:weapon/spear/tideglaive"},
     {"predicate": {"custom_model_data": 2513}, "model": "valence:weapon/spear/crude_spear"},
+    {"predicate": {"custom_model_data": 2514}, "model": "valence:weapon/spear/chitin_spear"},
 
 
     {"predicate": {"custom_model_data": 3001}, "model": "valence:weapon/mace/steel"},
