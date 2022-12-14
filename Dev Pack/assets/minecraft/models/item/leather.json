@@ -27,7 +27,19 @@
     {"predicate": { "custom_model_data": 13521}, "model": "valence:misc/ice_trophy"},
     {"predicate": { "custom_model_data": 13522}, "model": "valence:misc/ocean_scroll"},
     {"predicate": { "custom_model_data": 13523}, "model": "valence:misc/kraken_tooth"},
-    {"predicate": { "custom_model_data": 13524}, "model": "valence:misc/kraken_claw"}
+    {"predicate": { "custom_model_data": 13524}, "model": "valence:misc/kraken_claw"},
+
+    {"predicate": { "custom_model_data": 20000}, "model": "valence:christmas/christmas_lights"},
+    {"predicate": { "custom_model_data": 20001}, "model": "valence:christmas/elf_on_the_shelf_doll"},
+    {"predicate": { "custom_model_data": 20002}, "model": "valence:christmas/gingerbread_house"},
+    {"predicate": { "custom_model_data": 20003}, "model": "valence:christmas/ornament_three"},
+    {"predicate": { "custom_model_data": 20004}, "model": "valence:christmas/ornaments_one"},
+    {"predicate": { "custom_model_data": 20005}, "model": "valence:christmas/present_1"},
+    {"predicate": { "custom_model_data": 20006}, "model": "valence:christmas/present_2"},
+    {"predicate": { "custom_model_data": 20007}, "model": "valence:christmas/snowglobe"},
+    {"predicate": { "custom_model_data": 20008}, "model": "valence:christmas/ornament_two"},
+    {"predicate": { "custom_model_data": 20009}, "model": "valence:christmas/present_3"},
+    {"predicate": { "custom_model_data": 20010}, "model": "valence:christmas/christmas_tree"}
 
   ]
 }
