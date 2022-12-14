@@ -59,6 +59,10 @@
       {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/sheen_shield"},
       {"predicate": {"custom_model_data": 14002}, "model": "valence:customcontent/lunar_shield"},
       {"predicate": {"custom_model_data": 14003}, "model": "valence:customcontent/aegis_shield"},
-      {"predicate": {"custom_model_data": 14003, "blocking": 1}, "model": "valence:customcontent/aegis_shield_blocking"}
+      {"predicate": {"custom_model_data": 14003, "blocking": 1}, "model": "valence:customcontent/aegis_shield_blocking"},
+      {"predicate": {"custom_model_data": 14004}, "model": "valence:armor/shield/yeti_shield"},
+      {"predicate": {"custom_model_data": 14004, "blocking": 1}, "model": "valence:armor/shield/yeti_shield_blocking"},
+      {"predicate": {"custom_model_data": 14005}, "model": "valence:christmas/shortbread_shield"},
+      {"predicate": {"custom_model_data": 14005, "blocking": 1}, "model": "valence:christmas/shortbread_shield_blocking"}
     ]
   }

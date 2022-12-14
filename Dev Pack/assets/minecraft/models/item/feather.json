@@ -64,13 +64,6 @@
       {"predicate": {"custom_model_data": 12119}, "model": "valence:misc/vamp_fangs"},
       
       
-
-     
-
-
-
-
-
       {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/chroma_horns"},
       {"predicate": {"custom_model_data": 14002}, "model": "valence:customcontent/primal_skull"},
       {"predicate": {"custom_model_data": 14003}, "model": "valence:customcontent/naomi_tiara"},
@@ -81,6 +74,27 @@
       {"predicate": {"custom_model_data": 14008}, "model": "valence:customcontent/entrepreneur"},
       {"predicate": {"custom_model_data": 14009}, "model": "valence:customcontent/bro_mask"},
       {"predicate": {"custom_model_data": 14010}, "model": "valence:customcontent/vy_crown"},
-      {"predicate": {"custom_model_data": 14011}, "model": "valence:customcontent/tricorn"}      
+      {"predicate": {"custom_model_data": 14011}, "model": "valence:customcontent/tricorn"}, 
+
+      {"predicate": {"custom_model_data": 15000}, "model": "valence:armor/hat/mask/mask_sb"}, 
+      {"predicate": {"custom_model_data": 15001}, "model": "valence:armor/hat/mask/mask1_1"}, 
+      {"predicate": {"custom_model_data": 15002}, "model": "valence:armor/hat/mask/mask1_2"}, 
+      {"predicate": {"custom_model_data": 15003}, "model": "valence:armor/hat/mask/mask1_3"}, 
+      {"predicate": {"custom_model_data": 15004}, "model": "valence:armor/hat/mask/mask1_4"}, 
+      {"predicate": {"custom_model_data": 15005}, "model": "valence:armor/hat/mask/mask1_5"}, 
+      {"predicate": {"custom_model_data": 15006}, "model": "valence:armor/hat/mask/mask1_6"}, 
+      {"predicate": {"custom_model_data": 15007}, "model": "valence:armor/hat/mask/mask2_1"}, 
+      {"predicate": {"custom_model_data": 15008}, "model": "valence:armor/hat/mask/mask2_2"}, 
+      {"predicate": {"custom_model_data": 15009}, "model": "valence:armor/hat/mask/mask2_3"}, 
+      {"predicate": {"custom_model_data": 15010}, "model": "valence:armor/hat/mask/mask2_4"}, 
+      {"predicate": {"custom_model_data": 15011}, "model": "valence:armor/hat/mask/mask2_5"}, 
+      {"predicate": {"custom_model_data": 15012}, "model": "valence:armor/hat/mask/mask2_6"}, 
+      {"predicate": {"custom_model_data": 15013}, "model": "valence:armor/hat/mask/mask3_1"}, 
+      {"predicate": {"custom_model_data": 15014}, "model": "valence:armor/hat/mask/mask3_2"}, 
+      {"predicate": {"custom_model_data": 15015}, "model": "valence:armor/hat/mask/mask3_3"}, 
+      {"predicate": {"custom_model_data": 15016}, "model": "valence:armor/hat/mask/mask3_4"}, 
+      {"predicate": {"custom_model_data": 15017}, "model": "valence:armor/hat/mask/mask3_5"}, 
+
+      {"predicate": {"custom_model_data": 20000}, "model": "valence:christmas/elf/elf_ears"}
     ]
   }
