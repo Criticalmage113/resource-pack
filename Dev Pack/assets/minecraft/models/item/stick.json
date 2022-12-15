@@ -117,7 +117,8 @@
       {"predicate": {"custom_model_data":15038}, "model": "valence:weapon/magic_staff/ms_optic_green"},
       {"predicate": {"custom_model_data":15039}, "model": "valence:weapon/magic_staff/ms_optic_red"},
 		  {"predicate": {"custom_model_data":15040}, "model": "valence:weapon/magic_staff/ms_optic_purple"},
-      {"predicate": {"custom_model_data":15041}, "model": "valence:misc/golden_rod"}
+      {"predicate": {"custom_model_data":15041}, "model": "valence:misc/golden_rod"},
+      {"predicate": {"custom_model_data":15042}, "model": "valence:christmas/nutcracker_staff"}
 
     ]
   }

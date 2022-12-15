@@ -62,6 +62,7 @@
       {"predicate": {"custom_model_data": 12117}, "model": "valence:armor/hat/paper_skull_mask"},
       {"predicate": {"custom_model_data": 12118}, "model": "valence:armor/hat/witch"},
       {"predicate": {"custom_model_data": 12119}, "model": "valence:misc/vamp_fangs"},
+      {"predicate": {"custom_model_data": 12120}, "model": "valence:misc/inquisitor/inquisitor_mask"},
       
       
       {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/chroma_horns"},
@@ -95,6 +96,8 @@
       {"predicate": {"custom_model_data": 15016}, "model": "valence:armor/hat/mask/mask3_4"}, 
       {"predicate": {"custom_model_data": 15017}, "model": "valence:armor/hat/mask/mask3_5"}, 
 
-      {"predicate": {"custom_model_data": 20000}, "model": "valence:christmas/elf/elf_ears"}
+      {"predicate": {"custom_model_data": 20000}, "model": "valence:christmas/elf_ears"},
+      {"predicate": {"custom_model_data": 20001}, "model": "valence:christmas/christmas_hat"},
+      {"predicate": {"custom_model_data": 20002}, "model": "valence:christmas/nutcracker_hat_black"}
     ]
   }
