@@ -93,7 +93,8 @@
 
     {"predicate": {"custom_model_data": 13001}, "model": "valence:misc/kamaria_sword"},
     {"predicate": {"custom_model_data": 13002}, "model": "valence:misc/nieneedle"},
-    {"predicate": {"custom_model_data": 13004}, "model": "valence:weapon/misc/stendahl_boomerang"},        
+    {"predicate": {"custom_model_data": 13004}, "model": "valence:weapon/misc/stendahl_boomerang"},
+    {"predicate": { "custom_model_data": 13005}, "model": "valence:christmas/snowglobe"},        
 
     {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/cthonic_reaper"},
     {"predicate": {"custom_model_data": 14002}, "model": "valence:customcontent/sheen_sword"},
