@@ -15,12 +15,13 @@
         {"predicate": {"custom_model_data": 8}, "model": "valence:weapon/axe/silver"},
         {"predicate": {"custom_model_data": 9}, "model": "valence:tool/axe/dwarf"},
         {"predicate": {"custom_model_data": 10}, "model": "valence:weapon/axe/poleaxe"},
-        {"predicate": {"custom_model_data": 11}, "model": "valence:weapon/axe/nieaxe"},
+        {"predicate": {"custom_model_data": 11}, "model": "valence:weapon/axe/n_axe"},
         {"predicate": {"custom_model_data": 12}, "model": "valence:weapon/axe/stendahl"},
         {"predicate": {"custom_model_data": 13}, "model": "valence:weapon/axe/silver_battle_axe"},
         {"predicate": {"custom_model_data": 14}, "model": "valence:weapon/axe/crimson_axe"},
         {"predicate": {"custom_model_data": 15}, "model": "valence:weapon/axe/dragonbone_battle_axe"},
         {"predicate": {"custom_model_data": 16}, "model": "valence:weapon/axe/yeti_axe"},
+        {"predicate": {"custom_model_data": 17}, "model": "valence:weapon/axe/colourkat"},
         
         {"predicate": {"custom_model_data": 501}, "model": "valence:weapon/hammer/steel"},
         {"predicate": {"custom_model_data": 502}, "model": "valence:weapon/hammer/iron"},
@@ -36,6 +37,7 @@
         {"predicate": {"custom_model_data": 512}, "model": "valence:weapon/hammer/crimson_hammer"},
         {"predicate": {"custom_model_data": 513}, "model": "valence:weapon/hammer/forgehammer"},
         {"predicate": {"custom_model_data": 514}, "model": "valence:weapon/hammer/bronze_hammer"},
+        {"predicate": {"custom_model_data": 515}, "model": "valence:weapon/hammer/nieseat_crafting_hammer"},
 
         {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/doc_hammer"},
         {"predicate": {"custom_model_data": 14002}, "model": "valence:customcontent/downfall_axe"},
