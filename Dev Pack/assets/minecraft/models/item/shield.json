@@ -46,7 +46,8 @@
 
       {"predicate": {"custom_model_data": 10501}, "model": "valence:armor/shield/bayshield"},
       {"predicate": {"custom_model_data": 10502}, "model": "valence:armor/shield/kamaria"},
-      {"predicate": {"custom_model_data": 10503}, "model": "valence:armor/shield/nieseat"},
+      {"predicate": {"custom_model_data": 10503}, "model": "valence:armor/shield/nieseat_shield"},
+      {"predicate": {"custom_model_data": 10503, "blocking": 1}, "model": "valence:armor/shield/nieseat_shield_blocking"},
       {"predicate": {"custom_model_data": 10504}, "model": "valence:armor/shield/prismarine"},
       {"predicate": {"custom_model_data": 10505}, "model": "valence:weapon/adventure/shield"},
       {"predicate": {"custom_model_data": 10506}, "model": "valence:armor/shield/stendhal_shield"},
