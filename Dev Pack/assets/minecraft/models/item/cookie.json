@@ -104,11 +104,17 @@
     {"predicate": { "custom_model_data": 98}, "model": "valence:val_cal/candycorn"},
     {"predicate": { "custom_model_data": 99}, "model": "valence:val_cal/lolipop"},
     {"predicate": { "custom_model_data": 100}, "model": "valence:misc/bowl_of_eyes"},
+    {"predicate": { "custom_model_data": 101}, "model": "valence:val_cal/red_turkishdelight"},
 
     {"predicate": { "custom_model_data": 10000}, "model": "valence:christmas/bonbon"},
     {"predicate": { "custom_model_data": 10001}, "model": "valence:christmas/candy_cane_item"},
     {"predicate": { "custom_model_data": 10002}, "model": "valence:christmas/gingerbreadman_1"},
-    {"predicate": { "custom_model_data": 10003}, "model": "valence:christmas/gingerbreadman_2"}
+    {"predicate": { "custom_model_data": 10003}, "model": "valence:christmas/gingerbreadman_2"},
+
+
+
+
+    {"predicate": { "custom_model_data": 20000}, "model": "valence:customcontent/jade_drug"}
 
 
 
