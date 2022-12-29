@@ -63,6 +63,7 @@
       {"predicate": {"custom_model_data": 12118}, "model": "valence:armor/hat/witch"},
       {"predicate": {"custom_model_data": 12119}, "model": "valence:misc/vamp_fangs"},
       {"predicate": {"custom_model_data": 12120}, "model": "valence:misc/inquisitor/inquisitor_mask"},
+      {"predicate": {"custom_model_data": 12121}, "model": "valence:armor/hat/pirates_trusty_tricorn"},
       
       
       {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/chroma_horns"},

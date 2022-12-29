@@ -23,6 +23,7 @@
     {"predicate": {"custom_model_data": 1016}, "model": "valence:weapon/long_sword/zweihander"},
     {"predicate": {"custom_model_data": 1017}, "model": "valence:weapon/long_sword/worldeater"},
     {"predicate": {"custom_model_data": 1018}, "model": "valence:christmas/candy_cane_sword"},
+    {"predicate": {"custom_model_data": 1019}, "model": "valence:weapon/long_sword/meteorite_ls"},
     
     {"predicate": {"custom_model_data": 1501}, "model": "valence:weapon/great_sword/iron"},
     {"predicate": {"custom_model_data": 1502}, "model": "valence:weapon/great_sword/steel"},
@@ -36,6 +37,7 @@
     {"predicate": {"custom_model_data": 1510}, "model": "valence:weapon/misc/angel_sword"},
     {"predicate": {"custom_model_data": 1511}, "model": "valence:weapon/scythe/blood_scythe"},
     {"predicate": {"custom_model_data": 1512}, "model": "valence:weapon/scythe/kit_scythe"},
+    {"predicate": {"custom_model_data": 1513}, "model": "valence:weapon/great_sword/meteorite_greatsword"},
 
     {"predicate": {"custom_model_data": 2001}, "model": "valence:weapon/short_sword/stone"},
     {"predicate": {"custom_model_data": 2002}, "model": "valence:weapon/short_sword/silver"},
@@ -52,6 +54,9 @@
     {"predicate": {"custom_model_data": 2013}, "model": "valence:weapon/short_sword/crimson_short_sword"},
     {"predicate": {"custom_model_data": 2014}, "model": "valence:weapon/short_sword/crimson_dagger"},
     {"predicate": {"custom_model_data": 2015}, "model": "valence:weapon/short_sword/chisel_of_life"},
+    {"predicate": {"custom_model_data": 2016}, "model": "valence:weapon/short_sword/meteorite_shortsword"},
+    {"predicate": {"custom_model_data": 2017}, "model": "valence:weapon/short_sword/weapon_meteorite_dagger"},
+    {"predicate": {"custom_model_data": 2018}, "model": "valence:weapon/short_sword/weapon_dragonbone_dagger"},
 
 
     {"predicate": {"custom_model_data": 2501}, "model": "valence:weapon/spear/iron"},
