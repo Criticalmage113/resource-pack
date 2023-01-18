@@ -60,7 +60,7 @@
 
 
       {"predicate": {"custom_model_data": 11049}, "model": "valence:resources/raw/bundle_scrapwood2"},
-	  {"predicate": {"custom_model_data": 11050}, "model": "valence:weapon/magic/maldore_wand2_1"},
+      {"predicate": {"custom_model_data": 11050}, "model": "valence:weapon/magic/maldore_wand2_1"},
 
 
       {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/vampire_staff"},
