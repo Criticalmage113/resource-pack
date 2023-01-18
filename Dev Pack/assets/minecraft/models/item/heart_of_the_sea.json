@@ -10,7 +10,7 @@
     {"predicate": { "custom_model_data": 11003}, "model": "valence:misc/citadelsignet"},
     {"predicate": { "custom_model_data": 11004}, "model": "valence:misc/pocket_conduit"},
     {"predicate": { "custom_model_data": 11005}, "model": "valence:misc/inquisitor/nullstone_amp"},
-	{"predicate": { "custom_model_data": 11006}, "model": "valence:weapon/charm/stag_charm"},
-	{"predicate": { "custom_model_data": 11007}, "model": "valence:misc/the_godseed"}
+    {"predicate": { "custom_model_data": 11006}, "model": "valence:weapon/charm/stag_charm"},
+    {"predicate": { "custom_model_data": 11007}, "model": "valence:misc/the_godseed"}
   ]
 }
