@@ -6,6 +6,7 @@
     "overrides": [
       {"predicate": {"custom_model_data": 11001}, "model": "valence:weapon/magic/arcane_spellbook"},
       {"predicate": {"custom_model_data": 11002}, "model": "valence:weapon/magic/maldores_spellbook"},
+      
       {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/lich_tome"}
     ]
   }
