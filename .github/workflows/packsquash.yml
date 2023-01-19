@@ -12,9 +12,10 @@ jobs:
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v3
         with:
-          path: './Dev Pack'
+          path: './Dev Pack/'
           artifact_name: valpack
           options_file: './Dev Pack/options.toml'
+          pack_directory: './Dev Pack/'
       - name: Download optimized pack
         uses: actions/download-artifact@v3
         with:
