@@ -1,4 +1,3 @@
-pack_directory = '.'
 allow_mods = ['OptiFine']
 
 ['**/*?.png']
