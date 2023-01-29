@@ -20,511 +20,457 @@
         "sizes": "minecraft:font/glyph_sizes.bin",
         "template": "minecraft:font/unicode_page_%s.png"
     }, {
-        "file": "valence/staff/manager.png",
+        "file": "valence:text/staff/manager.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/staff/personnel.png",
+        "file": "valence:text/staff/personnel.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
-    }, {
-        "file": "valence/staff/producer.png",
-        "ascent": 8,
-        "type": "bitmap",
-        "chars": [""],
-        "height": 8
-    }, {
-        "file": "valence/staff/general.png",
+    },  {
+        "file": "valence:text/staff/general.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/staff/mngr.png",
+        "file": "valence:text/staff/gold_star.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/staff/asst_mngr.png",
+        "file": "valence:text/staff/silver_star.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/staff/lead.png",
+        "file": "valence:text/staff/bronze_star.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/staff/dev.png",
+        "file": "valence:text/staff/prod.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/staff/admin.png",
+        "file": "valence:text/staff/admin.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/staff/content.png",
+        "file": "valence:text/staff/content.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/staff/creative.png",
+        "file": "valence:text/staff/creative.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/staff/media.png",
+        "file": "valence:text/staff/media.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/staff/support.png",
+        "file": "valence:text/staff/support.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/tiers/junk.png",
+        "file": "valence:text/tiers/junk.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/tiers/common.png",
+        "file": "valence:text/tiers/common.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/tiers/uncommon.png",
+        "file": "valence:text/tiers/uncommon.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/tiers/rare.png",
+        "file": "valence:text/tiers/rare.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/tiers/epic.png",
+        "file": "valence:text/tiers/epic.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/tiers/legendary.png",
+        "file": "valence:text/tiers/legendary.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/tiers/artifact.png",
+        "file": "valence:text/tiers/artifact.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/tiers/quest.png",
+        "file": "valence:text/tiers/quest.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/tiers/mountbatten.png",
+        "file": "valence:text/tiers/set_teir/mountbatten.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/tiers/stonebay.png",
+        "file": "valence:text/tiers/set_tier/stonebay.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/other/member.png",
+        "file": "valence:text/other/member.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/other/premium.png",
+        "file": "valence:text/other/premium.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/other/hero.png",
+        "file": "valence:text/other/hero.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/other/champion.png",
+        "file": "valence:text/other/champion.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/other/legend.png",
+        "file": "valence:text/other/legend.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/other/supporter.png",
+        "file": "valence:text/other/supporter.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/other/staff.png",
+        "file": "valence:text/other/staff.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/other/sr_staff.png",
+        "file": "valence:text/other/sr_staff.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/other/afk.png",
+        "file": "valence:text/other/afk.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/other/announcement.png",
-        "ascent": 8,
-        "type": "bitmap",
-        "chars": [""],
-        "height": 8
-    }, {
-        "file": "valence/other/local.png",
+        "file": "valence:text/other/local.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/other/ooc.png",
+        "file": "valence:text/other/ooc.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/other/queue.png",
+        "file": "valence:text/other/queue.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/other/global.png",
+        "file": "valence:text/other/global.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/other/whisper.png",
+        "file": "valence:text/other/whisper.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/staff/jr.png",
+        "file": "valence:text/staff/one.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/staff/chump.png",
+        "file": "valence:text/staff/two.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/staff/sr.png",
+        "file": "valence:text/staff/three.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/other/anticheat.png",
+        "file": "valence:text/other/anticheat.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/other/hacker_icon.png",
+        "file": "valence:text/other/hacker_icon.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/other/npc.png",
+        "file": "valence:text/other/npc.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/other/click.png",
+        "file": "valence:text/other/click.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/other/click_me.png",
+        "file": "valence:text/other/click_me.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/other/coming_soon.png",
+        "file": "valence:text/other/coming_soon.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/tags/legacy.png",
+        "file": "valence:text/tags/legacy.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": [""],
         "height": 11
-    }, {
-        "file": "valence/tags/booster.png",
-        "ascent": 9,
-        "type": "bitmap",
-        "chars": [""],
-        "height": 11
-    }, {
-        "file": "valence/tags/tiktok.png",
-        "ascent": 8,
-        "type": "bitmap",
-        "chars": [""],
-        "height": 9
-    }, {
-        "file": "valence/tags/beta.png",
+    },  {
+        "file": "valence:text/tags/beta.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": [""],
         "height": 11
     }, {
-        "file": "valence/tags/veteran.png",
+        "file": "valence:text/tags/veteran.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/tags/founder.png",
-        "ascent": 9,
-        "type": "bitmap",
-        "chars": [""],
-        "height": 12
-    }, {
-        "file": "valence/tags/2022agm.png",
+        "file": "valence:text/tags/2022agm.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": [""],
         "height": 12
     },{
-        "file": "valence/tags/community.png",
+        "file": "valence:text/tags/community.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["𑂄"],
         "height": 12
     },{
-        "file": "valence/tags/creative.png",
+        "file": "valence:text/tags/creative.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["𑂅"],
         "height": 12
     },{
-        "file": "valence/tags/content.png",
+        "file": "valence:text/tags/content.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["𑂆"],
         "height": 12
     },{
-        "file": "valence/tags/dev.png",
+        "file": "valence:text/tags/dev.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["𑂇"],
         "height": 12
     },{
-        "file": "valence/tags/hero.png",
+        "file": "valence:text/tags/hero.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["𑂈"],
         "height": 12
     },{
-        "file": "valence/tags/champion.png",
+        "file": "valence:text/tags/champion.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["𑂉"],
         "height": 12
     },{
-        "file": "valence/tags/premium.png",
+        "file": "valence:text/tags/premium.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["𑂊"],
         "height": 12
     },{
-        "file": "valence/tags/supporter.png",
+        "file": "valence:text/tags/supporter.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["𑂋"],
         "height": 12
     }, {
-        "file": "valence/other/banner.png",
+        "file": "valence:text/other/banner.png",
         "ascent": 12,
         "type": "bitmap",
         "chars": [""],
         "height": 32
     }, {
-        "file": "valence/valence_icon.png",
+        "file": "valence:text/valence:text_icon.png",
         "ascent": 12,
         "type": "bitmap",
         "chars": [""],
         "height": 32
-    }, {
-        "file": "valence/staff/4.png",
-        "ascent": 8,
-        "type": "bitmap",
-        "chars": [""],
-        "height": 8
-    }, {
-        "file": "valence/staff/5.png",
-        "ascent": 8,
-        "type": "bitmap",
-        "chars": [""],
-        "height": 8
-    }, {
-        "file": "valence/other/currency.png",
+    },  {
+        "file": "valence:text/other/currency.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
-    }, {
-        "file": "valence/staff/diamond_star.png",
-        "ascent": 8,
-        "type": "bitmap",
-        "chars": [""],
-        "height": 8
-    }, {
-        "file": "valence/staff/emerald_star.png",
-        "ascent": 8,
-        "type": "bitmap",
-        "chars": [""],
-        "height": 8
-    }, {
-        "file": "valence/tiers/food.png",
+    },  {
+        "file": "valence:text/tiers/food.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/staff/develop.png",
+        "file": "valence:text/staff/develop.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence/staff/project.png",
+        "file": "valence:text/staff/project.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
         "height": 8
     },{
-        "file": "valence/other/keys/mouse.png",
+        "file": "valence:text/other/keys/mouse.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["🩰"],
         "height": 12
     },{
-        "file": "valence/other/keys/mouse_l.png",
+        "file": "valence:text/other/keys/mouse_l.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["🩱"],
         "height": 12
     },{
-        "file": "valence/other/keys/mouse_r.png",
+        "file": "valence:text/other/keys/mouse_r.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["🩲"],
         "height": 12
     },{
-        "file": "valence/other/keys/scrll_dwn.png",
+        "file": "valence:text/other/keys/scrll_dwn.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["🩳"],
         "height": 12
     },{
-        "file": "valence/other/keys/scrll_up.png",
+        "file": "valence:text/other/keys/scrll_up.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["🩴"],
         "height": 12
     },{
-        "file": "valence/other/keys/shift.png",
+        "file": "valence:text/other/keys/shift.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["🩸"],
         "height": 12
     },{
-        "file": "valence/other/keys/shift_dwn.png",
+        "file": "valence:text/other/keys/shift_dwn.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["🩹"],
         "height": 12
     },{
-        "file": "valence/other/keys/space.png",
+        "file": "valence:text/other/keys/space.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["🩺"],
         "height": 12
     },{
-        "file": "valence/other/keys/space_dwn.png",
+        "file": "valence:text/other/keys/space_dwn.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["🪀"],
         "height": 12
     },{
-        "file": "valence/other/keys/w.png",
+        "file": "valence:text/other/keys/w.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["🪁"],
         "height": 12
     },{
-        "file": "valence/other/keys/w_dwn.png",
+        "file": "valence:text/other/keys/w_dwn.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["🪂"],
         "height": 12
     },{
-        "file": "valence/other/keys/s.png",
+        "file": "valence:text/other/keys/s.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["🪃"],
         "height": 12
     },{
-        "file": "valence/other/keys/s_dwn.png",
+        "file": "valence:text/other/keys/s_dwn.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["🪄"],
