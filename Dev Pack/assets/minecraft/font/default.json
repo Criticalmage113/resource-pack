@@ -332,7 +332,7 @@
         "chars": ["𑂆"],
         "height": 12
     },{
-        "file": "valence:text/tags/dev.png",
+        "file": "valence:text/tags/prod.png",
         "ascent": 9,
         "type": "bitmap",
         "chars": ["𑂇"],
