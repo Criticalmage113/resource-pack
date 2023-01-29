@@ -16,6 +16,7 @@ jobs:
           artifact_name: valpack
           allow_optifine_mod: true
           maximum_image_width_and_height: 10000
+          action_cache_revision: ${{ github.run_number }}
       - name: Download optimized pack
         uses: actions/download-artifact@v3
         with:
