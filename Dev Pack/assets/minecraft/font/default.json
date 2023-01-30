@@ -32,7 +32,7 @@
         "chars": [""],
         "height": 8
     },  {
-        "file": "valence:text/staff/general.png",
+        "file": "valence:text/staff/rainbow_star.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
@@ -56,7 +56,7 @@
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence:text/staff/prod.png",
+        "file": "valence:text/staff/production.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
@@ -140,7 +140,7 @@
         "chars": [""],
         "height": 8
     }, {
-        "file": "valence:text/tiers/set_teir/mountbatten.png",
+        "file": "valence:text/tiers/set_tier/mountbatten.png",
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
@@ -296,12 +296,6 @@
         "chars": [""],
         "height": 11
     },  {
-        "file": "valence:text/tags/beta.png",
-        "ascent": 9,
-        "type": "bitmap",
-        "chars": [""],
-        "height": 11
-    }, {
         "file": "valence:text/tags/veteran.png",
         "ascent": 8,
         "type": "bitmap",
@@ -368,7 +362,7 @@
         "chars": [""],
         "height": 32
     }, {
-        "file": "valence:text/valence:text_icon.png",
+        "file": "valence:valence_icon.png",
         "ascent": 12,
         "type": "bitmap",
         "chars": [""],
@@ -384,12 +378,6 @@
         "ascent": 8,
         "type": "bitmap",
         "chars": [""],
-        "height": 8
-    }, {
-        "file": "valence:text/staff/develop.png",
-        "ascent": 8,
-        "type": "bitmap",
-        "chars": [""],
         "height": 8
     }, {
         "file": "valence:text/staff/project.png",
