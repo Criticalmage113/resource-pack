@@ -362,7 +362,7 @@
         "chars": [""],
         "height": 32
     }, {
-        "file": "valence:text:valence:text_icon.png",
+        "file": "valence:valence_icon.png",
         "ascent": 12,
         "type": "bitmap",
         "chars": [""],
