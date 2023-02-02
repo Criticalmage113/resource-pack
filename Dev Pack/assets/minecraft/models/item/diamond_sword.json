@@ -24,6 +24,24 @@
     {"predicate": {"custom_model_data": 1017}, "model": "valence:weapon/long_sword/worldeater"},
     {"predicate": {"custom_model_data": 1018}, "model": "valence:christmas/candy_cane_sword"},
     {"predicate": {"custom_model_data": 1019}, "model": "valence:weapon/long_sword/meteorite_ls"},
+    {
+      "predicate": {
+        "custom_model_data": 1020
+      },
+      "model": "valence:weapon/long_sword/rapier_standered"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1021
+      },
+      "model": "valence:weapon/long_sword/rapier_fancy_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1022
+      },
+      "model": "valence:weapon/long_sword/edgier_rapier_gold"
+    },
     
     {"predicate": {"custom_model_data": 1501}, "model": "valence:weapon/great_sword/iron"},
     {"predicate": {"custom_model_data": 1502}, "model": "valence:weapon/great_sword/steel"},
@@ -133,5 +151,11 @@
     {"predicate": {"custom_model_data": 15007}, "model": "valence:weapon/adventure/spike_sword"},
     {"predicate": {"custom_model_data": 15008}, "model": "valence:weapon/adventure/fire_sword"}
 
+    {
+      "predicate": {
+        "custom_model_data": 2019
+      },
+      "model": "valence:weapon/short_sword/watchful_dagger"
+    },
   ]
 }
