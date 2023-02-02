@@ -99,6 +99,7 @@
 
       {"predicate": {"custom_model_data": 20000}, "model": "valence:christmas/elf_ears"},
       {"predicate": {"custom_model_data": 20001}, "model": "valence:christmas/christmas_hat"},
-      {"predicate": {"custom_model_data": 20002}, "model": "valence:christmas/nutcracker_hat_black"}
+      {"predicate": {"custom_model_data": 20002}, "model": "valence:christmas/nutcracker_hat_black"},
+      {"predicate": {"custom_model_data": 20003}, "model": "valence:misc/inquisitor/nullstone_pylon"}
     ]
   }
