@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "magic:base/lit",
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "valence:weapon/bow/skinny/bow2",

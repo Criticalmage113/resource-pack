@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "magic:base/lit",
 	"ambientocclusion": false,
 	"textures": {
 		"texture": "valence:weapon/magic/staff_wolf",

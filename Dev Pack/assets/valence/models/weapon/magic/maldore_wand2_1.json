@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench, by Honey for use by Valence Group Inc.",
-	"parent": "magic:base/lit",
 	"ambientocclusion": false,
 	"texture_size": [22, 22],
 	"textures": {

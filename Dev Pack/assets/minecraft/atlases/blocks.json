@@ -1,0 +1,108 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "armor",
+            "prefix": "armor/"
+        },
+        {
+            "type": "directory",
+            "source": "christmas",
+            "prefix": "christmas/"
+        },
+        {
+            "type": "directory",
+            "source": "currency",
+            "prefix": "currency/"
+        },
+        {
+            "type": "directory",
+            "source": "custom_drops",
+            "prefix": "custom_drops/"
+        },
+        {
+            "type": "directory",
+            "source": "customcontent",
+            "prefix": "customcontent/"
+        },
+        {
+            "type": "directory",
+            "source": "gems",
+            "prefix": "gems/"
+        },
+        {
+            "type": "directory",
+            "source": "misc",
+            "prefix": "misc/"
+        },
+        {
+            "type": "directory",
+            "source": "resources",
+            "prefix": "resources/"
+        },
+        {
+            "type": "directory",
+            "source": "text",
+            "prefix": "text/"
+        },
+        {
+            "type": "directory",
+            "source": "tool",
+            "prefix": "tool/"
+        },
+        {
+            "type": "directory",
+            "source": "ui",
+            "prefix": "ui/"
+        },
+        {
+            "type": "directory",
+            "source": "val_cal",
+            "prefix": "val_cal/"
+        },
+        {
+            "type": "directory",
+            "source": "val_kitchen",
+            "prefix": "val_kitchen/"
+        },
+        {
+            "type": "directory",
+            "source": "weapon",
+            "prefix": "weapon/"
+        },
+        {
+            "type": "single",
+            "resource": "valence_icon.png"
+        },
+        {
+            "type": "directory",
+            "source": "models",
+            "prefix": "models/"
+        },
+        {
+            "type": "directory",
+            "source": "textures",
+            "prefix": "textures/"
+        },
+        {
+            "type": "directory",
+            "source": "blocks",
+            "prefix": "blocks/"
+        },
+        {
+            "type": "directory",
+            "source": "item",
+            "prefix": "item/"
+        },
+        {
+            "type": "directory",
+            "source": "gui",
+            "prefix": "gui/"
+        },
+        {
+            "type": "directory",
+            "source": "blocks",
+            "prefix": "blocks/"
+        }
+    ]
+}
