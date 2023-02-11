@@ -103,6 +103,11 @@
             "type": "directory",
             "source": "blocks",
             "prefix": "blocks/"
+        },
+        {
+            "type": "directory",
+            "source": "entity",
+            "prefix": "entity/"
         }
     ]
 }
