@@ -127,6 +127,7 @@
     {"predicate": {"custom_model_data": 14019}, "model": "valence:customcontent/erin"},
     {"predicate": {"custom_model_data": 14020}, "model": "valence:customcontent/jairo"},
     {"predicate": {"custom_model_data": 14021}, "model": "valence:customcontent/chroma_gun"},
+	  {"predicate": {"custom_model_data": 14022}, "model": "valence:customcontent/vark_sword"},
 
     {"predicate": {"custom_model_data": 15001}, "model": "valence:weapon/adventure/butcher_sword"},
     {"predicate": {"custom_model_data": 15002}, "model": "valence:weapon/adventure/crystal_sword"},
