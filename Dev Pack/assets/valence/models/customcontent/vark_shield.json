@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench, by Rozie for use by Valence Group Inc.",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "valence:customcontent/vark_sheild_texture",
-		"particle": "valence:customcontent/vark_sheild_texture"
+		"0": "valence:customcontent/vark_shield_texture",
+		"particle": "valence:customcontent/vark_shield_texture"
 	},
 	"elements": [
 		{

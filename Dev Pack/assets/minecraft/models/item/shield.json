@@ -65,6 +65,6 @@
       {"predicate": {"custom_model_data": 14004, "blocking": 1}, "model": "valence:armor/shield/yeti_shield_blocking"},
       {"predicate": {"custom_model_data": 14005}, "model": "valence:christmas/shortbread_shield"},
       {"predicate": {"custom_model_data": 14005, "blocking": 1}, "model": "valence:christmas/shortbread_shield_blocking"},
-	  {"predicate": {"custom_model_data": 14006}, "model": "valence:customcontent/vark_sheild"}
+	  {"predicate": {"custom_model_data": 14006}, "model": "valence:customcontent/vark_shield"}
     ]
-  }
+}

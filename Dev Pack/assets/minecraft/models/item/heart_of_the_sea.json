@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/heart_of_the_sea"
   },
   "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "valence:pack_items/littleroom/deadbeard/hook"},
+    {"predicate": { "custom_model_data": 1}, "model": "valence:pack_items/littleroom/deadbeard/hook"},
     {"predicate": { "custom_model_data": 11001}, "model": "valence:weapon/charm/bat_charm"},
     {"predicate": { "custom_model_data": 11002}, "model": "valence:weapon/charm/lunar_charm"},
     {"predicate": { "custom_model_data": 11003}, "model": "valence:misc/citadelsignet"},
@@ -12,6 +12,6 @@
     {"predicate": { "custom_model_data": 11005}, "model": "valence:misc/inquisitor/nullstone_amp"},
     {"predicate": { "custom_model_data": 11006}, "model": "valence:weapon/charm/stag_charm"},
     {"predicate": { "custom_model_data": 11007}, "model": "valence:misc/the_godseed"},
-	  {"predicate":{"custom_model_data":11008},"model":"valence:customcontent/mushroom_heart_2"}
+	  {"predicate": { "custom_model_data": 11008}, "model": "valence:customcontent/mushroom_heart_2"}
   ]
 }
