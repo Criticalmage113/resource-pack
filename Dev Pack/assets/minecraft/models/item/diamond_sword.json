@@ -27,6 +27,8 @@
     {"predicate": {"custom_model_data": 1020}, "model": "valence:weapon/long_sword/rapier_standered"},
     {"predicate": {"custom_model_data": 1021}, "model": "valence:weapon/long_sword/rapier_fancy_gold"},
     {"predicate": {"custom_model_data": 1022}, "model": "valence:weapon/long_sword/edgier_rapier_gold"},
+    {"predicate": {"custom_model_data": 1023}, "model": "valence:weapon/long_sword/blackrock_blade"},
+    {"predicate": {"custom_model_data": 1024}, "model": "valence:weapon/long_sword/brightforge_onehanded"},
     
     {"predicate": {"custom_model_data": 1501}, "model": "valence:weapon/great_sword/iron"},
     {"predicate": {"custom_model_data": 1502}, "model": "valence:weapon/great_sword/steel"},
@@ -41,6 +43,7 @@
     {"predicate": {"custom_model_data": 1511}, "model": "valence:weapon/scythe/blood_scythe"},
     {"predicate": {"custom_model_data": 1512}, "model": "valence:weapon/scythe/kit_scythe"},
     {"predicate": {"custom_model_data": 1513}, "model": "valence:weapon/great_sword/meteorite_greatsword"},
+    {"predicate": {"custom_model_data": 1514}, "model": "valence:weapon/great_sword/brightforge_twohanded"},
 
     {"predicate": {"custom_model_data": 2001}, "model": "valence:weapon/short_sword/stone"},
     {"predicate": {"custom_model_data": 2002}, "model": "valence:weapon/short_sword/silver"},
@@ -77,6 +80,7 @@
     {"predicate": {"custom_model_data": 2512}, "model": "valence:weapon/spear/tideglaive"},
     {"predicate": {"custom_model_data": 2513}, "model": "valence:weapon/spear/crude_spear"},
     {"predicate": {"custom_model_data": 2514}, "model": "valence:weapon/spear/chitin_spear"},
+    {"predicate": {"custom_model_data": 2515}, "model": "valence:weapon/spear/brightforge_spear"},
 
 
     {"predicate": {"custom_model_data": 3001}, "model": "valence:weapon/mace/steel"},
