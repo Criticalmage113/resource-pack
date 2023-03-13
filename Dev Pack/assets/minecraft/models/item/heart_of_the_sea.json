@@ -12,7 +12,7 @@
     {"predicate": { "custom_model_data": 11005}, "model": "valence:misc/inquisitor/nullstone_amp"},
     {"predicate": { "custom_model_data": 11006}, "model": "valence:weapon/charm/stag_charm"},
     {"predicate": { "custom_model_data": 11007}, "model": "valence:misc/the_godseed"},
-	  {"predicate": { "custom_model_data": 11008}, "model": "valence:customcontent/mushroom_heart_2"}
-    {"predicate": {"custom_model_data": 11013}, "model": "valence:customcontent/violin"},
+	  {"predicate": { "custom_model_data": 11008}, "model": "valence:customcontent/mushroom_heart_2"},
+    {"predicate": {"custom_model_data": 11009}, "model": "valence:customcontent/violin"}
   ]
 }
