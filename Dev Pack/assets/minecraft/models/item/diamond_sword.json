@@ -122,7 +122,7 @@
     {"predicate": {"custom_model_data": 14010}, "model": "valence:customcontent/naomi_gun"},
     {"predicate": {"custom_model_data": 14011}, "model": "valence:customcontent/peony_blade"},
     {"predicate": {"custom_model_data": 14012}, "model": "valence:customcontent/crystal_rose"},
-    {"predicate": {"custom_model_data": 14013}, "model": "valence:customcontent/violin"},
+    {"predicate": {"custom_model_data": 14013}, "model": "valence:customcontent/violin_bow"},
     {"predicate": {"custom_model_data": 14014}, "model": "valence:customcontent/crescent_boneblade"},
     {"predicate": {"custom_model_data": 14015}, "model": "valence:customcontent/vilthang_sword"},
     {"predicate": {"custom_model_data": 14016}, "model": "valence:customcontent/rifle_spear"},
