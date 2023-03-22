@@ -57,6 +57,7 @@
       {"predicate": {"custom_model_data": 10510}, "model": "valence:armor/shield/angelshield"},
       {"predicate": {"custom_model_data": 10511}, "model": "valence:armor/shield/shield_of_stendhal"},
       {"predicate": {"custom_model_data": 10512}, "model": "valence:armor/shield/rotten_tower_shield"},
+      {"predicate": {"custom_model_data": 10513}, "model": "valence:armor/shield/goalvarik_shield"},
       {"predicate": {"custom_model_data": 14001}, "model": "valence:customcontent/sheen_shield"},
       {"predicate": {"custom_model_data": 14002}, "model": "valence:customcontent/lunar_shield"},
       {"predicate": {"custom_model_data": 14003}, "model": "valence:customcontent/aegis_shield"},

@@ -29,6 +29,7 @@
     {"predicate": {"custom_model_data": 1022}, "model": "valence:weapon/long_sword/edgier_rapier_gold"},
     {"predicate": {"custom_model_data": 1023}, "model": "valence:weapon/long_sword/blackrock_blade"},
     {"predicate": {"custom_model_data": 1024}, "model": "valence:weapon/long_sword/brightforge_onehanded"},
+    {"predicate": {"custom_model_data": 1025}, "model": "valence:weapon/long_sword/goalvarik_swordd"},
     
     {"predicate": {"custom_model_data": 1501}, "model": "valence:weapon/great_sword/iron"},
     {"predicate": {"custom_model_data": 1502}, "model": "valence:weapon/great_sword/steel"},
@@ -103,6 +104,7 @@
     {"predicate": {"custom_model_data": 10013}, "model": "valence:weapon/gun/hellslinger"},
     {"predicate": {"custom_model_data": 10014}, "model": "valence:weapon/gun/jezail"},
     {"predicate": {"custom_model_data": 10015}, "model": "valence:weapon/gun/nieseat_pistol"},
+    {"predicate": {"custom_model_data": 10016}, "model": "valence:weapon/gun/flamethrower"},
 
 
     {"predicate": {"custom_model_data": 13001}, "model": "valence:misc/kamaria_sword"},

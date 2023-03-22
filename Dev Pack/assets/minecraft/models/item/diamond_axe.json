@@ -23,6 +23,8 @@
         {"predicate": {"custom_model_data": 16}, "model": "valence:weapon/axe/yeti_axe"},
         {"predicate": {"custom_model_data": 17}, "model": "valence:weapon/axe/colourkat"},
         {"predicate": {"custom_model_data": 18}, "model": "valence:weapon/axe/brightforge_ax"},
+        {"predicate": {"custom_model_data": 19}, "model": "valence:weapon/axe/goalvarik_axe"},
+        {"predicate": {"custom_model_data": 20}, "model": "valence:weapon/axe/gilded"},
         
         {"predicate": {"custom_model_data": 501}, "model": "valence:weapon/hammer/steel"},
         {"predicate": {"custom_model_data": 502}, "model": "valence:weapon/hammer/iron"},
