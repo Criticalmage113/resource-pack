@@ -112,6 +112,7 @@
       {"predicate": {"custom_model_data": 12167}, "model": "valence:armor/hat/haberdashery/big_push_models/top_hat_purple"},
       {"predicate": {"custom_model_data": 12168}, "model": "valence:armor/hat/haberdashery/big_push_models/top_hat_red"},
       {"predicate": {"custom_model_data": 12169}, "model": "valence:armor/hat/haberdashery/big_push_models/top_hat_teal"},
+      {"predicate": {"custom_model_data": 12170}, "model": "valence:armor/helm/stendahl/goalvarikk"},
 
 
       
