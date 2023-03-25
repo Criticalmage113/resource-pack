@@ -529,12 +529,12 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [59.75, -6.5, -0.26],
-			"translation": [-1, -1, -7.25]
+			"rotation": [52.84, -21.81, -2.64],
+			"translation": [1.75, -2.75, -8.75]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [59.75, -6.5, -0.26],
-			"translation": [-1, -1, -7.25]
+			"rotation": [52.84, -21.81, -2.64],
+			"translation": [1.75, -2.75, -8.75]
 		},
 		"firstperson_righthand": {
 			"translation": [0, -12, 2]

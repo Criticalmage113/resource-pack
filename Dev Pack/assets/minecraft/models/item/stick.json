@@ -77,7 +77,7 @@
       {"predicate": {"custom_model_data": 14012}, "model": "valence:customcontent/dylans_staff"},
       {"predicate": {"custom_model_data": 14013}, "model": "valence:customcontent/bayoin"},
       {"predicate": {"custom_model_data": 14014}, "model": "valence:misc/white_stick"},
-      {"predicate": {"custom_model_data": 14015}, "model": "valence:customcontent/mushroom_staff_2"},
+      {"predicate": {"custom_model_data": 14015}, "model": "valence:customcontent/mushroom_staff_two"},
 
       {"predicate": {"custom_model_data":15001}, "model": "valence:weapon/magic_staff/ms_wooden_wood"},
 		  {"predicate": {"custom_model_data":15002}, "model": "valence:weapon/magic_staff/ms_wooden_iron"},
