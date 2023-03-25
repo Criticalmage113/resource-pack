@@ -114,11 +114,12 @@
       {"predicate": {"custom_model_data": 12169}, "model": "valence:armor/hat/haberdashery/big_push_models/top_hat_teal"},
       {"predicate": {"custom_model_data": 12170}, "model": "valence:armor/helm/stendahl/goalvarikk"},
       {"predicate": {"custom_model_data": 12171}, "model": "valence:armor/hat/haberdashery/big_push_models/flat_cap_blue"},
-      {"predicate": {"custom_model_data": 12172}, "model": "valence:armor/hat/haberdashery/big_push_models/flate_cap_brown"},
+      {"predicate": {"custom_model_data": 12172}, "model": "valence:armor/hat/haberdashery/big_push_models/flat_cap_brown"},
       {"predicate": {"custom_model_data": 12173}, "model": "valence:armor/hat/haberdashery/big_push_models/flat_cap_checkered_blue"},
       {"predicate": {"custom_model_data": 12174}, "model": "valence:armor/hat/haberdashery/big_push_models/flat_cap_checkered_red"},
       {"predicate": {"custom_model_data": 12175}, "model": "valence:armor/hat/haberdashery/big_push_models/flat_cap_grey"},
       {"predicate": {"custom_model_data": 12176}, "model": "valence:armor/hat/haberdashery/big_push_models/heart_beret"},
+      {"predicate": {"custom_model_data": 12177}, "model": "valence:armor/hat/haberdashery/big_push_models/afternoon_tea"},
 
 
 
