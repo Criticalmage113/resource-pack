@@ -28,6 +28,7 @@
     {"predicate": { "custom_model_data": 13522}, "model": "valence:misc/ocean_scroll"},
     {"predicate": { "custom_model_data": 13523}, "model": "valence:misc/kraken_tooth"},
     {"predicate": { "custom_model_data": 13524}, "model": "valence:misc/kraken_claw"},
+    {"predicate": { "custom_model_data": 13525}, "model": "valence:misc/peepo_awards_trophy"},
 
     {"predicate": { "custom_model_data": 20000}, "model": "valence:christmas/christmas_lights"},
     {"predicate": { "custom_model_data": 20001}, "model": "valence:christmas/elf_on_the_shelf_doll"},
