@@ -568,5 +568,23 @@
 			"armAnimationEnabled": false,
 			"children": [23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
 		}
+	],
+	"criteria": {
+		"shot_trident": {
+			"trigger": "minecraft:player_hurt_entity",
+			"conditions": {
+				"damage": {
+					"type": {
+						"is_projectile": true,
+						"direct_entity": {
+							"type": "minecraft:trident"
+						}
+					}
+				}
+			}
+		}
+	},
+	"requirements": [
+		["shot_trident"]
 	]
 }

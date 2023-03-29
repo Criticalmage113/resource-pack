@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench, by Kooky for use by Valence Group Inc.",
 	"textures": {
-		"1": "valence:armor/hat/haberdashery/big_push/pipe"
+		"0": "valence:armor/hat/haberdashery/big_push/pipe",
+		"particle": "valence:armor/hat/haberdashery/big_push/pipe"
 	},
 	"elements": [
 		{
@@ -9,12 +10,12 @@
 			"to": [9.25, 2, 6.04424],
 			"rotation": {"angle": 0, "axis": "y", "origin": [6.75, 0, 7]},
 			"faces": {
-				"north": {"uv": [2.5, 7.5, 0.5, 5.5], "rotation": 90, "texture": "#1"},
-				"east": {"uv": [2.5, 7.5, 0.5, 5.5], "rotation": 90, "texture": "#1"},
-				"south": {"uv": [2.5, 7.5, 0.5, 5.5], "rotation": 90, "texture": "#1"},
-				"west": {"uv": [2.5, 7.5, 0.5, 5.5], "rotation": 90, "texture": "#1"},
-				"up": {"uv": [2.5, 2.5, 0.5, 0.5], "texture": "#1"},
-				"down": {"uv": [1, 5, 0, 6], "texture": "#1"}
+				"north": {"uv": [2.5, 7.5, 0.5, 5.5], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [2.5, 7.5, 0.5, 5.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [2.5, 7.5, 0.5, 5.5], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [2.5, 7.5, 0.5, 5.5], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [2.5, 2.5, 0.5, 0.5], "texture": "#0"},
+				"down": {"uv": [1, 5, 0, 6], "texture": "#0"}
 			}
 		},
 		{
@@ -22,12 +23,12 @@
 			"to": [8.47576, 1.57488, 9],
 			"rotation": {"angle": 0, "axis": "y", "origin": [7.97576, 1.07488, 7]},
 			"faces": {
-				"north": {"uv": [4, 6, 5, 7], "texture": "#1"},
-				"east": {"uv": [3, 6, 0, 7], "texture": "#1"},
-				"south": {"uv": [2, 6, 3, 7], "texture": "#1"},
-				"west": {"uv": [0, 6, 3, 7], "texture": "#1"},
-				"up": {"uv": [0, 7, 3, 6], "rotation": 90, "texture": "#1"},
-				"down": {"uv": [3, 7, 0, 6], "rotation": 90, "texture": "#1"}
+				"north": {"uv": [4, 6, 5, 7], "texture": "#0"},
+				"east": {"uv": [3, 6, 0, 7], "texture": "#0"},
+				"south": {"uv": [2, 6, 3, 7], "texture": "#0"},
+				"west": {"uv": [0, 6, 3, 7], "texture": "#0"},
+				"up": {"uv": [0, 7, 3, 6], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [3, 7, 0, 6], "rotation": 90, "texture": "#0"}
 			}
 		}
 	],
@@ -57,7 +58,7 @@
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [-6.25, 0, -10],
+			"translation": [-6.25, 0, -13],
 			"scale": [1.5, 1.5, 1.5]
 		}
 	},

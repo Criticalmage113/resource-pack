@@ -106,26 +106,8 @@
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [1.5, 0, -17.5],
+			"translation": [1.5, 0, -18.5],
 			"scale": [2.5, 2.5, 2.5]
 		}
-	},
-	"criteria": {
-		"shot_trident": {
-			"trigger": "minecraft:player_hurt_entity",
-			"conditions": {
-				"damage": {
-					"type": {
-						"is_projectile": true,
-						"direct_entity": {
-							"type": "minecraft:trident"
-						}
-					}
-				}
-			}
-		}
-	},
-	"requirements": [
-		["shot_trident"]
-	]
+	}
 }
