@@ -8,67 +8,211 @@
          "predicate":{
             "custom_model_data":1801
          },
-         "model":"mccosmetics:item/accessories_button"
+         "model":"valence:cosmetics/icons/accessories_button"
       },
       {
          "predicate":{
             "custom_model_data":1802
          },
-         "model":"mccosmetics:item/back_button"
+         "model":"valence:cosmetics/icons/back_button"
       },
       {
          "predicate":{
             "custom_model_data":1803
          },
-         "model":"mccosmetics:item/next_button"
+         "model":"valence:cosmetics/icons/next_button"
       },
       {
          "predicate":{
             "custom_model_data":1804
          },
-         "model":"mccosmetics:item/backpacks_button"
+         "model":"valence:cosmetics/icons/backpacks_button"
       },
       {
          "predicate":{
             "custom_model_data":1805
          },
-         "model":"mccosmetics:item/comingsoon_button"
+         "model":"valence:cosmetics/icons/comingsoon_button"
       },
       {
          "predicate":{
             "custom_model_data":1806
          },
-         "model":"mccosmetics:item/emotes_button"
+         "model":"valence:cosmetics/icons/emotes_button"
       },
       {
          "predicate":{
             "custom_model_data":1807
          },
-         "model":"mccosmetics:item/homepage_button"
+         "model":"valence:cosmetics/icons/homepage_button"
       },
       {
          "predicate":{
             "custom_model_data":1808
          },
-         "model":"mccosmetics:item/offhand_button"
+         "model":"valence:cosmetics/icons/offhand_button"
       },
       {
          "predicate":{
             "custom_model_data":1809
          },
-         "model":"mccosmetics:item/removecosmetic_button"
+         "model":"valence:cosmetics/icons/removecosmetic_button"
       },
       {
          "predicate":{
             "custom_model_data":1810
          },
-         "model":"mccosmetics:item/sprays_button"
+         "model":"valence:cosmetics/icons/sprays_button"
       },
       {
          "predicate":{
             "custom_model_data":1811
          },
-         "model":"mccosmetics:item/hats_button"
+         "model":"valence:cosmetics/icons/hats_button"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2000
+         },
+         "model":"valence:cosmetics/hats/beanie"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2001
+         },
+         "model":"valence:cosmetics/backpacks/explorer_backpack"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2002
+         },
+         "model":"valence:cosmetics/offhand/explorer_lantern"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2003
+         },
+         "model":"valence:cosmetics/hats/alchemy_hat"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2004
+         },
+         "model":"valence:cosmetics/backpacks/alchemy_backpack"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2005
+         },
+         "model":"valence:cosmetics/offhand/alchemy_offhand"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2006
+         },
+         "model":"valence:cosmetics/hats/birdwatcher_hat"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2007
+         },
+         "model":"valence:cosmetics/backpacks/birdwatcher_backpack"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2008
+         },
+         "model":"valence:cosmetics/offhand/birdwatcher_offhand"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2009
+         },
+         "model":"valence:cosmetics/hats/shipwrecker_hat"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2010
+         },
+         "model":"valence:cosmetics/backpacks/shipwrecker_backpack"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2011
+         },
+         "model":"valence:cosmetics/offhand/shipwrecker_offhand"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2012
+         },
+         "model":"valence:cosmetics/hats/mining_hat"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2013
+         },
+         "model":"valence:cosmetics/offhand/mining_offhand"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2014
+         },
+         "model":"valence:cosmetics/backpacks/mining_backpack_empty"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2015
+         },
+         "model":"valence:cosmetics/backpacks/mining_backpack_cobble"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2016
+         },
+         "model":"valence:cosmetics/backpacks/mining_backpack_coal"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2017
+         },
+         "model":"valence:cosmetics/backpacks/mining_backpack_copper"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2018
+         },
+         "model":"valence:cosmetics/backpacks/mining_backpack_iron"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2019
+         },
+         "model":"valence:cosmetics/backpacks/mining_backpack_gold"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2020
+         },
+         "model":"valence:cosmetics/backpacks/mining_backpack_lapis"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2021
+         },
+         "model":"valence:cosmetics/backpacks/mining_backpack_redstone"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2022
+         },
+         "model":"valence:cosmetics/backpacks/mining_backpack_emerald"
+      },
+      {
+         "predicate":{
+            "custom_model_data":2023
+         },
+         "model":"valence:cosmetics/backpacks/mining_backpack_diamond"
       }
    ]
 }

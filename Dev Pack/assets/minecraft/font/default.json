@@ -363,7 +363,222 @@
         "type": "bitmap",
         "chars": ["𑂋"],
         "height": 12
-    }, {
+    },
+    
+    
+    {
+        "file": "valence:text/tags/spring_2023/caterpillar_emoji.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["꯹"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/spring_2023/cherry_blossom_emoji.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["꯸"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/spring_2023/chick_emoji.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["꯷"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/spring_2023/clover_emoji.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["꯶"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/spring_2023/flower_bouquet_emoji.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["꯳"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/spring_2023/head_flower_emoji.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["꯵"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/spring_2023/plant_emoji.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["꯴"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/spring_2023/smelling_flower_emoji.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["꯲"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/spring_2023/sprout_emoji.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["꯱"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/spring_2023/sun_emoji.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["꯰"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/spring_2023/sunflower_emoji.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["꯭"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/spring_2023/tulip_emoji.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["꯬"],
+        "height": 12
+    },
+
+    {
+        "file": "valence:text/tags/meme_pack/bonk.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["꯫"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/meme_pack/cursed.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["ꯪ"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/meme_pack/doge.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["ꯩ"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/meme_pack/dont_know.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["ꯨ"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/meme_pack/know.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["ꯧ"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/meme_pack/evil_patrick.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["ꯦ"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/meme_pack/f.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["ꯥ"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/meme_pack/kekw.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["ꯤ"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/meme_pack/knife_chick.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["ꯣ"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/meme_pack/knuckles.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["ꯢ"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/meme_pack/mike.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["ꯡ"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/meme_pack/pepe.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["ꯠ"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/meme_pack/stonks.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["ꯟ"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/meme_pack/not_stonks.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["ꯞ"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/meme_pack/pepe.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["ꯝ"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/meme_pack/reverse.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["ꯜ"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/meme_pack/sus.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["ꯛ"],
+        "height": 12
+    },
+    {
+        "file": "valence:text/tags/meme_pack/sus_dead.png",
+        "ascent": 9,
+        "type": "bitmap",
+        "chars": ["ꯚ"],
+        "height": 12
+    },
+
+    {
         "file": "valence:text/other/banner.png",
         "ascent": 12,
         "type": "bitmap",
@@ -473,7 +688,7 @@
         "height": 12
     },
     {
-        "file":"mccosmetics:ui/mccosmetics-main.png",
+        "file":"valence:cosmetics/ui/mccosmetics-main.png",
         "chars":[
            "\ue833"
         ],
@@ -482,7 +697,7 @@
         "type":"bitmap"
      },
      {
-        "file":"mccosmetics:ui/mccosmetics-accessories.png",
+        "file":"valence:cosmetics/ui/mccosmetics-accessories.png",
         "chars":[
            "\ue834"
         ],
@@ -491,7 +706,7 @@
         "type":"bitmap"
      },
      {
-        "file":"mccosmetics:ui/mccosmetics-backpacks.png",
+        "file":"valence:cosmetics/ui/mccosmetics-backpacks.png",
         "chars":[
            "\ue835"
         ],
@@ -500,7 +715,7 @@
         "type":"bitmap"
      },
      {
-        "file":"mccosmetics:ui/mccosmetics-emotes.png",
+        "file":"valence:cosmetics/ui/mccosmetics-emotes.png",
         "chars":[
            "\ue836"
         ],
@@ -509,7 +724,7 @@
         "type":"bitmap"
      },
      {
-        "file":"mccosmetics:ui/mccosmetics-offhand.png",
+        "file":"valence:cosmetics/ui/mccosmetics-offhand.png",
         "chars":[
            "\ue837"
         ],
@@ -518,7 +733,7 @@
         "type":"bitmap"
      },
      {
-        "file":"mccosmetics:ui/mccosmetics-sprays.png",
+        "file":"valence:cosmetics/ui/mccosmetics-sprays.png",
         "chars":[
            "\ue838"
         ],
@@ -527,7 +742,7 @@
         "type":"bitmap"
      },
      {
-        "file":"mccosmetics:ui/mccosmetics-hats.png",
+        "file":"valence:cosmetics/ui/mccosmetics-hats.png",
         "chars":[
            "\ue839"
         ],
@@ -536,7 +751,7 @@
         "type":"bitmap"
      },
      {
-        "file":"mccosmetics:ui/mccosmetics-hats.png",
+        "file":"valence:cosmetics/ui/mccosmetics-hats.png",
         "chars":[
            "\ue801"
         ],
@@ -545,7 +760,7 @@
         "type":"bitmap"
      },
      {
-        "file":"mccosmetics:ui/empty_character.png",
+        "file":"valence:cosmetics/ui/empty_character.png",
         "chars":[
            "\ue802"
         ],
@@ -561,6 +776,12 @@
         "height":256,
         "ascent":13,
         "type":"bitmap"
-     }
+     },   {
+		"file": "valence:cosmetics/ui/title.png",
+		"chars": [""],
+		"ascent": 128,
+		"height": 256,
+		"type": "bitmap"
+    }
 ]
 }

@@ -108,6 +108,21 @@
             "type": "directory",
             "source": "entity",
             "prefix": "entity/"
+        },
+        {
+            "type": "directory",
+            "source": "cosmetics",
+            "prefix": "cosmetics/"
+        },
+        {
+            "type": "directory",
+            "source": "spring_2023",
+            "prefix": "spring_2023/"
+        },
+        {
+            "type": "directory",
+            "source": "meme_pack",
+            "prefix": "meme_pack/"
         }
     ]
 }
