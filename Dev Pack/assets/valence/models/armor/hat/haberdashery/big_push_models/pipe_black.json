@@ -57,7 +57,7 @@
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [-6.25, 0, -10],
+			"translation": [-6.25, 0, -13],
 			"scale": [1.5, 1.5, 1.5]
 		}
 	},
@@ -66,8 +66,6 @@
 			"name": "pipe",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [0, 1]
 		}
 	],
