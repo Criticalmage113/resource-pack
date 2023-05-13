@@ -199,7 +199,7 @@
 		"fixed": {
 			"rotation": [127.75, 0, 0],
 			"translation": [0, 6, -7.25],
-			"scale": [2.79125, 2.79125, 2.79125]
+			"scale": [2.25, 2.25, 2.25]
 		}
 	},
 	"groups": [
@@ -208,7 +208,6 @@
 			"origin": [8, 0.8, 8],
 			"color": 0,
 			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8]
 		},
 		{
@@ -216,7 +215,6 @@
 			"origin": [0, 7.1, 1],
 			"color": 0,
 			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [9, 10, 11]
 		}
 	]

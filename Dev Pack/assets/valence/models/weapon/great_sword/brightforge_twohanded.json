@@ -259,7 +259,7 @@
 		"fixed": {
 			"rotation": [95.25, 0, 0],
 			"translation": [0, 2.75, -31],
-			"scale": [2.75195, 2.75195, 2.75195]
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [
@@ -268,14 +268,12 @@
 			"origin": [7.69316, 1.99686, 8],
 			"color": 0,
 			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				{
 					"name": "cross",
 					"origin": [6.09767, 4.57225, 7.95152],
 					"color": 0,
 					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [0, 1, 2, 3, 4, 5]
 				},
 				{
@@ -283,7 +281,6 @@
 					"origin": [7.69316, 1.99686, 8],
 					"color": 0,
 					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [6, 7, 8, 9]
 				}
 			]
@@ -293,7 +290,6 @@
 			"origin": [8.08878, 26.36657, 8.00947],
 			"color": 0,
 			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [10, 11, 12]
 		},
 		{
@@ -301,7 +297,6 @@
 			"origin": [6.25075, 1.49955, 7.99493],
 			"color": 0,
 			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [13, 14, 15, 16]
 		}
 	]

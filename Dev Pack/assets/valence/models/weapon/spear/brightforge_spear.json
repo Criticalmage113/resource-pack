@@ -327,7 +327,7 @@
 		},
 		"fixed": {
 			"translation": [0, -12.5, -0.75],
-			"scale": [2.35, 2.35, 2.35]
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [
@@ -336,7 +336,6 @@
 			"origin": [7.1, 0, 7.05],
 			"color": 0,
 			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [0, 1, 2, 3, 4, 5]
 		},
 		{
@@ -344,7 +343,6 @@
 			"origin": [4.62425, 0, 12.80608],
 			"color": 0,
 			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [6, 7, 8, 9, 10, 11]
 		},
 		{
@@ -352,7 +350,6 @@
 			"origin": [1.47242, 0.98593, 1.9],
 			"color": 0,
 			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [12, 13, 14, 15, 16]
 		},
 		{
@@ -360,7 +357,6 @@
 			"origin": [1.47242, 0.98593, 1.9],
 			"color": 0,
 			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [17, 18, 19, 20, 21]
 		}
 	]

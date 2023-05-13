@@ -99,10 +99,15 @@
 		{"predicate": {"custom_model_data": 9510,"pulling": 1},"model": "valence:weapon/bow/vs_magicbow_0"}, 
     {"predicate": {"pulling": 1,"pull": 0.65,"custom_model_data": 9510},"model": "valence:weapon/bow/vs_magicbow_1"}, 
     {"predicate": {"pulling": 1,"pull": 0.9,"custom_model_data": 9510},"model": "valence:weapon/bow/vs_magicbow_2"},
+	
+	{ "predicate": { "custom_model_data": 9511}, "model": "valence:weapon/bow/ordenai_bow" },
+		{"predicate": {"custom_model_data": 9511,"pulling": 1},"model": "valence:weapon/bow/ordenai_bow_with_arrow"}, 
+    {"predicate": {"pulling": 1,"pull": 0.65,"custom_model_data": 9511},"model": "valence:weapon/bow/ordenai_bow_pulled_1"}, 
+    {"predicate": {"pulling": 1,"pull": 0.9,"custom_model_data": 9511},"model": "valence:weapon/bow/ordenai_bow_pulled_2"},
 
     { "predicate": { "custom_model_data": 15000}, "model": "valence:christmas/christmas_light_whip" },
 		{"predicate": {"custom_model_data": 15000,"pulling": 1},"model": "valence:christmas/christmas_light_whip"}, 
-    {"predicate": {"pulling": 1,"pull": 0.65,"custom_model_data": 9510},"model": "valence:christmas/christmas_light_whip_pulling_1"}, 
-    {"predicate": {"pulling": 1,"pull": 0.9,"custom_model_data": 9510},"model": "valence:christmas/christmas_light_whip_pulling_2"}
+    {"predicate": {"pulling": 1,"pull": 0.65,"custom_model_data": 15000},"model": "valence:christmas/christmas_light_whip_pulling_1"}, 
+    {"predicate": {"pulling": 1,"pull": 0.9,"custom_model_data": 15000},"model": "valence:christmas/christmas_light_whip_pulling_2"}
 	]
 }
